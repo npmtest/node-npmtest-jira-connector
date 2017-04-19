@@ -1,0 +1,1667 @@
+<svg height="26622" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="26622" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 14:25:21 +0000 22666009 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 14:25:21 +0000    13837 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 14:25:21 +0000     2686 bytes  api/application-properties.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 14:25:21 +0000     2838 bytes  api/attachment.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 14:25:21 +0000     2807 bytes  api/auditing.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 14:25:21 +0000     3956 bytes  api/avatar.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 14:25:21 +0000     3803 bytes  api/board.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 14:25:21 +0000     5759 bytes  api/comment.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 14:25:21 +0000     4468 bytes  api/component.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 14:25:21 +0000     1271 bytes  api/customFieldOption.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 14:25:21 +0000     2805 bytes  api/dashboard.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 14:25:21 +0000     1660 bytes  api/field.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 14:25:21 +0000     9492 bytes  api/filter.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 14:25:21 +0000     5472 bytes  api/group.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 14:25:21 +0000     2553 bytes  api/groupUserPicker.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 14:25:21 +0000     1762 bytes  api/groups.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 14:25:21 +0000    56843 bytes  api/issue.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 14:25:21 +0000     3835 bytes  api/issueLink.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 14:25:21 +0000     4774 bytes  api/issueLinkType.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 14:25:21 +0000     1650 bytes  api/issueType.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 14:25:21 +0000      956 bytes  api/jql.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 14:25:21 +0000     2646 bytes  api/licenseRole.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 14:25:21 +0000     1032 bytes  api/licenseValidator.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 14:25:21 +0000     2248 bytes  api/myPermissions.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-19 14:25:21 +0000     2959 bytes  api/myPreferences.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-19 14:25:21 +0000     2504 bytes  api/myself.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-19 14:25:21 +0000     1312 bytes  api/password.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-19 14:25:21 +0000     1626 bytes  api/priority.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-19 14:25:21 +0000     9889 bytes  api/project.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-19 14:25:21 +0000     1772 bytes  api/projectCategory.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-19 14:25:21 +0000     1280 bytes  api/projectValidate.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-19 14:25:21 +0000     2932 bytes  api/reindex.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-19 14:25:21 +0000     1663 bytes  api/resolution.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-19 14:25:21 +0000    10317 bytes  api/screens.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-19 14:25:21 +0000     3298 bytes  api/search.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-19 14:25:21 +0000     1082 bytes  api/securityLevel.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-19 14:25:21 +0000     1111 bytes  api/serverInfo.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-19 14:25:21 +0000     1656 bytes  api/settings.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-19 14:25:21 +0000     6760 bytes  api/sprint.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-19 14:25:21 +0000     1576 bytes  api/status.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-19 14:25:21 +0000     1769 bytes  api/statusCategory.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-19 14:25:21 +0000    22806 bytes  api/user.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-19 14:25:21 +0000    11456 bytes  api/version.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-19 14:25:21 +0000     3531 bytes  api/webhook.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-19 14:25:21 +0000     1167 bytes  api/workflow.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-19 14:25:21 +0000    23597 bytes  api/workflowScheme.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-19 14:25:21 +0000     3304 bytes  api/worklog.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-19 14:25:21 +0000    12040 bytes  docs/jira-connector/1.10.0/ApplicationProperties\</tspan>
+<tspan x="10" y="794">Client.html</tspan>
+<tspan x="10" y="810"> 48.  2017-04-19 14:25:21 +0000    11274 bytes  docs/jira-connector/1.10.0/AttachmentClient.html</tspan>
+<tspan x="10" y="826"> 49.  2017-04-19 14:25:21 +0000    12134 bytes  docs/jira-connector/1.10.0/AuditingClient.html</tspan>
+<tspan x="10" y="842"> 50.  2017-04-19 14:25:21 +0000    13376 bytes  docs/jira-connector/1.10.0/AvatarClient.html</tspan>
+<tspan x="10" y="858"> 51.  2017-04-19 14:25:21 +0000    15700 bytes  docs/jira-connector/1.10.0/CommentClient.html</tspan>
+<tspan x="10" y="874"> 52.  2017-04-19 14:25:21 +0000    17434 bytes  docs/jira-connector/1.10.0/ComponentClient.html</tspan>
+<tspan x="10" y="890"> 53.  2017-04-19 14:25:21 +0000     7631 bytes  docs/jira-connector/1.10.0/CustomFieldOptionClie\</tspan>
+<tspan x="10" y="906">nt.html</tspan>
+<tspan x="10" y="922"> 54.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.10.0/DashboardClient.html</tspan>
+<tspan x="10" y="938"> 55.  2017-04-19 14:25:21 +0000     8979 bytes  docs/jira-connector/1.10.0/FieldClient.html</tspan>
+<tspan x="10" y="954"> 56.  2017-04-19 14:25:21 +0000    28698 bytes  docs/jira-connector/1.10.0/FilterClient.html</tspan>
+<tspan x="10" y="970"> 57.  2017-04-19 14:25:21 +0000    18848 bytes  docs/jira-connector/1.10.0/GroupClient.html</tspan>
+<tspan x="10" y="986"> 58.  2017-04-19 14:25:21 +0000    11339 bytes  docs/jira-connector/1.10.0/GroupUserPickerClient\</tspan>
+<tspan x="10" y="1002">.html</tspan>
+<tspan x="10" y="1018"> 59.  2017-04-19 14:25:21 +0000     8694 bytes  docs/jira-connector/1.10.0/GroupsClient.html</tspan>
+<tspan x="10" y="1034"> 60.  2017-04-19 14:25:21 +0000   156906 bytes  docs/jira-connector/1.10.0/IssueClient.html</tspan>
+<tspan x="10" y="1050"> 61.  2017-04-19 14:25:21 +0000    12677 bytes  docs/jira-connector/1.10.0/IssueLinkClient.html</tspan>
+<tspan x="10" y="1066"> 62.  2017-04-19 14:25:21 +0000    16251 bytes  docs/jira-connector/1.10.0/IssueLinkTypeClient.h\</tspan>
+<tspan x="10" y="1082">tml</tspan>
+<tspan x="10" y="1098"> 63.  2017-04-19 14:25:21 +0000     8943 bytes  docs/jira-connector/1.10.0/IssueTypeClient.html</tspan>
+<tspan x="10" y="1114"> 64.  2017-04-19 14:25:21 +0000    34127 bytes  docs/jira-connector/1.10.0/JiraClient.html</tspan>
+<tspan x="10" y="1130"> 65.  2017-04-19 14:25:21 +0000     6771 bytes  docs/jira-connector/1.10.0/JqlClient.html</tspan>
+<tspan x="10" y="1146"> 66.  2017-04-19 14:25:21 +0000    11658 bytes  docs/jira-connector/1.10.0/LicenseRoleClient.htm\</tspan>
+<tspan x="10" y="1162">l</tspan>
+<tspan x="10" y="1178"> 67.  2017-04-19 14:25:21 +0000     7387 bytes  docs/jira-connector/1.10.0/LicenseValidatorClien\</tspan>
+<tspan x="10" y="1194">t.html</tspan>
+<tspan x="10" y="1210"> 68.  2017-04-19 14:25:21 +0000     8072 bytes  docs/jira-connector/1.10.0/MyPermissionsClient.h\</tspan>
+<tspan x="10" y="1226">tml</tspan>
+<tspan x="10" y="1242"> 69.  2017-04-19 14:25:21 +0000    12304 bytes  docs/jira-connector/1.10.0/MyPreferencesClient.h\</tspan>
+<tspan x="10" y="1258">tml</tspan>
+<tspan x="10" y="1274"> 70.  2017-04-19 14:25:21 +0000    11243 bytes  docs/jira-connector/1.10.0/MyselfClient.html</tspan>
+<tspan x="10" y="1290"> 71.  2017-04-19 14:25:21 +0000    33499 bytes  docs/jira-connector/1.10.0/OauthUtil.html</tspan>
+<tspan x="10" y="1306"> 72.  2017-04-19 14:25:21 +0000     8038 bytes  docs/jira-connector/1.10.0/PasswordClient.html</tspan>
+<tspan x="10" y="1322"> 73.  2017-04-19 14:25:21 +0000     8916 bytes  docs/jira-connector/1.10.0/PriorityClient.html</tspan>
+<tspan x="10" y="1338"> 74.  2017-04-19 14:25:21 +0000     9090 bytes  docs/jira-connector/1.10.0/ProjectCategoryClient\</tspan>
+<tspan x="10" y="1354">.html</tspan>
+<tspan x="10" y="1370"> 75.  2017-04-19 14:25:21 +0000    25871 bytes  docs/jira-connector/1.10.0/ProjectClient.html</tspan>
+<tspan x="10" y="1386"> 76.  2017-04-19 14:25:21 +0000     7696 bytes  docs/jira-connector/1.10.0/ProjectValidateClient\</tspan>
+<tspan x="10" y="1402">.html</tspan>
+<tspan x="10" y="1418"> 77.  2017-04-19 14:25:21 +0000    12308 bytes  docs/jira-connector/1.10.0/ReindexClient.html</tspan>
+<tspan x="10" y="1434"> 78.  2017-04-19 14:25:21 +0000     8962 bytes  docs/jira-connector/1.10.0/ResolutionClient.html</tspan>
+<tspan x="10" y="1450"> 79.  2017-04-19 14:25:21 +0000    35662 bytes  docs/jira-connector/1.10.0/ScreensClient.html</tspan>
+<tspan x="10" y="1466"> 80.  2017-04-19 14:25:21 +0000    12401 bytes  docs/jira-connector/1.10.0/SearchClient.html</tspan>
+<tspan x="10" y="1482"> 81.  2017-04-19 14:25:21 +0000     7481 bytes  docs/jira-connector/1.10.0/SecurityLevelClient.h\</tspan>
+<tspan x="10" y="1498">tml</tspan>
+<tspan x="10" y="1514"> 82.  2017-04-19 14:25:21 +0000     7719 bytes  docs/jira-connector/1.10.0/ServerInfoClient.html</tspan>
+<tspan x="10" y="1530"> 83.  2017-04-19 14:25:21 +0000     8931 bytes  docs/jira-connector/1.10.0/SettingsClient.html</tspan>
+<tspan x="10" y="1546"> 84.  2017-04-19 14:25:21 +0000     9078 bytes  docs/jira-connector/1.10.0/StatusCategoryClient.\</tspan>
+<tspan x="10" y="1562">html</tspan>
+<tspan x="10" y="1578"> 85.  2017-04-19 14:25:21 +0000     8864 bytes  docs/jira-connector/1.10.0/StatusClient.html</tspan>
+<tspan x="10" y="1594"> 86.  2017-04-19 14:25:21 +0000    67495 bytes  docs/jira-connector/1.10.0/UserClient.html</tspan>
+<tspan x="10" y="1610"> 87.  2017-04-19 14:25:21 +0000    37581 bytes  docs/jira-connector/1.10.0/VersionClient.html</tspan>
+<tspan x="10" y="1626"> 88.  2017-04-19 14:25:21 +0000     7715 bytes  docs/jira-connector/1.10.0/WorkflowClient.html</tspan>
+<tspan x="10" y="1642"> 89.  2017-04-19 14:25:21 +0000    73877 bytes  docs/jira-connector/1.10.0/WorkflowSchemeClient.\</tspan>
+<tspan x="10" y="1658">html</tspan>
+<tspan x="10" y="1674"> 90.  2017-04-19 14:25:21 +0000     6259 bytes  docs/jira-connector/1.10.0/api_application-prope\</tspan>
+<tspan x="10" y="1690">rties.js.html</tspan>
+<tspan x="10" y="1706"> 91.  2017-04-19 14:25:21 +0000     6308 bytes  docs/jira-connector/1.10.0/api_attachment.js.htm\</tspan>
+<tspan x="10" y="1722">l</tspan>
+<tspan x="10" y="1738"> 92.  2017-04-19 14:25:21 +0000     6368 bytes  docs/jira-connector/1.10.0/api_auditing.js.html</tspan>
+<tspan x="10" y="1754"> 93.  2017-04-19 14:25:21 +0000     7431 bytes  docs/jira-connector/1.10.0/api_avatar.js.html</tspan>
+<tspan x="10" y="1770"> 94.  2017-04-19 14:25:21 +0000     9141 bytes  docs/jira-connector/1.10.0/api_comment.js.html</tspan>
+<tspan x="10" y="1786"> 95.  2017-04-19 14:25:21 +0000     7773 bytes  docs/jira-connector/1.10.0/api_component.js.html</tspan>
+<tspan x="10" y="1802"> 96.  2017-04-19 14:25:21 +0000     4883 bytes  docs/jira-connector/1.10.0/api_customFieldOption\</tspan>
+<tspan x="10" y="1818">.js.html</tspan>
+<tspan x="10" y="1834"> 97.  2017-04-19 14:25:21 +0000     6344 bytes  docs/jira-connector/1.10.0/api_dashboard.js.html</tspan>
+<tspan x="10" y="1850"> 98.  2017-04-19 14:25:21 +0000     5193 bytes  docs/jira-connector/1.10.0/api_field.js.html</tspan>
+<tspan x="10" y="1866"> 99.  2017-04-19 14:25:21 +0000    12379 bytes  docs/jira-connector/1.10.0/api_filter.js.html</tspan>
+<tspan x="10" y="1882">100.  2017-04-19 14:25:21 +0000     8779 bytes  docs/jira-connector/1.10.0/api_group.js.html</tspan>
+<tspan x="10" y="1898">101.  2017-04-19 14:25:21 +0000     6196 bytes  docs/jira-connector/1.10.0/api_groupUserPicker.j\</tspan>
+<tspan x="10" y="1914">s.html</tspan>
+<tspan x="10" y="1930">102.  2017-04-19 14:25:21 +0000     5380 bytes  docs/jira-connector/1.10.0/api_groups.js.html</tspan>
+<tspan x="10" y="1946">103.  2017-04-19 14:25:21 +0000    52433 bytes  docs/jira-connector/1.10.0/api_issue.js.html</tspan>
+<tspan x="10" y="1962">104.  2017-04-19 14:25:21 +0000     7300 bytes  docs/jira-connector/1.10.0/api_issueLink.js.html</tspan>
+<tspan x="10" y="1978">105.  2017-04-19 14:25:21 +0000     8054 bytes  docs/jira-connector/1.10.0/api_issueLinkType.js.\</tspan>
+<tspan x="10" y="1994">html</tspan>
+<tspan x="10" y="2010">106.  2017-04-19 14:25:21 +0000     5186 bytes  docs/jira-connector/1.10.0/api_issueType.js.html</tspan>
+<tspan x="10" y="2026">107.  2017-04-19 14:25:21 +0000     4565 bytes  docs/jira-connector/1.10.0/api_jql.js.html</tspan>
+<tspan x="10" y="2042">108.  2017-04-19 14:25:21 +0000     6112 bytes  docs/jira-connector/1.10.0/api_licenseRole.js.ht\</tspan>
+<tspan x="10" y="2058">ml</tspan>
+<tspan x="10" y="2074">109.  2017-04-19 14:25:21 +0000     4648 bytes  docs/jira-connector/1.10.0/api_licenseValidator.\</tspan>
+<tspan x="10" y="2090">js.html</tspan>
+<tspan x="10" y="2106">110.  2017-04-19 14:25:21 +0000     5876 bytes  docs/jira-connector/1.10.0/api_myPermissions.js.\</tspan>
+<tspan x="10" y="2122">html</tspan>
+<tspan x="10" y="2138">111.  2017-04-19 14:25:21 +0000     6427 bytes  docs/jira-connector/1.10.0/api_myPreferences.js.\</tspan>
+<tspan x="10" y="2154">html</tspan>
+<tspan x="10" y="2170">112.  2017-04-19 14:25:21 +0000     5962 bytes  docs/jira-connector/1.10.0/api_myself.js.html</tspan>
+<tspan x="10" y="2186">113.  2017-04-19 14:25:21 +0000     4926 bytes  docs/jira-connector/1.10.0/api_password.js.html</tspan>
+<tspan x="10" y="2202">114.  2017-04-19 14:25:21 +0000     5163 bytes  docs/jira-connector/1.10.0/api_priority.js.html</tspan>
+<tspan x="10" y="2218">115.  2017-04-19 14:25:21 +0000    11035 bytes  docs/jira-connector/1.10.0/api_project.js.html</tspan>
+<tspan x="10" y="2234">116.  2017-04-19 14:25:21 +0000     5310 bytes  docs/jira-connector/1.10.0/api_projectCategory.j\</tspan>
+<tspan x="10" y="2250">s.html</tspan>
+<tspan x="10" y="2266">117.  2017-04-19 14:25:21 +0000     4920 bytes  docs/jira-connector/1.10.0/api_projectValidate.j\</tspan>
+<tspan x="10" y="2282">s.html</tspan>
+<tspan x="10" y="2298">118.  2017-04-19 14:25:21 +0000     6469 bytes  docs/jira-connector/1.10.0/api_reindex.js.html</tspan>
+<tspan x="10" y="2314">119.  2017-04-19 14:25:21 +0000     5201 bytes  docs/jira-connector/1.10.0/api_resolution.js.htm\</tspan>
+<tspan x="10" y="2330">l</tspan>
+<tspan x="10" y="2346">120.  2017-04-19 14:25:21 +0000    13097 bytes  docs/jira-connector/1.10.0/api_screens.js.html</tspan>
+<tspan x="10" y="2362">121.  2017-04-19 14:25:21 +0000     6740 bytes  docs/jira-connector/1.10.0/api_search.js.html</tspan>
+<tspan x="10" y="2378">122.  2017-04-19 14:25:21 +0000     4707 bytes  docs/jira-connector/1.10.0/api_securityLevel.js.\</tspan>
+<tspan x="10" y="2394">html</tspan>
+<tspan x="10" y="2410">123.  2017-04-19 14:25:21 +0000     4733 bytes  docs/jira-connector/1.10.0/api_serverInfo.js.htm\</tspan>
+<tspan x="10" y="2426">l</tspan>
+<tspan x="10" y="2442">124.  2017-04-19 14:25:21 +0000     5203 bytes  docs/jira-connector/1.10.0/api_settings.js.html</tspan>
+<tspan x="10" y="2458">125.  2017-04-19 14:25:21 +0000     5119 bytes  docs/jira-connector/1.10.0/api_status.js.html</tspan>
+<tspan x="10" y="2474">126.  2017-04-19 14:25:21 +0000     5306 bytes  docs/jira-connector/1.10.0/api_statusCategory.js\</tspan>
+<tspan x="10" y="2490">.html</tspan>
+<tspan x="10" y="2506">127.  2017-04-19 14:25:21 +0000    24753 bytes  docs/jira-connector/1.10.0/api_user.js.html</tspan>
+<tspan x="10" y="2522">128.  2017-04-19 14:25:21 +0000    14161 bytes  docs/jira-connector/1.10.0/api_version.js.html</tspan>
+<tspan x="10" y="2538">129.  2017-04-19 14:25:21 +0000     4800 bytes  docs/jira-connector/1.10.0/api_workflow.js.html</tspan>
+<tspan x="10" y="2554">130.  2017-04-19 14:25:21 +0000    25175 bytes  docs/jira-connector/1.10.0/api_workflowScheme.js\</tspan>
+<tspan x="10" y="2570">.html</tspan>
+<tspan x="10" y="2586">131.  2017-04-19 14:25:21 +0000    19544 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="2602">ebfont.eot</tspan>
+<tspan x="10" y="2618">132.  2017-04-19 14:25:21 +0000   118259 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="2634">ebfont.svg</tspan>
+<tspan x="10" y="2650">133.  2017-04-19 14:25:21 +0000    22432 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="2666">ebfont.woff</tspan>
+<tspan x="10" y="2682">134.  2017-04-19 14:25:21 +0000    20133 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="2698">alic-webfont.eot</tspan>
+<tspan x="10" y="2714">135.  2017-04-19 14:25:21 +0000   121112 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="2730">alic-webfont.svg</tspan>
+<tspan x="10" y="2746">136.  2017-04-19 14:25:21 +0000    23048 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="2762">alic-webfont.woff</tspan>
+<tspan x="10" y="2778">137.  2017-04-19 14:25:21 +0000    20265 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="2794">-webfont.eot</tspan>
+<tspan x="10" y="2810">138.  2017-04-19 14:25:21 +0000   122495 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="2826">-webfont.svg</tspan>
+<tspan x="10" y="2842">139.  2017-04-19 14:25:21 +0000    23188 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="2858">-webfont.woff</tspan>
+<tspan x="10" y="2874">140.  2017-04-19 14:25:21 +0000    19514 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="2890">webfont.eot</tspan>
+<tspan x="10" y="2906">141.  2017-04-19 14:25:21 +0000   117270 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="2922">webfont.svg</tspan>
+<tspan x="10" y="2938">142.  2017-04-19 14:25:21 +0000    22248 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="2954">webfont.woff</tspan>
+<tspan x="10" y="2970">143.  2017-04-19 14:25:21 +0000    20535 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="2986">talic-webfont.eot</tspan>
+<tspan x="10" y="3002">144.  2017-04-19 14:25:21 +0000   122968 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="3018">talic-webfont.svg</tspan>
+<tspan x="10" y="3034">145.  2017-04-19 14:25:21 +0000    23400 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="3050">talic-webfont.woff</tspan>
+<tspan x="10" y="3066">146.  2017-04-19 14:25:21 +0000    19836 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="3082">r-webfont.eot</tspan>
+<tspan x="10" y="3098">147.  2017-04-19 14:25:21 +0000   119399 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="3114">r-webfont.svg</tspan>
+<tspan x="10" y="3130">148.  2017-04-19 14:25:21 +0000    22660 bytes  docs/jira-connector/1.10.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="3146">r-webfont.woff</tspan>
+<tspan x="10" y="3162">149.  2017-04-19 14:25:21 +0000    19620 bytes  docs/jira-connector/1.10.0/index.html</tspan>
+<tspan x="10" y="3178">150.  2017-04-19 14:25:21 +0000    14706 bytes  docs/jira-connector/1.10.0/index.js.html</tspan>
+<tspan x="10" y="3194">151.  2017-04-19 14:25:21 +0000    10901 bytes  docs/jira-connector/1.10.0/lib_oauth_util.js.htm\</tspan>
+<tspan x="10" y="3210">l</tspan>
+<tspan x="10" y="3226">152.  2017-04-19 14:25:21 +0000      674 bytes  docs/jira-connector/1.10.0/scripts/linenumber.js</tspan>
+<tspan x="10" y="3242">153.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.10.0/scripts/prettify/Apac\</tspan>
+<tspan x="10" y="3258">he-License-2.0.txt</tspan>
+<tspan x="10" y="3274">154.  2017-04-19 14:25:21 +0000      861 bytes  docs/jira-connector/1.10.0/scripts/prettify/lang\</tspan>
+<tspan x="10" y="3290">-css.js</tspan>
+<tspan x="10" y="3306">155.  2017-04-19 14:25:21 +0000    13632 bytes  docs/jira-connector/1.10.0/scripts/prettify/pret\</tspan>
+<tspan x="10" y="3322">tify.js</tspan>
+<tspan x="10" y="3338">156.  2017-04-19 14:25:21 +0000     5956 bytes  docs/jira-connector/1.10.0/styles/jsdoc-default.\</tspan>
+<tspan x="10" y="3354">css</tspan>
+<tspan x="10" y="3370">157.  2017-04-19 14:25:21 +0000     1535 bytes  docs/jira-connector/1.10.0/styles/prettify-jsdoc\</tspan>
+<tspan x="10" y="3386">.css</tspan>
+<tspan x="10" y="3402">158.  2017-04-19 14:25:21 +0000     2026 bytes  docs/jira-connector/1.10.0/styles/prettify-tomor\</tspan>
+<tspan x="10" y="3418">row.css</tspan>
+<tspan x="10" y="3434">159.  2017-04-19 14:25:21 +0000    12040 bytes  docs/jira-connector/1.11.0/ApplicationProperties\</tspan>
+<tspan x="10" y="3450">Client.html</tspan>
+<tspan x="10" y="3466">160.  2017-04-19 14:25:21 +0000    11274 bytes  docs/jira-connector/1.11.0/AttachmentClient.html</tspan>
+<tspan x="10" y="3482">161.  2017-04-19 14:25:21 +0000    12134 bytes  docs/jira-connector/1.11.0/AuditingClient.html</tspan>
+<tspan x="10" y="3498">162.  2017-04-19 14:25:21 +0000    13376 bytes  docs/jira-connector/1.11.0/AvatarClient.html</tspan>
+<tspan x="10" y="3514">163.  2017-04-19 14:25:21 +0000    15700 bytes  docs/jira-connector/1.11.0/CommentClient.html</tspan>
+<tspan x="10" y="3530">164.  2017-04-19 14:25:21 +0000    17434 bytes  docs/jira-connector/1.11.0/ComponentClient.html</tspan>
+<tspan x="10" y="3546">165.  2017-04-19 14:25:21 +0000     7631 bytes  docs/jira-connector/1.11.0/CustomFieldOptionClie\</tspan>
+<tspan x="10" y="3562">nt.html</tspan>
+<tspan x="10" y="3578">166.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.11.0/DashboardClient.html</tspan>
+<tspan x="10" y="3594">167.  2017-04-19 14:25:21 +0000     8979 bytes  docs/jira-connector/1.11.0/FieldClient.html</tspan>
+<tspan x="10" y="3610">168.  2017-04-19 14:25:21 +0000    28698 bytes  docs/jira-connector/1.11.0/FilterClient.html</tspan>
+<tspan x="10" y="3626">169.  2017-04-19 14:25:21 +0000    18848 bytes  docs/jira-connector/1.11.0/GroupClient.html</tspan>
+<tspan x="10" y="3642">170.  2017-04-19 14:25:21 +0000    11339 bytes  docs/jira-connector/1.11.0/GroupUserPickerClient\</tspan>
+<tspan x="10" y="3658">.html</tspan>
+<tspan x="10" y="3674">171.  2017-04-19 14:25:21 +0000     8694 bytes  docs/jira-connector/1.11.0/GroupsClient.html</tspan>
+<tspan x="10" y="3690">172.  2017-04-19 14:25:21 +0000   156906 bytes  docs/jira-connector/1.11.0/IssueClient.html</tspan>
+<tspan x="10" y="3706">173.  2017-04-19 14:25:21 +0000    12677 bytes  docs/jira-connector/1.11.0/IssueLinkClient.html</tspan>
+<tspan x="10" y="3722">174.  2017-04-19 14:25:21 +0000    16251 bytes  docs/jira-connector/1.11.0/IssueLinkTypeClient.h\</tspan>
+<tspan x="10" y="3738">tml</tspan>
+<tspan x="10" y="3754">175.  2017-04-19 14:25:21 +0000     8943 bytes  docs/jira-connector/1.11.0/IssueTypeClient.html</tspan>
+<tspan x="10" y="3770">176.  2017-04-19 14:25:21 +0000    34127 bytes  docs/jira-connector/1.11.0/JiraClient.html</tspan>
+<tspan x="10" y="3786">177.  2017-04-19 14:25:21 +0000     6771 bytes  docs/jira-connector/1.11.0/JqlClient.html</tspan>
+<tspan x="10" y="3802">178.  2017-04-19 14:25:21 +0000    11658 bytes  docs/jira-connector/1.11.0/LicenseRoleClient.htm\</tspan>
+<tspan x="10" y="3818">l</tspan>
+<tspan x="10" y="3834">179.  2017-04-19 14:25:21 +0000     7387 bytes  docs/jira-connector/1.11.0/LicenseValidatorClien\</tspan>
+<tspan x="10" y="3850">t.html</tspan>
+<tspan x="10" y="3866">180.  2017-04-19 14:25:21 +0000     8072 bytes  docs/jira-connector/1.11.0/MyPermissionsClient.h\</tspan>
+<tspan x="10" y="3882">tml</tspan>
+<tspan x="10" y="3898">181.  2017-04-19 14:25:21 +0000    12304 bytes  docs/jira-connector/1.11.0/MyPreferencesClient.h\</tspan>
+<tspan x="10" y="3914">tml</tspan>
+<tspan x="10" y="3930">182.  2017-04-19 14:25:21 +0000    11243 bytes  docs/jira-connector/1.11.0/MyselfClient.html</tspan>
+<tspan x="10" y="3946">183.  2017-04-19 14:25:21 +0000    33499 bytes  docs/jira-connector/1.11.0/OauthUtil.html</tspan>
+<tspan x="10" y="3962">184.  2017-04-19 14:25:21 +0000     8038 bytes  docs/jira-connector/1.11.0/PasswordClient.html</tspan>
+<tspan x="10" y="3978">185.  2017-04-19 14:25:21 +0000     8916 bytes  docs/jira-connector/1.11.0/PriorityClient.html</tspan>
+<tspan x="10" y="3994">186.  2017-04-19 14:25:21 +0000     9090 bytes  docs/jira-connector/1.11.0/ProjectCategoryClient\</tspan>
+<tspan x="10" y="4010">.html</tspan>
+<tspan x="10" y="4026">187.  2017-04-19 14:25:21 +0000    25871 bytes  docs/jira-connector/1.11.0/ProjectClient.html</tspan>
+<tspan x="10" y="4042">188.  2017-04-19 14:25:21 +0000     7696 bytes  docs/jira-connector/1.11.0/ProjectValidateClient\</tspan>
+<tspan x="10" y="4058">.html</tspan>
+<tspan x="10" y="4074">189.  2017-04-19 14:25:21 +0000    12308 bytes  docs/jira-connector/1.11.0/ReindexClient.html</tspan>
+<tspan x="10" y="4090">190.  2017-04-19 14:25:21 +0000     8962 bytes  docs/jira-connector/1.11.0/ResolutionClient.html</tspan>
+<tspan x="10" y="4106">191.  2017-04-19 14:25:21 +0000    35662 bytes  docs/jira-connector/1.11.0/ScreensClient.html</tspan>
+<tspan x="10" y="4122">192.  2017-04-19 14:25:21 +0000    12401 bytes  docs/jira-connector/1.11.0/SearchClient.html</tspan>
+<tspan x="10" y="4138">193.  2017-04-19 14:25:21 +0000     7481 bytes  docs/jira-connector/1.11.0/SecurityLevelClient.h\</tspan>
+<tspan x="10" y="4154">tml</tspan>
+<tspan x="10" y="4170">194.  2017-04-19 14:25:21 +0000     7719 bytes  docs/jira-connector/1.11.0/ServerInfoClient.html</tspan>
+<tspan x="10" y="4186">195.  2017-04-19 14:25:21 +0000     8931 bytes  docs/jira-connector/1.11.0/SettingsClient.html</tspan>
+<tspan x="10" y="4202">196.  2017-04-19 14:25:21 +0000     9078 bytes  docs/jira-connector/1.11.0/StatusCategoryClient.\</tspan>
+<tspan x="10" y="4218">html</tspan>
+<tspan x="10" y="4234">197.  2017-04-19 14:25:21 +0000     8864 bytes  docs/jira-connector/1.11.0/StatusClient.html</tspan>
+<tspan x="10" y="4250">198.  2017-04-19 14:25:21 +0000    67495 bytes  docs/jira-connector/1.11.0/UserClient.html</tspan>
+<tspan x="10" y="4266">199.  2017-04-19 14:25:21 +0000    37581 bytes  docs/jira-connector/1.11.0/VersionClient.html</tspan>
+<tspan x="10" y="4282">200.  2017-04-19 14:25:21 +0000     7715 bytes  docs/jira-connector/1.11.0/WorkflowClient.html</tspan>
+<tspan x="10" y="4298">201.  2017-04-19 14:25:21 +0000    73877 bytes  docs/jira-connector/1.11.0/WorkflowSchemeClient.\</tspan>
+<tspan x="10" y="4314">html</tspan>
+<tspan x="10" y="4330">202.  2017-04-19 14:25:21 +0000     6259 bytes  docs/jira-connector/1.11.0/api_application-prope\</tspan>
+<tspan x="10" y="4346">rties.js.html</tspan>
+<tspan x="10" y="4362">203.  2017-04-19 14:25:21 +0000     6308 bytes  docs/jira-connector/1.11.0/api_attachment.js.htm\</tspan>
+<tspan x="10" y="4378">l</tspan>
+<tspan x="10" y="4394">204.  2017-04-19 14:25:21 +0000     6368 bytes  docs/jira-connector/1.11.0/api_auditing.js.html</tspan>
+<tspan x="10" y="4410">205.  2017-04-19 14:25:21 +0000     7431 bytes  docs/jira-connector/1.11.0/api_avatar.js.html</tspan>
+<tspan x="10" y="4426">206.  2017-04-19 14:25:21 +0000     9141 bytes  docs/jira-connector/1.11.0/api_comment.js.html</tspan>
+<tspan x="10" y="4442">207.  2017-04-19 14:25:21 +0000     7773 bytes  docs/jira-connector/1.11.0/api_component.js.html</tspan>
+<tspan x="10" y="4458">208.  2017-04-19 14:25:21 +0000     4883 bytes  docs/jira-connector/1.11.0/api_customFieldOption\</tspan>
+<tspan x="10" y="4474">.js.html</tspan>
+<tspan x="10" y="4490">209.  2017-04-19 14:25:21 +0000     6344 bytes  docs/jira-connector/1.11.0/api_dashboard.js.html</tspan>
+<tspan x="10" y="4506">210.  2017-04-19 14:25:21 +0000     5193 bytes  docs/jira-connector/1.11.0/api_field.js.html</tspan>
+<tspan x="10" y="4522">211.  2017-04-19 14:25:21 +0000    12379 bytes  docs/jira-connector/1.11.0/api_filter.js.html</tspan>
+<tspan x="10" y="4538">212.  2017-04-19 14:25:21 +0000     8779 bytes  docs/jira-connector/1.11.0/api_group.js.html</tspan>
+<tspan x="10" y="4554">213.  2017-04-19 14:25:21 +0000     6196 bytes  docs/jira-connector/1.11.0/api_groupUserPicker.j\</tspan>
+<tspan x="10" y="4570">s.html</tspan>
+<tspan x="10" y="4586">214.  2017-04-19 14:25:21 +0000     5380 bytes  docs/jira-connector/1.11.0/api_groups.js.html</tspan>
+<tspan x="10" y="4602">215.  2017-04-19 14:25:21 +0000    52433 bytes  docs/jira-connector/1.11.0/api_issue.js.html</tspan>
+<tspan x="10" y="4618">216.  2017-04-19 14:25:21 +0000     7300 bytes  docs/jira-connector/1.11.0/api_issueLink.js.html</tspan>
+<tspan x="10" y="4634">217.  2017-04-19 14:25:21 +0000     8054 bytes  docs/jira-connector/1.11.0/api_issueLinkType.js.\</tspan>
+<tspan x="10" y="4650">html</tspan>
+<tspan x="10" y="4666">218.  2017-04-19 14:25:21 +0000     5186 bytes  docs/jira-connector/1.11.0/api_issueType.js.html</tspan>
+<tspan x="10" y="4682">219.  2017-04-19 14:25:21 +0000     4565 bytes  docs/jira-connector/1.11.0/api_jql.js.html</tspan>
+<tspan x="10" y="4698">220.  2017-04-19 14:25:21 +0000     6112 bytes  docs/jira-connector/1.11.0/api_licenseRole.js.ht\</tspan>
+<tspan x="10" y="4714">ml</tspan>
+<tspan x="10" y="4730">221.  2017-04-19 14:25:21 +0000     4648 bytes  docs/jira-connector/1.11.0/api_licenseValidator.\</tspan>
+<tspan x="10" y="4746">js.html</tspan>
+<tspan x="10" y="4762">222.  2017-04-19 14:25:21 +0000     5876 bytes  docs/jira-connector/1.11.0/api_myPermissions.js.\</tspan>
+<tspan x="10" y="4778">html</tspan>
+<tspan x="10" y="4794">223.  2017-04-19 14:25:21 +0000     6427 bytes  docs/jira-connector/1.11.0/api_myPreferences.js.\</tspan>
+<tspan x="10" y="4810">html</tspan>
+<tspan x="10" y="4826">224.  2017-04-19 14:25:21 +0000     5962 bytes  docs/jira-connector/1.11.0/api_myself.js.html</tspan>
+<tspan x="10" y="4842">225.  2017-04-19 14:25:21 +0000     4926 bytes  docs/jira-connector/1.11.0/api_password.js.html</tspan>
+<tspan x="10" y="4858">226.  2017-04-19 14:25:21 +0000     5163 bytes  docs/jira-connector/1.11.0/api_priority.js.html</tspan>
+<tspan x="10" y="4874">227.  2017-04-19 14:25:21 +0000    11035 bytes  docs/jira-connector/1.11.0/api_project.js.html</tspan>
+<tspan x="10" y="4890">228.  2017-04-19 14:25:21 +0000     5310 bytes  docs/jira-connector/1.11.0/api_projectCategory.j\</tspan>
+<tspan x="10" y="4906">s.html</tspan>
+<tspan x="10" y="4922">229.  2017-04-19 14:25:21 +0000     4920 bytes  docs/jira-connector/1.11.0/api_projectValidate.j\</tspan>
+<tspan x="10" y="4938">s.html</tspan>
+<tspan x="10" y="4954">230.  2017-04-19 14:25:21 +0000     6469 bytes  docs/jira-connector/1.11.0/api_reindex.js.html</tspan>
+<tspan x="10" y="4970">231.  2017-04-19 14:25:21 +0000     5201 bytes  docs/jira-connector/1.11.0/api_resolution.js.htm\</tspan>
+<tspan x="10" y="4986">l</tspan>
+<tspan x="10" y="5002">232.  2017-04-19 14:25:21 +0000    13097 bytes  docs/jira-connector/1.11.0/api_screens.js.html</tspan>
+<tspan x="10" y="5018">233.  2017-04-19 14:25:21 +0000     6740 bytes  docs/jira-connector/1.11.0/api_search.js.html</tspan>
+<tspan x="10" y="5034">234.  2017-04-19 14:25:21 +0000     4707 bytes  docs/jira-connector/1.11.0/api_securityLevel.js.\</tspan>
+<tspan x="10" y="5050">html</tspan>
+<tspan x="10" y="5066">235.  2017-04-19 14:25:21 +0000     4733 bytes  docs/jira-connector/1.11.0/api_serverInfo.js.htm\</tspan>
+<tspan x="10" y="5082">l</tspan>
+<tspan x="10" y="5098">236.  2017-04-19 14:25:21 +0000     5203 bytes  docs/jira-connector/1.11.0/api_settings.js.html</tspan>
+<tspan x="10" y="5114">237.  2017-04-19 14:25:21 +0000     5119 bytes  docs/jira-connector/1.11.0/api_status.js.html</tspan>
+<tspan x="10" y="5130">238.  2017-04-19 14:25:21 +0000     5306 bytes  docs/jira-connector/1.11.0/api_statusCategory.js\</tspan>
+<tspan x="10" y="5146">.html</tspan>
+<tspan x="10" y="5162">239.  2017-04-19 14:25:21 +0000    24753 bytes  docs/jira-connector/1.11.0/api_user.js.html</tspan>
+<tspan x="10" y="5178">240.  2017-04-19 14:25:21 +0000    14161 bytes  docs/jira-connector/1.11.0/api_version.js.html</tspan>
+<tspan x="10" y="5194">241.  2017-04-19 14:25:21 +0000     4800 bytes  docs/jira-connector/1.11.0/api_workflow.js.html</tspan>
+<tspan x="10" y="5210">242.  2017-04-19 14:25:21 +0000    25175 bytes  docs/jira-connector/1.11.0/api_workflowScheme.js\</tspan>
+<tspan x="10" y="5226">.html</tspan>
+<tspan x="10" y="5242">243.  2017-04-19 14:25:21 +0000    19544 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="5258">ebfont.eot</tspan>
+<tspan x="10" y="5274">244.  2017-04-19 14:25:21 +0000   118259 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="5290">ebfont.svg</tspan>
+<tspan x="10" y="5306">245.  2017-04-19 14:25:21 +0000    22432 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="5322">ebfont.woff</tspan>
+<tspan x="10" y="5338">246.  2017-04-19 14:25:21 +0000    20133 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="5354">alic-webfont.eot</tspan>
+<tspan x="10" y="5370">247.  2017-04-19 14:25:21 +0000   121112 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="5386">alic-webfont.svg</tspan>
+<tspan x="10" y="5402">248.  2017-04-19 14:25:21 +0000    23048 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="5418">alic-webfont.woff</tspan>
+<tspan x="10" y="5434">249.  2017-04-19 14:25:21 +0000    20265 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="5450">-webfont.eot</tspan>
+<tspan x="10" y="5466">250.  2017-04-19 14:25:21 +0000   122495 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="5482">-webfont.svg</tspan>
+<tspan x="10" y="5498">251.  2017-04-19 14:25:21 +0000    23188 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="5514">-webfont.woff</tspan>
+<tspan x="10" y="5530">252.  2017-04-19 14:25:21 +0000    19514 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="5546">webfont.eot</tspan>
+<tspan x="10" y="5562">253.  2017-04-19 14:25:21 +0000   117270 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="5578">webfont.svg</tspan>
+<tspan x="10" y="5594">254.  2017-04-19 14:25:21 +0000    22248 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="5610">webfont.woff</tspan>
+<tspan x="10" y="5626">255.  2017-04-19 14:25:21 +0000    20535 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="5642">talic-webfont.eot</tspan>
+<tspan x="10" y="5658">256.  2017-04-19 14:25:21 +0000   122968 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="5674">talic-webfont.svg</tspan>
+<tspan x="10" y="5690">257.  2017-04-19 14:25:21 +0000    23400 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="5706">talic-webfont.woff</tspan>
+<tspan x="10" y="5722">258.  2017-04-19 14:25:21 +0000    19836 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="5738">r-webfont.eot</tspan>
+<tspan x="10" y="5754">259.  2017-04-19 14:25:21 +0000   119399 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="5770">r-webfont.svg</tspan>
+<tspan x="10" y="5786">260.  2017-04-19 14:25:21 +0000    22660 bytes  docs/jira-connector/1.11.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="5802">r-webfont.woff</tspan>
+<tspan x="10" y="5818">261.  2017-04-19 14:25:21 +0000    19620 bytes  docs/jira-connector/1.11.0/index.html</tspan>
+<tspan x="10" y="5834">262.  2017-04-19 14:25:21 +0000    14706 bytes  docs/jira-connector/1.11.0/index.js.html</tspan>
+<tspan x="10" y="5850">263.  2017-04-19 14:25:21 +0000    10899 bytes  docs/jira-connector/1.11.0/lib_oauth_util.js.htm\</tspan>
+<tspan x="10" y="5866">l</tspan>
+<tspan x="10" y="5882">264.  2017-04-19 14:25:21 +0000      674 bytes  docs/jira-connector/1.11.0/scripts/linenumber.js</tspan>
+<tspan x="10" y="5898">265.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.11.0/scripts/prettify/Apac\</tspan>
+<tspan x="10" y="5914">he-License-2.0.txt</tspan>
+<tspan x="10" y="5930">266.  2017-04-19 14:25:21 +0000      861 bytes  docs/jira-connector/1.11.0/scripts/prettify/lang\</tspan>
+<tspan x="10" y="5946">-css.js</tspan>
+<tspan x="10" y="5962">267.  2017-04-19 14:25:21 +0000    13632 bytes  docs/jira-connector/1.11.0/scripts/prettify/pret\</tspan>
+<tspan x="10" y="5978">tify.js</tspan>
+<tspan x="10" y="5994">268.  2017-04-19 14:25:21 +0000     5956 bytes  docs/jira-connector/1.11.0/styles/jsdoc-default.\</tspan>
+<tspan x="10" y="6010">css</tspan>
+<tspan x="10" y="6026">269.  2017-04-19 14:25:21 +0000     1535 bytes  docs/jira-connector/1.11.0/styles/prettify-jsdoc\</tspan>
+<tspan x="10" y="6042">.css</tspan>
+<tspan x="10" y="6058">270.  2017-04-19 14:25:21 +0000     2026 bytes  docs/jira-connector/1.11.0/styles/prettify-tomor\</tspan>
+<tspan x="10" y="6074">row.css</tspan>
+<tspan x="10" y="6090">271.  2017-04-19 14:25:21 +0000    11969 bytes  docs/jira-connector/1.4.0/ApplicationPropertiesC\</tspan>
+<tspan x="10" y="6106">lient.html</tspan>
+<tspan x="10" y="6122">272.  2017-04-19 14:25:21 +0000    11203 bytes  docs/jira-connector/1.4.0/AttachmentClient.html</tspan>
+<tspan x="10" y="6138">273.  2017-04-19 14:25:21 +0000    12063 bytes  docs/jira-connector/1.4.0/AuditingClient.html</tspan>
+<tspan x="10" y="6154">274.  2017-04-19 14:25:21 +0000    13305 bytes  docs/jira-connector/1.4.0/AvatarClient.html</tspan>
+<tspan x="10" y="6170">275.  2017-04-19 14:25:21 +0000    15629 bytes  docs/jira-connector/1.4.0/CommentClient.html</tspan>
+<tspan x="10" y="6186">276.  2017-04-19 14:25:21 +0000    17363 bytes  docs/jira-connector/1.4.0/ComponentClient.html</tspan>
+<tspan x="10" y="6202">277.  2017-04-19 14:25:21 +0000     7560 bytes  docs/jira-connector/1.4.0/CustomFieldOptionClien\</tspan>
+<tspan x="10" y="6218">t.html</tspan>
+<tspan x="10" y="6234">278.  2017-04-19 14:25:21 +0000    11287 bytes  docs/jira-connector/1.4.0/DashboardClient.html</tspan>
+<tspan x="10" y="6250">279.  2017-04-19 14:25:21 +0000     8908 bytes  docs/jira-connector/1.4.0/FieldClient.html</tspan>
+<tspan x="10" y="6266">280.  2017-04-19 14:25:21 +0000    28627 bytes  docs/jira-connector/1.4.0/FilterClient.html</tspan>
+<tspan x="10" y="6282">281.  2017-04-19 14:25:21 +0000    18777 bytes  docs/jira-connector/1.4.0/GroupClient.html</tspan>
+<tspan x="10" y="6298">282.  2017-04-19 14:25:21 +0000    11268 bytes  docs/jira-connector/1.4.0/GroupUserPickerClient.\</tspan>
+<tspan x="10" y="6314">html</tspan>
+<tspan x="10" y="6330">283.  2017-04-19 14:25:21 +0000     8623 bytes  docs/jira-connector/1.4.0/GroupsClient.html</tspan>
+<tspan x="10" y="6346">284.  2017-04-19 14:25:21 +0000   156231 bytes  docs/jira-connector/1.4.0/IssueClient.html</tspan>
+<tspan x="10" y="6362">285.  2017-04-19 14:25:21 +0000    12606 bytes  docs/jira-connector/1.4.0/IssueLinkClient.html</tspan>
+<tspan x="10" y="6378">286.  2017-04-19 14:25:21 +0000    16180 bytes  docs/jira-connector/1.4.0/IssueLinkTypeClient.ht\</tspan>
+<tspan x="10" y="6394">ml</tspan>
+<tspan x="10" y="6410">287.  2017-04-19 14:25:21 +0000     8872 bytes  docs/jira-connector/1.4.0/IssueTypeClient.html</tspan>
+<tspan x="10" y="6426">288.  2017-04-19 14:25:21 +0000    32942 bytes  docs/jira-connector/1.4.0/JiraClient.html</tspan>
+<tspan x="10" y="6442">289.  2017-04-19 14:25:21 +0000     6700 bytes  docs/jira-connector/1.4.0/JqlClient.html</tspan>
+<tspan x="10" y="6458">290.  2017-04-19 14:25:21 +0000    11587 bytes  docs/jira-connector/1.4.0/LicenseRoleClient.html</tspan>
+<tspan x="10" y="6474">291.  2017-04-19 14:25:21 +0000     7316 bytes  docs/jira-connector/1.4.0/LicenseValidatorClient\</tspan>
+<tspan x="10" y="6490">.html</tspan>
+<tspan x="10" y="6506">292.  2017-04-19 14:25:21 +0000     8001 bytes  docs/jira-connector/1.4.0/MyPermissionsClient.ht\</tspan>
+<tspan x="10" y="6522">ml</tspan>
+<tspan x="10" y="6538">293.  2017-04-19 14:25:21 +0000    12233 bytes  docs/jira-connector/1.4.0/MyPreferencesClient.ht\</tspan>
+<tspan x="10" y="6554">ml</tspan>
+<tspan x="10" y="6570">294.  2017-04-19 14:25:21 +0000    11172 bytes  docs/jira-connector/1.4.0/MyselfClient.html</tspan>
+<tspan x="10" y="6586">295.  2017-04-19 14:25:21 +0000    31984 bytes  docs/jira-connector/1.4.0/OauthUtil.html</tspan>
+<tspan x="10" y="6602">296.  2017-04-19 14:25:21 +0000     7967 bytes  docs/jira-connector/1.4.0/PasswordClient.html</tspan>
+<tspan x="10" y="6618">297.  2017-04-19 14:25:21 +0000     8845 bytes  docs/jira-connector/1.4.0/PriorityClient.html</tspan>
+<tspan x="10" y="6634">298.  2017-04-19 14:25:21 +0000    25800 bytes  docs/jira-connector/1.4.0/ProjectClient.html</tspan>
+<tspan x="10" y="6650">299.  2017-04-19 14:25:21 +0000     7625 bytes  docs/jira-connector/1.4.0/ProjectValidateClient.\</tspan>
+<tspan x="10" y="6666">html</tspan>
+<tspan x="10" y="6682">300.  2017-04-19 14:25:21 +0000    12237 bytes  docs/jira-connector/1.4.0/ReindexClient.html</tspan>
+<tspan x="10" y="6698">301.  2017-04-19 14:25:21 +0000     8891 bytes  docs/jira-connector/1.4.0/ResolutionClient.html</tspan>
+<tspan x="10" y="6714">302.  2017-04-19 14:25:21 +0000    35591 bytes  docs/jira-connector/1.4.0/ScreensClient.html</tspan>
+<tspan x="10" y="6730">303.  2017-04-19 14:25:21 +0000    12330 bytes  docs/jira-connector/1.4.0/SearchClient.html</tspan>
+<tspan x="10" y="6746">304.  2017-04-19 14:25:21 +0000     7410 bytes  docs/jira-connector/1.4.0/SecurityLevelClient.ht\</tspan>
+<tspan x="10" y="6762">ml</tspan>
+<tspan x="10" y="6778">305.  2017-04-19 14:25:21 +0000     7648 bytes  docs/jira-connector/1.4.0/ServerInfoClient.html</tspan>
+<tspan x="10" y="6794">306.  2017-04-19 14:25:21 +0000     8860 bytes  docs/jira-connector/1.4.0/SettingsClient.html</tspan>
+<tspan x="10" y="6810">307.  2017-04-19 14:25:21 +0000     9007 bytes  docs/jira-connector/1.4.0/StatusCategoryClient.h\</tspan>
+<tspan x="10" y="6826">tml</tspan>
+<tspan x="10" y="6842">308.  2017-04-19 14:25:21 +0000     8793 bytes  docs/jira-connector/1.4.0/StatusClient.html</tspan>
+<tspan x="10" y="6858">309.  2017-04-19 14:25:21 +0000    67424 bytes  docs/jira-connector/1.4.0/UserClient.html</tspan>
+<tspan x="10" y="6874">310.  2017-04-19 14:25:21 +0000    37510 bytes  docs/jira-connector/1.4.0/VersionClient.html</tspan>
+<tspan x="10" y="6890">311.  2017-04-19 14:25:21 +0000     7644 bytes  docs/jira-connector/1.4.0/WorkflowClient.html</tspan>
+<tspan x="10" y="6906">312.  2017-04-19 14:25:21 +0000    73806 bytes  docs/jira-connector/1.4.0/WorkflowSchemeClient.h\</tspan>
+<tspan x="10" y="6922">tml</tspan>
+<tspan x="10" y="6938">313.  2017-04-19 14:25:21 +0000     6188 bytes  docs/jira-connector/1.4.0/api_application-proper\</tspan>
+<tspan x="10" y="6954">ties.js.html</tspan>
+<tspan x="10" y="6970">314.  2017-04-19 14:25:21 +0000     6237 bytes  docs/jira-connector/1.4.0/api_attachment.js.html</tspan>
+<tspan x="10" y="6986">315.  2017-04-19 14:25:21 +0000     6297 bytes  docs/jira-connector/1.4.0/api_auditing.js.html</tspan>
+<tspan x="10" y="7002">316.  2017-04-19 14:25:21 +0000     7360 bytes  docs/jira-connector/1.4.0/api_avatar.js.html</tspan>
+<tspan x="10" y="7018">317.  2017-04-19 14:25:21 +0000     9070 bytes  docs/jira-connector/1.4.0/api_comment.js.html</tspan>
+<tspan x="10" y="7034">318.  2017-04-19 14:25:21 +0000     7702 bytes  docs/jira-connector/1.4.0/api_component.js.html</tspan>
+<tspan x="10" y="7050">319.  2017-04-19 14:25:21 +0000     4812 bytes  docs/jira-connector/1.4.0/api_customFieldOption.\</tspan>
+<tspan x="10" y="7066">js.html</tspan>
+<tspan x="10" y="7082">320.  2017-04-19 14:25:21 +0000     6273 bytes  docs/jira-connector/1.4.0/api_dashboard.js.html</tspan>
+<tspan x="10" y="7098">321.  2017-04-19 14:25:21 +0000     5122 bytes  docs/jira-connector/1.4.0/api_field.js.html</tspan>
+<tspan x="10" y="7114">322.  2017-04-19 14:25:21 +0000    12308 bytes  docs/jira-connector/1.4.0/api_filter.js.html</tspan>
+<tspan x="10" y="7130">323.  2017-04-19 14:25:21 +0000     8708 bytes  docs/jira-connector/1.4.0/api_group.js.html</tspan>
+<tspan x="10" y="7146">324.  2017-04-19 14:25:21 +0000     6125 bytes  docs/jira-connector/1.4.0/api_groupUserPicker.js\</tspan>
+<tspan x="10" y="7162">.html</tspan>
+<tspan x="10" y="7178">325.  2017-04-19 14:25:21 +0000     5309 bytes  docs/jira-connector/1.4.0/api_groups.js.html</tspan>
+<tspan x="10" y="7194">326.  2017-04-19 14:25:21 +0000    51994 bytes  docs/jira-connector/1.4.0/api_issue.js.html</tspan>
+<tspan x="10" y="7210">327.  2017-04-19 14:25:21 +0000     7229 bytes  docs/jira-connector/1.4.0/api_issueLink.js.html</tspan>
+<tspan x="10" y="7226">328.  2017-04-19 14:25:21 +0000     7983 bytes  docs/jira-connector/1.4.0/api_issueLinkType.js.h\</tspan>
+<tspan x="10" y="7242">tml</tspan>
+<tspan x="10" y="7258">329.  2017-04-19 14:25:21 +0000     5115 bytes  docs/jira-connector/1.4.0/api_issueType.js.html</tspan>
+<tspan x="10" y="7274">330.  2017-04-19 14:25:21 +0000     4494 bytes  docs/jira-connector/1.4.0/api_jql.js.html</tspan>
+<tspan x="10" y="7290">331.  2017-04-19 14:25:21 +0000     6041 bytes  docs/jira-connector/1.4.0/api_licenseRole.js.htm\</tspan>
+<tspan x="10" y="7306">l</tspan>
+<tspan x="10" y="7322">332.  2017-04-19 14:25:21 +0000     4577 bytes  docs/jira-connector/1.4.0/api_licenseValidator.j\</tspan>
+<tspan x="10" y="7338">s.html</tspan>
+<tspan x="10" y="7354">333.  2017-04-19 14:25:21 +0000     5805 bytes  docs/jira-connector/1.4.0/api_myPermissions.js.h\</tspan>
+<tspan x="10" y="7370">tml</tspan>
+<tspan x="10" y="7386">334.  2017-04-19 14:25:21 +0000     6356 bytes  docs/jira-connector/1.4.0/api_myPreferences.js.h\</tspan>
+<tspan x="10" y="7402">tml</tspan>
+<tspan x="10" y="7418">335.  2017-04-19 14:25:21 +0000     5891 bytes  docs/jira-connector/1.4.0/api_myself.js.html</tspan>
+<tspan x="10" y="7434">336.  2017-04-19 14:25:21 +0000     4855 bytes  docs/jira-connector/1.4.0/api_password.js.html</tspan>
+<tspan x="10" y="7450">337.  2017-04-19 14:25:21 +0000     5092 bytes  docs/jira-connector/1.4.0/api_priority.js.html</tspan>
+<tspan x="10" y="7466">338.  2017-04-19 14:25:21 +0000    10964 bytes  docs/jira-connector/1.4.0/api_project.js.html</tspan>
+<tspan x="10" y="7482">339.  2017-04-19 14:25:21 +0000     4849 bytes  docs/jira-connector/1.4.0/api_projectValidate.js\</tspan>
+<tspan x="10" y="7498">.html</tspan>
+<tspan x="10" y="7514">340.  2017-04-19 14:25:21 +0000     6398 bytes  docs/jira-connector/1.4.0/api_reindex.js.html</tspan>
+<tspan x="10" y="7530">341.  2017-04-19 14:25:21 +0000     5130 bytes  docs/jira-connector/1.4.0/api_resolution.js.html</tspan>
+<tspan x="10" y="7546">342.  2017-04-19 14:25:21 +0000    13026 bytes  docs/jira-connector/1.4.0/api_screens.js.html</tspan>
+<tspan x="10" y="7562">343.  2017-04-19 14:25:21 +0000     6669 bytes  docs/jira-connector/1.4.0/api_search.js.html</tspan>
+<tspan x="10" y="7578">344.  2017-04-19 14:25:21 +0000     4636 bytes  docs/jira-connector/1.4.0/api_securityLevel.js.h\</tspan>
+<tspan x="10" y="7594">tml</tspan>
+<tspan x="10" y="7610">345.  2017-04-19 14:25:21 +0000     4662 bytes  docs/jira-connector/1.4.0/api_serverInfo.js.html</tspan>
+<tspan x="10" y="7626">346.  2017-04-19 14:25:21 +0000     5132 bytes  docs/jira-connector/1.4.0/api_settings.js.html</tspan>
+<tspan x="10" y="7642">347.  2017-04-19 14:25:21 +0000     5048 bytes  docs/jira-connector/1.4.0/api_status.js.html</tspan>
+<tspan x="10" y="7658">348.  2017-04-19 14:25:21 +0000     5235 bytes  docs/jira-connector/1.4.0/api_statusCategory.js.\</tspan>
+<tspan x="10" y="7674">html</tspan>
+<tspan x="10" y="7690">349.  2017-04-19 14:25:21 +0000    24682 bytes  docs/jira-connector/1.4.0/api_user.js.html</tspan>
+<tspan x="10" y="7706">350.  2017-04-19 14:25:21 +0000    14090 bytes  docs/jira-connector/1.4.0/api_version.js.html</tspan>
+<tspan x="10" y="7722">351.  2017-04-19 14:25:21 +0000     4606 bytes  docs/jira-connector/1.4.0/api_workflow.js.html</tspan>
+<tspan x="10" y="7738">352.  2017-04-19 14:25:21 +0000    25104 bytes  docs/jira-connector/1.4.0/api_workflowScheme.js.\</tspan>
+<tspan x="10" y="7754">html</tspan>
+<tspan x="10" y="7770">353.  2017-04-19 14:25:21 +0000    19544 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="7786">bfont.eot</tspan>
+<tspan x="10" y="7802">354.  2017-04-19 14:25:21 +0000   118259 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="7818">bfont.svg</tspan>
+<tspan x="10" y="7834">355.  2017-04-19 14:25:21 +0000    22432 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="7850">bfont.woff</tspan>
+<tspan x="10" y="7866">356.  2017-04-19 14:25:21 +0000    20133 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="7882">lic-webfont.eot</tspan>
+<tspan x="10" y="7898">357.  2017-04-19 14:25:21 +0000   121112 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="7914">lic-webfont.svg</tspan>
+<tspan x="10" y="7930">358.  2017-04-19 14:25:21 +0000    23048 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="7946">lic-webfont.woff</tspan>
+<tspan x="10" y="7962">359.  2017-04-19 14:25:21 +0000    20265 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="7978">webfont.eot</tspan>
+<tspan x="10" y="7994">360.  2017-04-19 14:25:21 +0000   122495 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="8010">webfont.svg</tspan>
+<tspan x="10" y="8026">361.  2017-04-19 14:25:21 +0000    23188 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="8042">webfont.woff</tspan>
+<tspan x="10" y="8058">362.  2017-04-19 14:25:21 +0000    19514 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="8074">ebfont.eot</tspan>
+<tspan x="10" y="8090">363.  2017-04-19 14:25:21 +0000   117270 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="8106">ebfont.svg</tspan>
+<tspan x="10" y="8122">364.  2017-04-19 14:25:21 +0000    22248 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="8138">ebfont.woff</tspan>
+<tspan x="10" y="8154">365.  2017-04-19 14:25:21 +0000    20535 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="8170">alic-webfont.eot</tspan>
+<tspan x="10" y="8186">366.  2017-04-19 14:25:21 +0000   122968 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="8202">alic-webfont.svg</tspan>
+<tspan x="10" y="8218">367.  2017-04-19 14:25:21 +0000    23400 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="8234">alic-webfont.woff</tspan>
+<tspan x="10" y="8250">368.  2017-04-19 14:25:21 +0000    19836 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="8266">-webfont.eot</tspan>
+<tspan x="10" y="8282">369.  2017-04-19 14:25:21 +0000   119399 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="8298">-webfont.svg</tspan>
+<tspan x="10" y="8314">370.  2017-04-19 14:25:21 +0000    22660 bytes  docs/jira-connector/1.4.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="8330">-webfont.woff</tspan>
+<tspan x="10" y="8346">371.  2017-04-19 14:25:21 +0000    19422 bytes  docs/jira-connector/1.4.0/index.html</tspan>
+<tspan x="10" y="8362">372.  2017-04-19 14:25:21 +0000    14278 bytes  docs/jira-connector/1.4.0/index.js.html</tspan>
+<tspan x="10" y="8378">373.  2017-04-19 14:25:21 +0000    10473 bytes  docs/jira-connector/1.4.0/lib_oauth_util.js.html</tspan>
+<tspan x="10" y="8394">374.  2017-04-19 14:25:21 +0000      674 bytes  docs/jira-connector/1.4.0/scripts/linenumber.js</tspan>
+<tspan x="10" y="8410">375.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.4.0/scripts/prettify/Apach\</tspan>
+<tspan x="10" y="8426">e-License-2.0.txt</tspan>
+<tspan x="10" y="8442">376.  2017-04-19 14:25:21 +0000      861 bytes  docs/jira-connector/1.4.0/scripts/prettify/lang-\</tspan>
+<tspan x="10" y="8458">css.js</tspan>
+<tspan x="10" y="8474">377.  2017-04-19 14:25:21 +0000    13632 bytes  docs/jira-connector/1.4.0/scripts/prettify/prett\</tspan>
+<tspan x="10" y="8490">ify.js</tspan>
+<tspan x="10" y="8506">378.  2017-04-19 14:25:21 +0000     5956 bytes  docs/jira-connector/1.4.0/styles/jsdoc-default.c\</tspan>
+<tspan x="10" y="8522">ss</tspan>
+<tspan x="10" y="8538">379.  2017-04-19 14:25:21 +0000     1535 bytes  docs/jira-connector/1.4.0/styles/prettify-jsdoc.\</tspan>
+<tspan x="10" y="8554">css</tspan>
+<tspan x="10" y="8570">380.  2017-04-19 14:25:21 +0000     2026 bytes  docs/jira-connector/1.4.0/styles/prettify-tomorr\</tspan>
+<tspan x="10" y="8586">ow.css</tspan>
+<tspan x="10" y="8602">381.  2017-04-19 14:25:21 +0000    11969 bytes  docs/jira-connector/1.4.1/ApplicationPropertiesC\</tspan>
+<tspan x="10" y="8618">lient.html</tspan>
+<tspan x="10" y="8634">382.  2017-04-19 14:25:21 +0000    11203 bytes  docs/jira-connector/1.4.1/AttachmentClient.html</tspan>
+<tspan x="10" y="8650">383.  2017-04-19 14:25:21 +0000    12063 bytes  docs/jira-connector/1.4.1/AuditingClient.html</tspan>
+<tspan x="10" y="8666">384.  2017-04-19 14:25:21 +0000    13305 bytes  docs/jira-connector/1.4.1/AvatarClient.html</tspan>
+<tspan x="10" y="8682">385.  2017-04-19 14:25:21 +0000    15629 bytes  docs/jira-connector/1.4.1/CommentClient.html</tspan>
+<tspan x="10" y="8698">386.  2017-04-19 14:25:21 +0000    17363 bytes  docs/jira-connector/1.4.1/ComponentClient.html</tspan>
+<tspan x="10" y="8714">387.  2017-04-19 14:25:21 +0000     7560 bytes  docs/jira-connector/1.4.1/CustomFieldOptionClien\</tspan>
+<tspan x="10" y="8730">t.html</tspan>
+<tspan x="10" y="8746">388.  2017-04-19 14:25:21 +0000    11287 bytes  docs/jira-connector/1.4.1/DashboardClient.html</tspan>
+<tspan x="10" y="8762">389.  2017-04-19 14:25:21 +0000     8908 bytes  docs/jira-connector/1.4.1/FieldClient.html</tspan>
+<tspan x="10" y="8778">390.  2017-04-19 14:25:21 +0000    28627 bytes  docs/jira-connector/1.4.1/FilterClient.html</tspan>
+<tspan x="10" y="8794">391.  2017-04-19 14:25:21 +0000    18777 bytes  docs/jira-connector/1.4.1/GroupClient.html</tspan>
+<tspan x="10" y="8810">392.  2017-04-19 14:25:21 +0000    11268 bytes  docs/jira-connector/1.4.1/GroupUserPickerClient.\</tspan>
+<tspan x="10" y="8826">html</tspan>
+<tspan x="10" y="8842">393.  2017-04-19 14:25:21 +0000     8623 bytes  docs/jira-connector/1.4.1/GroupsClient.html</tspan>
+<tspan x="10" y="8858">394.  2017-04-19 14:25:21 +0000   156231 bytes  docs/jira-connector/1.4.1/IssueClient.html</tspan>
+<tspan x="10" y="8874">395.  2017-04-19 14:25:21 +0000    12606 bytes  docs/jira-connector/1.4.1/IssueLinkClient.html</tspan>
+<tspan x="10" y="8890">396.  2017-04-19 14:25:21 +0000    16180 bytes  docs/jira-connector/1.4.1/IssueLinkTypeClient.ht\</tspan>
+<tspan x="10" y="8906">ml</tspan>
+<tspan x="10" y="8922">397.  2017-04-19 14:25:21 +0000     8872 bytes  docs/jira-connector/1.4.1/IssueTypeClient.html</tspan>
+<tspan x="10" y="8938">398.  2017-04-19 14:25:21 +0000    32942 bytes  docs/jira-connector/1.4.1/JiraClient.html</tspan>
+<tspan x="10" y="8954">399.  2017-04-19 14:25:21 +0000     6700 bytes  docs/jira-connector/1.4.1/JqlClient.html</tspan>
+<tspan x="10" y="8970">400.  2017-04-19 14:25:21 +0000    11587 bytes  docs/jira-connector/1.4.1/LicenseRoleClient.html</tspan>
+<tspan x="10" y="8986">401.  2017-04-19 14:25:21 +0000     7316 bytes  docs/jira-connector/1.4.1/LicenseValidatorClient\</tspan>
+<tspan x="10" y="9002">.html</tspan>
+<tspan x="10" y="9018">402.  2017-04-19 14:25:21 +0000     8001 bytes  docs/jira-connector/1.4.1/MyPermissionsClient.ht\</tspan>
+<tspan x="10" y="9034">ml</tspan>
+<tspan x="10" y="9050">403.  2017-04-19 14:25:21 +0000    12233 bytes  docs/jira-connector/1.4.1/MyPreferencesClient.ht\</tspan>
+<tspan x="10" y="9066">ml</tspan>
+<tspan x="10" y="9082">404.  2017-04-19 14:25:21 +0000    11172 bytes  docs/jira-connector/1.4.1/MyselfClient.html</tspan>
+<tspan x="10" y="9098">405.  2017-04-19 14:25:21 +0000    31984 bytes  docs/jira-connector/1.4.1/OauthUtil.html</tspan>
+<tspan x="10" y="9114">406.  2017-04-19 14:25:21 +0000     7967 bytes  docs/jira-connector/1.4.1/PasswordClient.html</tspan>
+<tspan x="10" y="9130">407.  2017-04-19 14:25:21 +0000     8845 bytes  docs/jira-connector/1.4.1/PriorityClient.html</tspan>
+<tspan x="10" y="9146">408.  2017-04-19 14:25:21 +0000    25800 bytes  docs/jira-connector/1.4.1/ProjectClient.html</tspan>
+<tspan x="10" y="9162">409.  2017-04-19 14:25:21 +0000     7625 bytes  docs/jira-connector/1.4.1/ProjectValidateClient.\</tspan>
+<tspan x="10" y="9178">html</tspan>
+<tspan x="10" y="9194">410.  2017-04-19 14:25:21 +0000    12237 bytes  docs/jira-connector/1.4.1/ReindexClient.html</tspan>
+<tspan x="10" y="9210">411.  2017-04-19 14:25:21 +0000     8891 bytes  docs/jira-connector/1.4.1/ResolutionClient.html</tspan>
+<tspan x="10" y="9226">412.  2017-04-19 14:25:21 +0000    35591 bytes  docs/jira-connector/1.4.1/ScreensClient.html</tspan>
+<tspan x="10" y="9242">413.  2017-04-19 14:25:21 +0000    12330 bytes  docs/jira-connector/1.4.1/SearchClient.html</tspan>
+<tspan x="10" y="9258">414.  2017-04-19 14:25:21 +0000     7410 bytes  docs/jira-connector/1.4.1/SecurityLevelClient.ht\</tspan>
+<tspan x="10" y="9274">ml</tspan>
+<tspan x="10" y="9290">415.  2017-04-19 14:25:21 +0000     7648 bytes  docs/jira-connector/1.4.1/ServerInfoClient.html</tspan>
+<tspan x="10" y="9306">416.  2017-04-19 14:25:21 +0000     8860 bytes  docs/jira-connector/1.4.1/SettingsClient.html</tspan>
+<tspan x="10" y="9322">417.  2017-04-19 14:25:21 +0000     9007 bytes  docs/jira-connector/1.4.1/StatusCategoryClient.h\</tspan>
+<tspan x="10" y="9338">tml</tspan>
+<tspan x="10" y="9354">418.  2017-04-19 14:25:21 +0000     8793 bytes  docs/jira-connector/1.4.1/StatusClient.html</tspan>
+<tspan x="10" y="9370">419.  2017-04-19 14:25:21 +0000    67424 bytes  docs/jira-connector/1.4.1/UserClient.html</tspan>
+<tspan x="10" y="9386">420.  2017-04-19 14:25:21 +0000    37510 bytes  docs/jira-connector/1.4.1/VersionClient.html</tspan>
+<tspan x="10" y="9402">421.  2017-04-19 14:25:21 +0000     7644 bytes  docs/jira-connector/1.4.1/WorkflowClient.html</tspan>
+<tspan x="10" y="9418">422.  2017-04-19 14:25:21 +0000    73806 bytes  docs/jira-connector/1.4.1/WorkflowSchemeClient.h\</tspan>
+<tspan x="10" y="9434">tml</tspan>
+<tspan x="10" y="9450">423.  2017-04-19 14:25:21 +0000     6188 bytes  docs/jira-connector/1.4.1/api_application-proper\</tspan>
+<tspan x="10" y="9466">ties.js.html</tspan>
+<tspan x="10" y="9482">424.  2017-04-19 14:25:21 +0000     6237 bytes  docs/jira-connector/1.4.1/api_attachment.js.html</tspan>
+<tspan x="10" y="9498">425.  2017-04-19 14:25:21 +0000     6297 bytes  docs/jira-connector/1.4.1/api_auditing.js.html</tspan>
+<tspan x="10" y="9514">426.  2017-04-19 14:25:21 +0000     7360 bytes  docs/jira-connector/1.4.1/api_avatar.js.html</tspan>
+<tspan x="10" y="9530">427.  2017-04-19 14:25:21 +0000     9070 bytes  docs/jira-connector/1.4.1/api_comment.js.html</tspan>
+<tspan x="10" y="9546">428.  2017-04-19 14:25:21 +0000     7702 bytes  docs/jira-connector/1.4.1/api_component.js.html</tspan>
+<tspan x="10" y="9562">429.  2017-04-19 14:25:21 +0000     4812 bytes  docs/jira-connector/1.4.1/api_customFieldOption.\</tspan>
+<tspan x="10" y="9578">js.html</tspan>
+<tspan x="10" y="9594">430.  2017-04-19 14:25:21 +0000     6273 bytes  docs/jira-connector/1.4.1/api_dashboard.js.html</tspan>
+<tspan x="10" y="9610">431.  2017-04-19 14:25:21 +0000     5122 bytes  docs/jira-connector/1.4.1/api_field.js.html</tspan>
+<tspan x="10" y="9626">432.  2017-04-19 14:25:21 +0000    12308 bytes  docs/jira-connector/1.4.1/api_filter.js.html</tspan>
+<tspan x="10" y="9642">433.  2017-04-19 14:25:21 +0000     8708 bytes  docs/jira-connector/1.4.1/api_group.js.html</tspan>
+<tspan x="10" y="9658">434.  2017-04-19 14:25:21 +0000     6125 bytes  docs/jira-connector/1.4.1/api_groupUserPicker.js\</tspan>
+<tspan x="10" y="9674">.html</tspan>
+<tspan x="10" y="9690">435.  2017-04-19 14:25:21 +0000     5309 bytes  docs/jira-connector/1.4.1/api_groups.js.html</tspan>
+<tspan x="10" y="9706">436.  2017-04-19 14:25:21 +0000    51994 bytes  docs/jira-connector/1.4.1/api_issue.js.html</tspan>
+<tspan x="10" y="9722">437.  2017-04-19 14:25:21 +0000     7229 bytes  docs/jira-connector/1.4.1/api_issueLink.js.html</tspan>
+<tspan x="10" y="9738">438.  2017-04-19 14:25:21 +0000     7983 bytes  docs/jira-connector/1.4.1/api_issueLinkType.js.h\</tspan>
+<tspan x="10" y="9754">tml</tspan>
+<tspan x="10" y="9770">439.  2017-04-19 14:25:21 +0000     5115 bytes  docs/jira-connector/1.4.1/api_issueType.js.html</tspan>
+<tspan x="10" y="9786">440.  2017-04-19 14:25:21 +0000     4494 bytes  docs/jira-connector/1.4.1/api_jql.js.html</tspan>
+<tspan x="10" y="9802">441.  2017-04-19 14:25:21 +0000     6041 bytes  docs/jira-connector/1.4.1/api_licenseRole.js.htm\</tspan>
+<tspan x="10" y="9818">l</tspan>
+<tspan x="10" y="9834">442.  2017-04-19 14:25:21 +0000     4577 bytes  docs/jira-connector/1.4.1/api_licenseValidator.j\</tspan>
+<tspan x="10" y="9850">s.html</tspan>
+<tspan x="10" y="9866">443.  2017-04-19 14:25:21 +0000     5805 bytes  docs/jira-connector/1.4.1/api_myPermissions.js.h\</tspan>
+<tspan x="10" y="9882">tml</tspan>
+<tspan x="10" y="9898">444.  2017-04-19 14:25:21 +0000     6356 bytes  docs/jira-connector/1.4.1/api_myPreferences.js.h\</tspan>
+<tspan x="10" y="9914">tml</tspan>
+<tspan x="10" y="9930">445.  2017-04-19 14:25:21 +0000     5891 bytes  docs/jira-connector/1.4.1/api_myself.js.html</tspan>
+<tspan x="10" y="9946">446.  2017-04-19 14:25:21 +0000     4855 bytes  docs/jira-connector/1.4.1/api_password.js.html</tspan>
+<tspan x="10" y="9962">447.  2017-04-19 14:25:21 +0000     5092 bytes  docs/jira-connector/1.4.1/api_priority.js.html</tspan>
+<tspan x="10" y="9978">448.  2017-04-19 14:25:21 +0000    10964 bytes  docs/jira-connector/1.4.1/api_project.js.html</tspan>
+<tspan x="10" y="9994">449.  2017-04-19 14:25:21 +0000     4849 bytes  docs/jira-connector/1.4.1/api_projectValidate.js\</tspan>
+<tspan x="10" y="10010">.html</tspan>
+<tspan x="10" y="10026">450.  2017-04-19 14:25:21 +0000     6398 bytes  docs/jira-connector/1.4.1/api_reindex.js.html</tspan>
+<tspan x="10" y="10042">451.  2017-04-19 14:25:21 +0000     5130 bytes  docs/jira-connector/1.4.1/api_resolution.js.html</tspan>
+<tspan x="10" y="10058">452.  2017-04-19 14:25:21 +0000    13026 bytes  docs/jira-connector/1.4.1/api_screens.js.html</tspan>
+<tspan x="10" y="10074">453.  2017-04-19 14:25:21 +0000     6669 bytes  docs/jira-connector/1.4.1/api_search.js.html</tspan>
+<tspan x="10" y="10090">454.  2017-04-19 14:25:21 +0000     4636 bytes  docs/jira-connector/1.4.1/api_securityLevel.js.h\</tspan>
+<tspan x="10" y="10106">tml</tspan>
+<tspan x="10" y="10122">455.  2017-04-19 14:25:21 +0000     4662 bytes  docs/jira-connector/1.4.1/api_serverInfo.js.html</tspan>
+<tspan x="10" y="10138">456.  2017-04-19 14:25:21 +0000     5132 bytes  docs/jira-connector/1.4.1/api_settings.js.html</tspan>
+<tspan x="10" y="10154">457.  2017-04-19 14:25:21 +0000     5048 bytes  docs/jira-connector/1.4.1/api_status.js.html</tspan>
+<tspan x="10" y="10170">458.  2017-04-19 14:25:21 +0000     5235 bytes  docs/jira-connector/1.4.1/api_statusCategory.js.\</tspan>
+<tspan x="10" y="10186">html</tspan>
+<tspan x="10" y="10202">459.  2017-04-19 14:25:21 +0000    24682 bytes  docs/jira-connector/1.4.1/api_user.js.html</tspan>
+<tspan x="10" y="10218">460.  2017-04-19 14:25:21 +0000    14090 bytes  docs/jira-connector/1.4.1/api_version.js.html</tspan>
+<tspan x="10" y="10234">461.  2017-04-19 14:25:21 +0000     4606 bytes  docs/jira-connector/1.4.1/api_workflow.js.html</tspan>
+<tspan x="10" y="10250">462.  2017-04-19 14:25:21 +0000    25104 bytes  docs/jira-connector/1.4.1/api_workflowScheme.js.\</tspan>
+<tspan x="10" y="10266">html</tspan>
+<tspan x="10" y="10282">463.  2017-04-19 14:25:21 +0000    19544 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="10298">bfont.eot</tspan>
+<tspan x="10" y="10314">464.  2017-04-19 14:25:21 +0000   118259 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="10330">bfont.svg</tspan>
+<tspan x="10" y="10346">465.  2017-04-19 14:25:21 +0000    22432 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="10362">bfont.woff</tspan>
+<tspan x="10" y="10378">466.  2017-04-19 14:25:21 +0000    20133 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="10394">lic-webfont.eot</tspan>
+<tspan x="10" y="10410">467.  2017-04-19 14:25:21 +0000   121112 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="10426">lic-webfont.svg</tspan>
+<tspan x="10" y="10442">468.  2017-04-19 14:25:21 +0000    23048 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="10458">lic-webfont.woff</tspan>
+<tspan x="10" y="10474">469.  2017-04-19 14:25:21 +0000    20265 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="10490">webfont.eot</tspan>
+<tspan x="10" y="10506">470.  2017-04-19 14:25:21 +0000   122495 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="10522">webfont.svg</tspan>
+<tspan x="10" y="10538">471.  2017-04-19 14:25:21 +0000    23188 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="10554">webfont.woff</tspan>
+<tspan x="10" y="10570">472.  2017-04-19 14:25:21 +0000    19514 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="10586">ebfont.eot</tspan>
+<tspan x="10" y="10602">473.  2017-04-19 14:25:21 +0000   117270 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="10618">ebfont.svg</tspan>
+<tspan x="10" y="10634">474.  2017-04-19 14:25:21 +0000    22248 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="10650">ebfont.woff</tspan>
+<tspan x="10" y="10666">475.  2017-04-19 14:25:21 +0000    20535 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="10682">alic-webfont.eot</tspan>
+<tspan x="10" y="10698">476.  2017-04-19 14:25:21 +0000   122968 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="10714">alic-webfont.svg</tspan>
+<tspan x="10" y="10730">477.  2017-04-19 14:25:21 +0000    23400 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="10746">alic-webfont.woff</tspan>
+<tspan x="10" y="10762">478.  2017-04-19 14:25:21 +0000    19836 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="10778">-webfont.eot</tspan>
+<tspan x="10" y="10794">479.  2017-04-19 14:25:21 +0000   119399 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="10810">-webfont.svg</tspan>
+<tspan x="10" y="10826">480.  2017-04-19 14:25:21 +0000    22660 bytes  docs/jira-connector/1.4.1/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="10842">-webfont.woff</tspan>
+<tspan x="10" y="10858">481.  2017-04-19 14:25:21 +0000    19422 bytes  docs/jira-connector/1.4.1/index.html</tspan>
+<tspan x="10" y="10874">482.  2017-04-19 14:25:21 +0000    14278 bytes  docs/jira-connector/1.4.1/index.js.html</tspan>
+<tspan x="10" y="10890">483.  2017-04-19 14:25:21 +0000    10473 bytes  docs/jira-connector/1.4.1/lib_oauth_util.js.html</tspan>
+<tspan x="10" y="10906">484.  2017-04-19 14:25:21 +0000      674 bytes  docs/jira-connector/1.4.1/scripts/linenumber.js</tspan>
+<tspan x="10" y="10922">485.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.4.1/scripts/prettify/Apach\</tspan>
+<tspan x="10" y="10938">e-License-2.0.txt</tspan>
+<tspan x="10" y="10954">486.  2017-04-19 14:25:21 +0000      861 bytes  docs/jira-connector/1.4.1/scripts/prettify/lang-\</tspan>
+<tspan x="10" y="10970">css.js</tspan>
+<tspan x="10" y="10986">487.  2017-04-19 14:25:21 +0000    13632 bytes  docs/jira-connector/1.4.1/scripts/prettify/prett\</tspan>
+<tspan x="10" y="11002">ify.js</tspan>
+<tspan x="10" y="11018">488.  2017-04-19 14:25:21 +0000     5956 bytes  docs/jira-connector/1.4.1/styles/jsdoc-default.c\</tspan>
+<tspan x="10" y="11034">ss</tspan>
+<tspan x="10" y="11050">489.  2017-04-19 14:25:21 +0000     1535 bytes  docs/jira-connector/1.4.1/styles/prettify-jsdoc.\</tspan>
+<tspan x="10" y="11066">css</tspan>
+<tspan x="10" y="11082">490.  2017-04-19 14:25:21 +0000     2026 bytes  docs/jira-connector/1.4.1/styles/prettify-tomorr\</tspan>
+<tspan x="10" y="11098">ow.css</tspan>
+<tspan x="10" y="11114">491.  2017-04-19 14:25:21 +0000    11969 bytes  docs/jira-connector/1.4.2/ApplicationPropertiesC\</tspan>
+<tspan x="10" y="11130">lient.html</tspan>
+<tspan x="10" y="11146">492.  2017-04-19 14:25:21 +0000    11203 bytes  docs/jira-connector/1.4.2/AttachmentClient.html</tspan>
+<tspan x="10" y="11162">493.  2017-04-19 14:25:21 +0000    12063 bytes  docs/jira-connector/1.4.2/AuditingClient.html</tspan>
+<tspan x="10" y="11178">494.  2017-04-19 14:25:21 +0000    13305 bytes  docs/jira-connector/1.4.2/AvatarClient.html</tspan>
+<tspan x="10" y="11194">495.  2017-04-19 14:25:21 +0000    15629 bytes  docs/jira-connector/1.4.2/CommentClient.html</tspan>
+<tspan x="10" y="11210">496.  2017-04-19 14:25:21 +0000    17363 bytes  docs/jira-connector/1.4.2/ComponentClient.html</tspan>
+<tspan x="10" y="11226">497.  2017-04-19 14:25:21 +0000     7560 bytes  docs/jira-connector/1.4.2/CustomFieldOptionClien\</tspan>
+<tspan x="10" y="11242">t.html</tspan>
+<tspan x="10" y="11258">498.  2017-04-19 14:25:21 +0000    11287 bytes  docs/jira-connector/1.4.2/DashboardClient.html</tspan>
+<tspan x="10" y="11274">499.  2017-04-19 14:25:21 +0000     8908 bytes  docs/jira-connector/1.4.2/FieldClient.html</tspan>
+<tspan x="10" y="11290">500.  2017-04-19 14:25:21 +0000    28627 bytes  docs/jira-connector/1.4.2/FilterClient.html</tspan>
+<tspan x="10" y="11306">501.  2017-04-19 14:25:21 +0000    18777 bytes  docs/jira-connector/1.4.2/GroupClient.html</tspan>
+<tspan x="10" y="11322">502.  2017-04-19 14:25:21 +0000    11268 bytes  docs/jira-connector/1.4.2/GroupUserPickerClient.\</tspan>
+<tspan x="10" y="11338">html</tspan>
+<tspan x="10" y="11354">503.  2017-04-19 14:25:21 +0000     8623 bytes  docs/jira-connector/1.4.2/GroupsClient.html</tspan>
+<tspan x="10" y="11370">504.  2017-04-19 14:25:21 +0000   156231 bytes  docs/jira-connector/1.4.2/IssueClient.html</tspan>
+<tspan x="10" y="11386">505.  2017-04-19 14:25:21 +0000    12606 bytes  docs/jira-connector/1.4.2/IssueLinkClient.html</tspan>
+<tspan x="10" y="11402">506.  2017-04-19 14:25:21 +0000    16180 bytes  docs/jira-connector/1.4.2/IssueLinkTypeClient.ht\</tspan>
+<tspan x="10" y="11418">ml</tspan>
+<tspan x="10" y="11434">507.  2017-04-19 14:25:21 +0000     8872 bytes  docs/jira-connector/1.4.2/IssueTypeClient.html</tspan>
+<tspan x="10" y="11450">508.  2017-04-19 14:25:21 +0000    32942 bytes  docs/jira-connector/1.4.2/JiraClient.html</tspan>
+<tspan x="10" y="11466">509.  2017-04-19 14:25:21 +0000     6700 bytes  docs/jira-connector/1.4.2/JqlClient.html</tspan>
+<tspan x="10" y="11482">510.  2017-04-19 14:25:21 +0000    11587 bytes  docs/jira-connector/1.4.2/LicenseRoleClient.html</tspan>
+<tspan x="10" y="11498">511.  2017-04-19 14:25:21 +0000     7316 bytes  docs/jira-connector/1.4.2/LicenseValidatorClient\</tspan>
+<tspan x="10" y="11514">.html</tspan>
+<tspan x="10" y="11530">512.  2017-04-19 14:25:21 +0000     8001 bytes  docs/jira-connector/1.4.2/MyPermissionsClient.ht\</tspan>
+<tspan x="10" y="11546">ml</tspan>
+<tspan x="10" y="11562">513.  2017-04-19 14:25:21 +0000    12233 bytes  docs/jira-connector/1.4.2/MyPreferencesClient.ht\</tspan>
+<tspan x="10" y="11578">ml</tspan>
+<tspan x="10" y="11594">514.  2017-04-19 14:25:21 +0000    11172 bytes  docs/jira-connector/1.4.2/MyselfClient.html</tspan>
+<tspan x="10" y="11610">515.  2017-04-19 14:25:21 +0000    31984 bytes  docs/jira-connector/1.4.2/OauthUtil.html</tspan>
+<tspan x="10" y="11626">516.  2017-04-19 14:25:21 +0000     7967 bytes  docs/jira-connector/1.4.2/PasswordClient.html</tspan>
+<tspan x="10" y="11642">517.  2017-04-19 14:25:21 +0000     8845 bytes  docs/jira-connector/1.4.2/PriorityClient.html</tspan>
+<tspan x="10" y="11658">518.  2017-04-19 14:25:21 +0000    25800 bytes  docs/jira-connector/1.4.2/ProjectClient.html</tspan>
+<tspan x="10" y="11674">519.  2017-04-19 14:25:21 +0000     7625 bytes  docs/jira-connector/1.4.2/ProjectValidateClient.\</tspan>
+<tspan x="10" y="11690">html</tspan>
+<tspan x="10" y="11706">520.  2017-04-19 14:25:21 +0000    12237 bytes  docs/jira-connector/1.4.2/ReindexClient.html</tspan>
+<tspan x="10" y="11722">521.  2017-04-19 14:25:21 +0000     8891 bytes  docs/jira-connector/1.4.2/ResolutionClient.html</tspan>
+<tspan x="10" y="11738">522.  2017-04-19 14:25:21 +0000    35591 bytes  docs/jira-connector/1.4.2/ScreensClient.html</tspan>
+<tspan x="10" y="11754">523.  2017-04-19 14:25:21 +0000    12330 bytes  docs/jira-connector/1.4.2/SearchClient.html</tspan>
+<tspan x="10" y="11770">524.  2017-04-19 14:25:21 +0000     7410 bytes  docs/jira-connector/1.4.2/SecurityLevelClient.ht\</tspan>
+<tspan x="10" y="11786">ml</tspan>
+<tspan x="10" y="11802">525.  2017-04-19 14:25:21 +0000     7648 bytes  docs/jira-connector/1.4.2/ServerInfoClient.html</tspan>
+<tspan x="10" y="11818">526.  2017-04-19 14:25:21 +0000     8860 bytes  docs/jira-connector/1.4.2/SettingsClient.html</tspan>
+<tspan x="10" y="11834">527.  2017-04-19 14:25:21 +0000     9007 bytes  docs/jira-connector/1.4.2/StatusCategoryClient.h\</tspan>
+<tspan x="10" y="11850">tml</tspan>
+<tspan x="10" y="11866">528.  2017-04-19 14:25:21 +0000     8793 bytes  docs/jira-connector/1.4.2/StatusClient.html</tspan>
+<tspan x="10" y="11882">529.  2017-04-19 14:25:21 +0000    67424 bytes  docs/jira-connector/1.4.2/UserClient.html</tspan>
+<tspan x="10" y="11898">530.  2017-04-19 14:25:21 +0000    37510 bytes  docs/jira-connector/1.4.2/VersionClient.html</tspan>
+<tspan x="10" y="11914">531.  2017-04-19 14:25:21 +0000     7644 bytes  docs/jira-connector/1.4.2/WorkflowClient.html</tspan>
+<tspan x="10" y="11930">532.  2017-04-19 14:25:21 +0000    73806 bytes  docs/jira-connector/1.4.2/WorkflowSchemeClient.h\</tspan>
+<tspan x="10" y="11946">tml</tspan>
+<tspan x="10" y="11962">533.  2017-04-19 14:25:21 +0000     6188 bytes  docs/jira-connector/1.4.2/api_application-proper\</tspan>
+<tspan x="10" y="11978">ties.js.html</tspan>
+<tspan x="10" y="11994">534.  2017-04-19 14:25:21 +0000     6237 bytes  docs/jira-connector/1.4.2/api_attachment.js.html</tspan>
+<tspan x="10" y="12010">535.  2017-04-19 14:25:21 +0000     6297 bytes  docs/jira-connector/1.4.2/api_auditing.js.html</tspan>
+<tspan x="10" y="12026">536.  2017-04-19 14:25:21 +0000     7360 bytes  docs/jira-connector/1.4.2/api_avatar.js.html</tspan>
+<tspan x="10" y="12042">537.  2017-04-19 14:25:21 +0000     9070 bytes  docs/jira-connector/1.4.2/api_comment.js.html</tspan>
+<tspan x="10" y="12058">538.  2017-04-19 14:25:21 +0000     7702 bytes  docs/jira-connector/1.4.2/api_component.js.html</tspan>
+<tspan x="10" y="12074">539.  2017-04-19 14:25:21 +0000     4812 bytes  docs/jira-connector/1.4.2/api_customFieldOption.\</tspan>
+<tspan x="10" y="12090">js.html</tspan>
+<tspan x="10" y="12106">540.  2017-04-19 14:25:21 +0000     6273 bytes  docs/jira-connector/1.4.2/api_dashboard.js.html</tspan>
+<tspan x="10" y="12122">541.  2017-04-19 14:25:21 +0000     5122 bytes  docs/jira-connector/1.4.2/api_field.js.html</tspan>
+<tspan x="10" y="12138">542.  2017-04-19 14:25:21 +0000    12308 bytes  docs/jira-connector/1.4.2/api_filter.js.html</tspan>
+<tspan x="10" y="12154">543.  2017-04-19 14:25:21 +0000     8708 bytes  docs/jira-connector/1.4.2/api_group.js.html</tspan>
+<tspan x="10" y="12170">544.  2017-04-19 14:25:21 +0000     6125 bytes  docs/jira-connector/1.4.2/api_groupUserPicker.js\</tspan>
+<tspan x="10" y="12186">.html</tspan>
+<tspan x="10" y="12202">545.  2017-04-19 14:25:21 +0000     5309 bytes  docs/jira-connector/1.4.2/api_groups.js.html</tspan>
+<tspan x="10" y="12218">546.  2017-04-19 14:25:21 +0000    51994 bytes  docs/jira-connector/1.4.2/api_issue.js.html</tspan>
+<tspan x="10" y="12234">547.  2017-04-19 14:25:21 +0000     7229 bytes  docs/jira-connector/1.4.2/api_issueLink.js.html</tspan>
+<tspan x="10" y="12250">548.  2017-04-19 14:25:21 +0000     7983 bytes  docs/jira-connector/1.4.2/api_issueLinkType.js.h\</tspan>
+<tspan x="10" y="12266">tml</tspan>
+<tspan x="10" y="12282">549.  2017-04-19 14:25:21 +0000     5115 bytes  docs/jira-connector/1.4.2/api_issueType.js.html</tspan>
+<tspan x="10" y="12298">550.  2017-04-19 14:25:21 +0000     4494 bytes  docs/jira-connector/1.4.2/api_jql.js.html</tspan>
+<tspan x="10" y="12314">551.  2017-04-19 14:25:21 +0000     6041 bytes  docs/jira-connector/1.4.2/api_licenseRole.js.htm\</tspan>
+<tspan x="10" y="12330">l</tspan>
+<tspan x="10" y="12346">552.  2017-04-19 14:25:21 +0000     4577 bytes  docs/jira-connector/1.4.2/api_licenseValidator.j\</tspan>
+<tspan x="10" y="12362">s.html</tspan>
+<tspan x="10" y="12378">553.  2017-04-19 14:25:21 +0000     5805 bytes  docs/jira-connector/1.4.2/api_myPermissions.js.h\</tspan>
+<tspan x="10" y="12394">tml</tspan>
+<tspan x="10" y="12410">554.  2017-04-19 14:25:21 +0000     6356 bytes  docs/jira-connector/1.4.2/api_myPreferences.js.h\</tspan>
+<tspan x="10" y="12426">tml</tspan>
+<tspan x="10" y="12442">555.  2017-04-19 14:25:21 +0000     5891 bytes  docs/jira-connector/1.4.2/api_myself.js.html</tspan>
+<tspan x="10" y="12458">556.  2017-04-19 14:25:21 +0000     4855 bytes  docs/jira-connector/1.4.2/api_password.js.html</tspan>
+<tspan x="10" y="12474">557.  2017-04-19 14:25:21 +0000     5092 bytes  docs/jira-connector/1.4.2/api_priority.js.html</tspan>
+<tspan x="10" y="12490">558.  2017-04-19 14:25:21 +0000    10964 bytes  docs/jira-connector/1.4.2/api_project.js.html</tspan>
+<tspan x="10" y="12506">559.  2017-04-19 14:25:21 +0000     4849 bytes  docs/jira-connector/1.4.2/api_projectValidate.js\</tspan>
+<tspan x="10" y="12522">.html</tspan>
+<tspan x="10" y="12538">560.  2017-04-19 14:25:21 +0000     6398 bytes  docs/jira-connector/1.4.2/api_reindex.js.html</tspan>
+<tspan x="10" y="12554">561.  2017-04-19 14:25:21 +0000     5130 bytes  docs/jira-connector/1.4.2/api_resolution.js.html</tspan>
+<tspan x="10" y="12570">562.  2017-04-19 14:25:21 +0000    13026 bytes  docs/jira-connector/1.4.2/api_screens.js.html</tspan>
+<tspan x="10" y="12586">563.  2017-04-19 14:25:21 +0000     6669 bytes  docs/jira-connector/1.4.2/api_search.js.html</tspan>
+<tspan x="10" y="12602">564.  2017-04-19 14:25:21 +0000     4636 bytes  docs/jira-connector/1.4.2/api_securityLevel.js.h\</tspan>
+<tspan x="10" y="12618">tml</tspan>
+<tspan x="10" y="12634">565.  2017-04-19 14:25:21 +0000     4662 bytes  docs/jira-connector/1.4.2/api_serverInfo.js.html</tspan>
+<tspan x="10" y="12650">566.  2017-04-19 14:25:21 +0000     5132 bytes  docs/jira-connector/1.4.2/api_settings.js.html</tspan>
+<tspan x="10" y="12666">567.  2017-04-19 14:25:21 +0000     5048 bytes  docs/jira-connector/1.4.2/api_status.js.html</tspan>
+<tspan x="10" y="12682">568.  2017-04-19 14:25:21 +0000     5235 bytes  docs/jira-connector/1.4.2/api_statusCategory.js.\</tspan>
+<tspan x="10" y="12698">html</tspan>
+<tspan x="10" y="12714">569.  2017-04-19 14:25:21 +0000    24682 bytes  docs/jira-connector/1.4.2/api_user.js.html</tspan>
+<tspan x="10" y="12730">570.  2017-04-19 14:25:21 +0000    14090 bytes  docs/jira-connector/1.4.2/api_version.js.html</tspan>
+<tspan x="10" y="12746">571.  2017-04-19 14:25:21 +0000     4606 bytes  docs/jira-connector/1.4.2/api_workflow.js.html</tspan>
+<tspan x="10" y="12762">572.  2017-04-19 14:25:21 +0000    25104 bytes  docs/jira-connector/1.4.2/api_workflowScheme.js.\</tspan>
+<tspan x="10" y="12778">html</tspan>
+<tspan x="10" y="12794">573.  2017-04-19 14:25:21 +0000    19544 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="12810">bfont.eot</tspan>
+<tspan x="10" y="12826">574.  2017-04-19 14:25:21 +0000   118259 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="12842">bfont.svg</tspan>
+<tspan x="10" y="12858">575.  2017-04-19 14:25:21 +0000    22432 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="12874">bfont.woff</tspan>
+<tspan x="10" y="12890">576.  2017-04-19 14:25:21 +0000    20133 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="12906">lic-webfont.eot</tspan>
+<tspan x="10" y="12922">577.  2017-04-19 14:25:21 +0000   121112 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="12938">lic-webfont.svg</tspan>
+<tspan x="10" y="12954">578.  2017-04-19 14:25:21 +0000    23048 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="12970">lic-webfont.woff</tspan>
+<tspan x="10" y="12986">579.  2017-04-19 14:25:21 +0000    20265 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="13002">webfont.eot</tspan>
+<tspan x="10" y="13018">580.  2017-04-19 14:25:21 +0000   122495 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="13034">webfont.svg</tspan>
+<tspan x="10" y="13050">581.  2017-04-19 14:25:21 +0000    23188 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="13066">webfont.woff</tspan>
+<tspan x="10" y="13082">582.  2017-04-19 14:25:21 +0000    19514 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="13098">ebfont.eot</tspan>
+<tspan x="10" y="13114">583.  2017-04-19 14:25:21 +0000   117270 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="13130">ebfont.svg</tspan>
+<tspan x="10" y="13146">584.  2017-04-19 14:25:21 +0000    22248 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="13162">ebfont.woff</tspan>
+<tspan x="10" y="13178">585.  2017-04-19 14:25:21 +0000    20535 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="13194">alic-webfont.eot</tspan>
+<tspan x="10" y="13210">586.  2017-04-19 14:25:21 +0000   122968 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="13226">alic-webfont.svg</tspan>
+<tspan x="10" y="13242">587.  2017-04-19 14:25:21 +0000    23400 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="13258">alic-webfont.woff</tspan>
+<tspan x="10" y="13274">588.  2017-04-19 14:25:21 +0000    19836 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="13290">-webfont.eot</tspan>
+<tspan x="10" y="13306">589.  2017-04-19 14:25:21 +0000   119399 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="13322">-webfont.svg</tspan>
+<tspan x="10" y="13338">590.  2017-04-19 14:25:21 +0000    22660 bytes  docs/jira-connector/1.4.2/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="13354">-webfont.woff</tspan>
+<tspan x="10" y="13370">591.  2017-04-19 14:25:21 +0000    19422 bytes  docs/jira-connector/1.4.2/index.html</tspan>
+<tspan x="10" y="13386">592.  2017-04-19 14:25:21 +0000    14278 bytes  docs/jira-connector/1.4.2/index.js.html</tspan>
+<tspan x="10" y="13402">593.  2017-04-19 14:25:21 +0000    10473 bytes  docs/jira-connector/1.4.2/lib_oauth_util.js.html</tspan>
+<tspan x="10" y="13418">594.  2017-04-19 14:25:21 +0000      674 bytes  docs/jira-connector/1.4.2/scripts/linenumber.js</tspan>
+<tspan x="10" y="13434">595.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.4.2/scripts/prettify/Apach\</tspan>
+<tspan x="10" y="13450">e-License-2.0.txt</tspan>
+<tspan x="10" y="13466">596.  2017-04-19 14:25:21 +0000      861 bytes  docs/jira-connector/1.4.2/scripts/prettify/lang-\</tspan>
+<tspan x="10" y="13482">css.js</tspan>
+<tspan x="10" y="13498">597.  2017-04-19 14:25:21 +0000    13632 bytes  docs/jira-connector/1.4.2/scripts/prettify/prett\</tspan>
+<tspan x="10" y="13514">ify.js</tspan>
+<tspan x="10" y="13530">598.  2017-04-19 14:25:21 +0000     5956 bytes  docs/jira-connector/1.4.2/styles/jsdoc-default.c\</tspan>
+<tspan x="10" y="13546">ss</tspan>
+<tspan x="10" y="13562">599.  2017-04-19 14:25:21 +0000     1535 bytes  docs/jira-connector/1.4.2/styles/prettify-jsdoc.\</tspan>
+<tspan x="10" y="13578">css</tspan>
+<tspan x="10" y="13594">600.  2017-04-19 14:25:21 +0000     2026 bytes  docs/jira-connector/1.4.2/styles/prettify-tomorr\</tspan>
+<tspan x="10" y="13610">ow.css</tspan>
+<tspan x="10" y="13626">601.  2017-04-19 14:25:21 +0000    11969 bytes  docs/jira-connector/1.5.0/ApplicationPropertiesC\</tspan>
+<tspan x="10" y="13642">lient.html</tspan>
+<tspan x="10" y="13658">602.  2017-04-19 14:25:21 +0000    11203 bytes  docs/jira-connector/1.5.0/AttachmentClient.html</tspan>
+<tspan x="10" y="13674">603.  2017-04-19 14:25:21 +0000    12063 bytes  docs/jira-connector/1.5.0/AuditingClient.html</tspan>
+<tspan x="10" y="13690">604.  2017-04-19 14:25:21 +0000    13305 bytes  docs/jira-connector/1.5.0/AvatarClient.html</tspan>
+<tspan x="10" y="13706">605.  2017-04-19 14:25:21 +0000    15629 bytes  docs/jira-connector/1.5.0/CommentClient.html</tspan>
+<tspan x="10" y="13722">606.  2017-04-19 14:25:21 +0000    17363 bytes  docs/jira-connector/1.5.0/ComponentClient.html</tspan>
+<tspan x="10" y="13738">607.  2017-04-19 14:25:21 +0000     7560 bytes  docs/jira-connector/1.5.0/CustomFieldOptionClien\</tspan>
+<tspan x="10" y="13754">t.html</tspan>
+<tspan x="10" y="13770">608.  2017-04-19 14:25:21 +0000    11287 bytes  docs/jira-connector/1.5.0/DashboardClient.html</tspan>
+<tspan x="10" y="13786">609.  2017-04-19 14:25:21 +0000     8908 bytes  docs/jira-connector/1.5.0/FieldClient.html</tspan>
+<tspan x="10" y="13802">610.  2017-04-19 14:25:21 +0000    28627 bytes  docs/jira-connector/1.5.0/FilterClient.html</tspan>
+<tspan x="10" y="13818">611.  2017-04-19 14:25:21 +0000    18777 bytes  docs/jira-connector/1.5.0/GroupClient.html</tspan>
+<tspan x="10" y="13834">612.  2017-04-19 14:25:21 +0000    11268 bytes  docs/jira-connector/1.5.0/GroupUserPickerClient.\</tspan>
+<tspan x="10" y="13850">html</tspan>
+<tspan x="10" y="13866">613.  2017-04-19 14:25:21 +0000     8623 bytes  docs/jira-connector/1.5.0/GroupsClient.html</tspan>
+<tspan x="10" y="13882">614.  2017-04-19 14:25:21 +0000   156833 bytes  docs/jira-connector/1.5.0/IssueClient.html</tspan>
+<tspan x="10" y="13898">615.  2017-04-19 14:25:21 +0000    12606 bytes  docs/jira-connector/1.5.0/IssueLinkClient.html</tspan>
+<tspan x="10" y="13914">616.  2017-04-19 14:25:21 +0000    16180 bytes  docs/jira-connector/1.5.0/IssueLinkTypeClient.ht\</tspan>
+<tspan x="10" y="13930">ml</tspan>
+<tspan x="10" y="13946">617.  2017-04-19 14:25:21 +0000     8872 bytes  docs/jira-connector/1.5.0/IssueTypeClient.html</tspan>
+<tspan x="10" y="13962">618.  2017-04-19 14:25:21 +0000    32942 bytes  docs/jira-connector/1.5.0/JiraClient.html</tspan>
+<tspan x="10" y="13978">619.  2017-04-19 14:25:21 +0000     6700 bytes  docs/jira-connector/1.5.0/JqlClient.html</tspan>
+<tspan x="10" y="13994">620.  2017-04-19 14:25:21 +0000    11587 bytes  docs/jira-connector/1.5.0/LicenseRoleClient.html</tspan>
+<tspan x="10" y="14010">621.  2017-04-19 14:25:21 +0000     7316 bytes  docs/jira-connector/1.5.0/LicenseValidatorClient\</tspan>
+<tspan x="10" y="14026">.html</tspan>
+<tspan x="10" y="14042">622.  2017-04-19 14:25:21 +0000     8001 bytes  docs/jira-connector/1.5.0/MyPermissionsClient.ht\</tspan>
+<tspan x="10" y="14058">ml</tspan>
+<tspan x="10" y="14074">623.  2017-04-19 14:25:21 +0000    12233 bytes  docs/jira-connector/1.5.0/MyPreferencesClient.ht\</tspan>
+<tspan x="10" y="14090">ml</tspan>
+<tspan x="10" y="14106">624.  2017-04-19 14:25:21 +0000    11172 bytes  docs/jira-connector/1.5.0/MyselfClient.html</tspan>
+<tspan x="10" y="14122">625.  2017-04-19 14:25:21 +0000    31984 bytes  docs/jira-connector/1.5.0/OauthUtil.html</tspan>
+<tspan x="10" y="14138">626.  2017-04-19 14:25:21 +0000     7967 bytes  docs/jira-connector/1.5.0/PasswordClient.html</tspan>
+<tspan x="10" y="14154">627.  2017-04-19 14:25:21 +0000     8845 bytes  docs/jira-connector/1.5.0/PriorityClient.html</tspan>
+<tspan x="10" y="14170">628.  2017-04-19 14:25:21 +0000    25800 bytes  docs/jira-connector/1.5.0/ProjectClient.html</tspan>
+<tspan x="10" y="14186">629.  2017-04-19 14:25:21 +0000     7625 bytes  docs/jira-connector/1.5.0/ProjectValidateClient.\</tspan>
+<tspan x="10" y="14202">html</tspan>
+<tspan x="10" y="14218">630.  2017-04-19 14:25:21 +0000    12237 bytes  docs/jira-connector/1.5.0/ReindexClient.html</tspan>
+<tspan x="10" y="14234">631.  2017-04-19 14:25:21 +0000     8891 bytes  docs/jira-connector/1.5.0/ResolutionClient.html</tspan>
+<tspan x="10" y="14250">632.  2017-04-19 14:25:21 +0000    35591 bytes  docs/jira-connector/1.5.0/ScreensClient.html</tspan>
+<tspan x="10" y="14266">633.  2017-04-19 14:25:21 +0000    12330 bytes  docs/jira-connector/1.5.0/SearchClient.html</tspan>
+<tspan x="10" y="14282">634.  2017-04-19 14:25:21 +0000     7410 bytes  docs/jira-connector/1.5.0/SecurityLevelClient.ht\</tspan>
+<tspan x="10" y="14298">ml</tspan>
+<tspan x="10" y="14314">635.  2017-04-19 14:25:21 +0000     7648 bytes  docs/jira-connector/1.5.0/ServerInfoClient.html</tspan>
+<tspan x="10" y="14330">636.  2017-04-19 14:25:21 +0000     8860 bytes  docs/jira-connector/1.5.0/SettingsClient.html</tspan>
+<tspan x="10" y="14346">637.  2017-04-19 14:25:21 +0000     9007 bytes  docs/jira-connector/1.5.0/StatusCategoryClient.h\</tspan>
+<tspan x="10" y="14362">tml</tspan>
+<tspan x="10" y="14378">638.  2017-04-19 14:25:21 +0000     8793 bytes  docs/jira-connector/1.5.0/StatusClient.html</tspan>
+<tspan x="10" y="14394">639.  2017-04-19 14:25:21 +0000    67424 bytes  docs/jira-connector/1.5.0/UserClient.html</tspan>
+<tspan x="10" y="14410">640.  2017-04-19 14:25:21 +0000    37510 bytes  docs/jira-connector/1.5.0/VersionClient.html</tspan>
+<tspan x="10" y="14426">641.  2017-04-19 14:25:21 +0000     7644 bytes  docs/jira-connector/1.5.0/WorkflowClient.html</tspan>
+<tspan x="10" y="14442">642.  2017-04-19 14:25:21 +0000    73806 bytes  docs/jira-connector/1.5.0/WorkflowSchemeClient.h\</tspan>
+<tspan x="10" y="14458">tml</tspan>
+<tspan x="10" y="14474">643.  2017-04-19 14:25:21 +0000     6188 bytes  docs/jira-connector/1.5.0/api_application-proper\</tspan>
+<tspan x="10" y="14490">ties.js.html</tspan>
+<tspan x="10" y="14506">644.  2017-04-19 14:25:21 +0000     6237 bytes  docs/jira-connector/1.5.0/api_attachment.js.html</tspan>
+<tspan x="10" y="14522">645.  2017-04-19 14:25:21 +0000     6297 bytes  docs/jira-connector/1.5.0/api_auditing.js.html</tspan>
+<tspan x="10" y="14538">646.  2017-04-19 14:25:21 +0000     7360 bytes  docs/jira-connector/1.5.0/api_avatar.js.html</tspan>
+<tspan x="10" y="14554">647.  2017-04-19 14:25:21 +0000     9070 bytes  docs/jira-connector/1.5.0/api_comment.js.html</tspan>
+<tspan x="10" y="14570">648.  2017-04-19 14:25:21 +0000     7702 bytes  docs/jira-connector/1.5.0/api_component.js.html</tspan>
+<tspan x="10" y="14586">649.  2017-04-19 14:25:21 +0000     4812 bytes  docs/jira-connector/1.5.0/api_customFieldOption.\</tspan>
+<tspan x="10" y="14602">js.html</tspan>
+<tspan x="10" y="14618">650.  2017-04-19 14:25:21 +0000     6273 bytes  docs/jira-connector/1.5.0/api_dashboard.js.html</tspan>
+<tspan x="10" y="14634">651.  2017-04-19 14:25:21 +0000     5122 bytes  docs/jira-connector/1.5.0/api_field.js.html</tspan>
+<tspan x="10" y="14650">652.  2017-04-19 14:25:21 +0000    12308 bytes  docs/jira-connector/1.5.0/api_filter.js.html</tspan>
+<tspan x="10" y="14666">653.  2017-04-19 14:25:21 +0000     8708 bytes  docs/jira-connector/1.5.0/api_group.js.html</tspan>
+<tspan x="10" y="14682">654.  2017-04-19 14:25:21 +0000     6125 bytes  docs/jira-connector/1.5.0/api_groupUserPicker.js\</tspan>
+<tspan x="10" y="14698">.html</tspan>
+<tspan x="10" y="14714">655.  2017-04-19 14:25:21 +0000     5309 bytes  docs/jira-connector/1.5.0/api_groups.js.html</tspan>
+<tspan x="10" y="14730">656.  2017-04-19 14:25:21 +0000    52154 bytes  docs/jira-connector/1.5.0/api_issue.js.html</tspan>
+<tspan x="10" y="14746">657.  2017-04-19 14:25:21 +0000     7229 bytes  docs/jira-connector/1.5.0/api_issueLink.js.html</tspan>
+<tspan x="10" y="14762">658.  2017-04-19 14:25:21 +0000     7983 bytes  docs/jira-connector/1.5.0/api_issueLinkType.js.h\</tspan>
+<tspan x="10" y="14778">tml</tspan>
+<tspan x="10" y="14794">659.  2017-04-19 14:25:21 +0000     5115 bytes  docs/jira-connector/1.5.0/api_issueType.js.html</tspan>
+<tspan x="10" y="14810">660.  2017-04-19 14:25:21 +0000     4494 bytes  docs/jira-connector/1.5.0/api_jql.js.html</tspan>
+<tspan x="10" y="14826">661.  2017-04-19 14:25:21 +0000     6041 bytes  docs/jira-connector/1.5.0/api_licenseRole.js.htm\</tspan>
+<tspan x="10" y="14842">l</tspan>
+<tspan x="10" y="14858">662.  2017-04-19 14:25:21 +0000     4577 bytes  docs/jira-connector/1.5.0/api_licenseValidator.j\</tspan>
+<tspan x="10" y="14874">s.html</tspan>
+<tspan x="10" y="14890">663.  2017-04-19 14:25:21 +0000     5805 bytes  docs/jira-connector/1.5.0/api_myPermissions.js.h\</tspan>
+<tspan x="10" y="14906">tml</tspan>
+<tspan x="10" y="14922">664.  2017-04-19 14:25:21 +0000     6356 bytes  docs/jira-connector/1.5.0/api_myPreferences.js.h\</tspan>
+<tspan x="10" y="14938">tml</tspan>
+<tspan x="10" y="14954">665.  2017-04-19 14:25:21 +0000     5891 bytes  docs/jira-connector/1.5.0/api_myself.js.html</tspan>
+<tspan x="10" y="14970">666.  2017-04-19 14:25:21 +0000     4855 bytes  docs/jira-connector/1.5.0/api_password.js.html</tspan>
+<tspan x="10" y="14986">667.  2017-04-19 14:25:21 +0000     5092 bytes  docs/jira-connector/1.5.0/api_priority.js.html</tspan>
+<tspan x="10" y="15002">668.  2017-04-19 14:25:21 +0000    10964 bytes  docs/jira-connector/1.5.0/api_project.js.html</tspan>
+<tspan x="10" y="15018">669.  2017-04-19 14:25:21 +0000     4849 bytes  docs/jira-connector/1.5.0/api_projectValidate.js\</tspan>
+<tspan x="10" y="15034">.html</tspan>
+<tspan x="10" y="15050">670.  2017-04-19 14:25:21 +0000     6398 bytes  docs/jira-connector/1.5.0/api_reindex.js.html</tspan>
+<tspan x="10" y="15066">671.  2017-04-19 14:25:21 +0000     5130 bytes  docs/jira-connector/1.5.0/api_resolution.js.html</tspan>
+<tspan x="10" y="15082">672.  2017-04-19 14:25:21 +0000    13026 bytes  docs/jira-connector/1.5.0/api_screens.js.html</tspan>
+<tspan x="10" y="15098">673.  2017-04-19 14:25:21 +0000     6669 bytes  docs/jira-connector/1.5.0/api_search.js.html</tspan>
+<tspan x="10" y="15114">674.  2017-04-19 14:25:21 +0000     4636 bytes  docs/jira-connector/1.5.0/api_securityLevel.js.h\</tspan>
+<tspan x="10" y="15130">tml</tspan>
+<tspan x="10" y="15146">675.  2017-04-19 14:25:21 +0000     4662 bytes  docs/jira-connector/1.5.0/api_serverInfo.js.html</tspan>
+<tspan x="10" y="15162">676.  2017-04-19 14:25:21 +0000     5132 bytes  docs/jira-connector/1.5.0/api_settings.js.html</tspan>
+<tspan x="10" y="15178">677.  2017-04-19 14:25:21 +0000     5048 bytes  docs/jira-connector/1.5.0/api_status.js.html</tspan>
+<tspan x="10" y="15194">678.  2017-04-19 14:25:21 +0000     5235 bytes  docs/jira-connector/1.5.0/api_statusCategory.js.\</tspan>
+<tspan x="10" y="15210">html</tspan>
+<tspan x="10" y="15226">679.  2017-04-19 14:25:21 +0000    24682 bytes  docs/jira-connector/1.5.0/api_user.js.html</tspan>
+<tspan x="10" y="15242">680.  2017-04-19 14:25:21 +0000    14090 bytes  docs/jira-connector/1.5.0/api_version.js.html</tspan>
+<tspan x="10" y="15258">681.  2017-04-19 14:25:21 +0000     4729 bytes  docs/jira-connector/1.5.0/api_workflow.js.html</tspan>
+<tspan x="10" y="15274">682.  2017-04-19 14:25:21 +0000    25104 bytes  docs/jira-connector/1.5.0/api_workflowScheme.js.\</tspan>
+<tspan x="10" y="15290">html</tspan>
+<tspan x="10" y="15306">683.  2017-04-19 14:25:21 +0000    19544 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="15322">bfont.eot</tspan>
+<tspan x="10" y="15338">684.  2017-04-19 14:25:21 +0000   118259 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="15354">bfont.svg</tspan>
+<tspan x="10" y="15370">685.  2017-04-19 14:25:21 +0000    22432 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="15386">bfont.woff</tspan>
+<tspan x="10" y="15402">686.  2017-04-19 14:25:21 +0000    20133 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="15418">lic-webfont.eot</tspan>
+<tspan x="10" y="15434">687.  2017-04-19 14:25:21 +0000   121112 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="15450">lic-webfont.svg</tspan>
+<tspan x="10" y="15466">688.  2017-04-19 14:25:21 +0000    23048 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="15482">lic-webfont.woff</tspan>
+<tspan x="10" y="15498">689.  2017-04-19 14:25:21 +0000    20265 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="15514">webfont.eot</tspan>
+<tspan x="10" y="15530">690.  2017-04-19 14:25:21 +0000   122495 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="15546">webfont.svg</tspan>
+<tspan x="10" y="15562">691.  2017-04-19 14:25:21 +0000    23188 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="15578">webfont.woff</tspan>
+<tspan x="10" y="15594">692.  2017-04-19 14:25:21 +0000    19514 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="15610">ebfont.eot</tspan>
+<tspan x="10" y="15626">693.  2017-04-19 14:25:21 +0000   117270 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="15642">ebfont.svg</tspan>
+<tspan x="10" y="15658">694.  2017-04-19 14:25:21 +0000    22248 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="15674">ebfont.woff</tspan>
+<tspan x="10" y="15690">695.  2017-04-19 14:25:21 +0000    20535 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="15706">alic-webfont.eot</tspan>
+<tspan x="10" y="15722">696.  2017-04-19 14:25:21 +0000   122968 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="15738">alic-webfont.svg</tspan>
+<tspan x="10" y="15754">697.  2017-04-19 14:25:21 +0000    23400 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="15770">alic-webfont.woff</tspan>
+<tspan x="10" y="15786">698.  2017-04-19 14:25:21 +0000    19836 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="15802">-webfont.eot</tspan>
+<tspan x="10" y="15818">699.  2017-04-19 14:25:21 +0000   119399 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="15834">-webfont.svg</tspan>
+<tspan x="10" y="15850">700.  2017-04-19 14:25:21 +0000    22660 bytes  docs/jira-connector/1.5.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="15866">-webfont.woff</tspan>
+<tspan x="10" y="15882">701.  2017-04-19 14:25:21 +0000    19422 bytes  docs/jira-connector/1.5.0/index.html</tspan>
+<tspan x="10" y="15898">702.  2017-04-19 14:25:21 +0000    14278 bytes  docs/jira-connector/1.5.0/index.js.html</tspan>
+<tspan x="10" y="15914">703.  2017-04-19 14:25:21 +0000    10473 bytes  docs/jira-connector/1.5.0/lib_oauth_util.js.html</tspan>
+<tspan x="10" y="15930">704.  2017-04-19 14:25:21 +0000      674 bytes  docs/jira-connector/1.5.0/scripts/linenumber.js</tspan>
+<tspan x="10" y="15946">705.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.5.0/scripts/prettify/Apach\</tspan>
+<tspan x="10" y="15962">e-License-2.0.txt</tspan>
+<tspan x="10" y="15978">706.  2017-04-19 14:25:21 +0000      861 bytes  docs/jira-connector/1.5.0/scripts/prettify/lang-\</tspan>
+<tspan x="10" y="15994">css.js</tspan>
+<tspan x="10" y="16010">707.  2017-04-19 14:25:21 +0000    13632 bytes  docs/jira-connector/1.5.0/scripts/prettify/prett\</tspan>
+<tspan x="10" y="16026">ify.js</tspan>
+<tspan x="10" y="16042">708.  2017-04-19 14:25:21 +0000     5956 bytes  docs/jira-connector/1.5.0/styles/jsdoc-default.c\</tspan>
+<tspan x="10" y="16058">ss</tspan>
+<tspan x="10" y="16074">709.  2017-04-19 14:25:21 +0000     1535 bytes  docs/jira-connector/1.5.0/styles/prettify-jsdoc.\</tspan>
+<tspan x="10" y="16090">css</tspan>
+<tspan x="10" y="16106">710.  2017-04-19 14:25:21 +0000     2026 bytes  docs/jira-connector/1.5.0/styles/prettify-tomorr\</tspan>
+<tspan x="10" y="16122">ow.css</tspan>
+<tspan x="10" y="16138">711.  2017-04-19 14:25:21 +0000    12040 bytes  docs/jira-connector/1.6.0/ApplicationPropertiesC\</tspan>
+<tspan x="10" y="16154">lient.html</tspan>
+<tspan x="10" y="16170">712.  2017-04-19 14:25:21 +0000    11274 bytes  docs/jira-connector/1.6.0/AttachmentClient.html</tspan>
+<tspan x="10" y="16186">713.  2017-04-19 14:25:21 +0000    12134 bytes  docs/jira-connector/1.6.0/AuditingClient.html</tspan>
+<tspan x="10" y="16202">714.  2017-04-19 14:25:21 +0000    13376 bytes  docs/jira-connector/1.6.0/AvatarClient.html</tspan>
+<tspan x="10" y="16218">715.  2017-04-19 14:25:21 +0000    15700 bytes  docs/jira-connector/1.6.0/CommentClient.html</tspan>
+<tspan x="10" y="16234">716.  2017-04-19 14:25:21 +0000    17434 bytes  docs/jira-connector/1.6.0/ComponentClient.html</tspan>
+<tspan x="10" y="16250">717.  2017-04-19 14:25:21 +0000     7631 bytes  docs/jira-connector/1.6.0/CustomFieldOptionClien\</tspan>
+<tspan x="10" y="16266">t.html</tspan>
+<tspan x="10" y="16282">718.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.6.0/DashboardClient.html</tspan>
+<tspan x="10" y="16298">719.  2017-04-19 14:25:21 +0000     8979 bytes  docs/jira-connector/1.6.0/FieldClient.html</tspan>
+<tspan x="10" y="16314">720.  2017-04-19 14:25:21 +0000    28698 bytes  docs/jira-connector/1.6.0/FilterClient.html</tspan>
+<tspan x="10" y="16330">721.  2017-04-19 14:25:21 +0000    18848 bytes  docs/jira-connector/1.6.0/GroupClient.html</tspan>
+<tspan x="10" y="16346">722.  2017-04-19 14:25:21 +0000    11339 bytes  docs/jira-connector/1.6.0/GroupUserPickerClient.\</tspan>
+<tspan x="10" y="16362">html</tspan>
+<tspan x="10" y="16378">723.  2017-04-19 14:25:21 +0000     8694 bytes  docs/jira-connector/1.6.0/GroupsClient.html</tspan>
+<tspan x="10" y="16394">724.  2017-04-19 14:25:21 +0000   156904 bytes  docs/jira-connector/1.6.0/IssueClient.html</tspan>
+<tspan x="10" y="16410">725.  2017-04-19 14:25:21 +0000    12677 bytes  docs/jira-connector/1.6.0/IssueLinkClient.html</tspan>
+<tspan x="10" y="16426">726.  2017-04-19 14:25:21 +0000    16251 bytes  docs/jira-connector/1.6.0/IssueLinkTypeClient.ht\</tspan>
+<tspan x="10" y="16442">ml</tspan>
+<tspan x="10" y="16458">727.  2017-04-19 14:25:21 +0000     8943 bytes  docs/jira-connector/1.6.0/IssueTypeClient.html</tspan>
+<tspan x="10" y="16474">728.  2017-04-19 14:25:21 +0000    33405 bytes  docs/jira-connector/1.6.0/JiraClient.html</tspan>
+<tspan x="10" y="16490">729.  2017-04-19 14:25:21 +0000     6771 bytes  docs/jira-connector/1.6.0/JqlClient.html</tspan>
+<tspan x="10" y="16506">730.  2017-04-19 14:25:21 +0000    11658 bytes  docs/jira-connector/1.6.0/LicenseRoleClient.html</tspan>
+<tspan x="10" y="16522">731.  2017-04-19 14:25:21 +0000     7387 bytes  docs/jira-connector/1.6.0/LicenseValidatorClient\</tspan>
+<tspan x="10" y="16538">.html</tspan>
+<tspan x="10" y="16554">732.  2017-04-19 14:25:21 +0000     8072 bytes  docs/jira-connector/1.6.0/MyPermissionsClient.ht\</tspan>
+<tspan x="10" y="16570">ml</tspan>
+<tspan x="10" y="16586">733.  2017-04-19 14:25:21 +0000    12304 bytes  docs/jira-connector/1.6.0/MyPreferencesClient.ht\</tspan>
+<tspan x="10" y="16602">ml</tspan>
+<tspan x="10" y="16618">734.  2017-04-19 14:25:21 +0000    11243 bytes  docs/jira-connector/1.6.0/MyselfClient.html</tspan>
+<tspan x="10" y="16634">735.  2017-04-19 14:25:21 +0000    32055 bytes  docs/jira-connector/1.6.0/OauthUtil.html</tspan>
+<tspan x="10" y="16650">736.  2017-04-19 14:25:21 +0000     8038 bytes  docs/jira-connector/1.6.0/PasswordClient.html</tspan>
+<tspan x="10" y="16666">737.  2017-04-19 14:25:21 +0000     8916 bytes  docs/jira-connector/1.6.0/PriorityClient.html</tspan>
+<tspan x="10" y="16682">738.  2017-04-19 14:25:21 +0000     9090 bytes  docs/jira-connector/1.6.0/ProjectCategoryClient.\</tspan>
+<tspan x="10" y="16698">html</tspan>
+<tspan x="10" y="16714">739.  2017-04-19 14:25:21 +0000    25871 bytes  docs/jira-connector/1.6.0/ProjectClient.html</tspan>
+<tspan x="10" y="16730">740.  2017-04-19 14:25:21 +0000     7696 bytes  docs/jira-connector/1.6.0/ProjectValidateClient.\</tspan>
+<tspan x="10" y="16746">html</tspan>
+<tspan x="10" y="16762">741.  2017-04-19 14:25:21 +0000    12308 bytes  docs/jira-connector/1.6.0/ReindexClient.html</tspan>
+<tspan x="10" y="16778">742.  2017-04-19 14:25:21 +0000     8962 bytes  docs/jira-connector/1.6.0/ResolutionClient.html</tspan>
+<tspan x="10" y="16794">743.  2017-04-19 14:25:21 +0000    35662 bytes  docs/jira-connector/1.6.0/ScreensClient.html</tspan>
+<tspan x="10" y="16810">744.  2017-04-19 14:25:21 +0000    12401 bytes  docs/jira-connector/1.6.0/SearchClient.html</tspan>
+<tspan x="10" y="16826">745.  2017-04-19 14:25:21 +0000     7481 bytes  docs/jira-connector/1.6.0/SecurityLevelClient.ht\</tspan>
+<tspan x="10" y="16842">ml</tspan>
+<tspan x="10" y="16858">746.  2017-04-19 14:25:21 +0000     7719 bytes  docs/jira-connector/1.6.0/ServerInfoClient.html</tspan>
+<tspan x="10" y="16874">747.  2017-04-19 14:25:21 +0000     8931 bytes  docs/jira-connector/1.6.0/SettingsClient.html</tspan>
+<tspan x="10" y="16890">748.  2017-04-19 14:25:21 +0000     9078 bytes  docs/jira-connector/1.6.0/StatusCategoryClient.h\</tspan>
+<tspan x="10" y="16906">tml</tspan>
+<tspan x="10" y="16922">749.  2017-04-19 14:25:21 +0000     8864 bytes  docs/jira-connector/1.6.0/StatusClient.html</tspan>
+<tspan x="10" y="16938">750.  2017-04-19 14:25:21 +0000    67495 bytes  docs/jira-connector/1.6.0/UserClient.html</tspan>
+<tspan x="10" y="16954">751.  2017-04-19 14:25:21 +0000    37581 bytes  docs/jira-connector/1.6.0/VersionClient.html</tspan>
+<tspan x="10" y="16970">752.  2017-04-19 14:25:21 +0000     7715 bytes  docs/jira-connector/1.6.0/WorkflowClient.html</tspan>
+<tspan x="10" y="16986">753.  2017-04-19 14:25:21 +0000    73877 bytes  docs/jira-connector/1.6.0/WorkflowSchemeClient.h\</tspan>
+<tspan x="10" y="17002">tml</tspan>
+<tspan x="10" y="17018">754.  2017-04-19 14:25:21 +0000     6259 bytes  docs/jira-connector/1.6.0/api_application-proper\</tspan>
+<tspan x="10" y="17034">ties.js.html</tspan>
+<tspan x="10" y="17050">755.  2017-04-19 14:25:21 +0000     6308 bytes  docs/jira-connector/1.6.0/api_attachment.js.html</tspan>
+<tspan x="10" y="17066">756.  2017-04-19 14:25:21 +0000     6368 bytes  docs/jira-connector/1.6.0/api_auditing.js.html</tspan>
+<tspan x="10" y="17082">757.  2017-04-19 14:25:21 +0000     7431 bytes  docs/jira-connector/1.6.0/api_avatar.js.html</tspan>
+<tspan x="10" y="17098">758.  2017-04-19 14:25:21 +0000     9141 bytes  docs/jira-connector/1.6.0/api_comment.js.html</tspan>
+<tspan x="10" y="17114">759.  2017-04-19 14:25:21 +0000     7773 bytes  docs/jira-connector/1.6.0/api_component.js.html</tspan>
+<tspan x="10" y="17130">760.  2017-04-19 14:25:21 +0000     4883 bytes  docs/jira-connector/1.6.0/api_customFieldOption.\</tspan>
+<tspan x="10" y="17146">js.html</tspan>
+<tspan x="10" y="17162">761.  2017-04-19 14:25:21 +0000     6344 bytes  docs/jira-connector/1.6.0/api_dashboard.js.html</tspan>
+<tspan x="10" y="17178">762.  2017-04-19 14:25:21 +0000     5193 bytes  docs/jira-connector/1.6.0/api_field.js.html</tspan>
+<tspan x="10" y="17194">763.  2017-04-19 14:25:21 +0000    12379 bytes  docs/jira-connector/1.6.0/api_filter.js.html</tspan>
+<tspan x="10" y="17210">764.  2017-04-19 14:25:21 +0000     8779 bytes  docs/jira-connector/1.6.0/api_group.js.html</tspan>
+<tspan x="10" y="17226">765.  2017-04-19 14:25:21 +0000     6196 bytes  docs/jira-connector/1.6.0/api_groupUserPicker.js\</tspan>
+<tspan x="10" y="17242">.html</tspan>
+<tspan x="10" y="17258">766.  2017-04-19 14:25:21 +0000     5380 bytes  docs/jira-connector/1.6.0/api_groups.js.html</tspan>
+<tspan x="10" y="17274">767.  2017-04-19 14:25:21 +0000    52225 bytes  docs/jira-connector/1.6.0/api_issue.js.html</tspan>
+<tspan x="10" y="17290">768.  2017-04-19 14:25:21 +0000     7300 bytes  docs/jira-connector/1.6.0/api_issueLink.js.html</tspan>
+<tspan x="10" y="17306">769.  2017-04-19 14:25:21 +0000     8054 bytes  docs/jira-connector/1.6.0/api_issueLinkType.js.h\</tspan>
+<tspan x="10" y="17322">tml</tspan>
+<tspan x="10" y="17338">770.  2017-04-19 14:25:21 +0000     5186 bytes  docs/jira-connector/1.6.0/api_issueType.js.html</tspan>
+<tspan x="10" y="17354">771.  2017-04-19 14:25:21 +0000     4565 bytes  docs/jira-connector/1.6.0/api_jql.js.html</tspan>
+<tspan x="10" y="17370">772.  2017-04-19 14:25:21 +0000     6112 bytes  docs/jira-connector/1.6.0/api_licenseRole.js.htm\</tspan>
+<tspan x="10" y="17386">l</tspan>
+<tspan x="10" y="17402">773.  2017-04-19 14:25:21 +0000     4648 bytes  docs/jira-connector/1.6.0/api_licenseValidator.j\</tspan>
+<tspan x="10" y="17418">s.html</tspan>
+<tspan x="10" y="17434">774.  2017-04-19 14:25:21 +0000     5876 bytes  docs/jira-connector/1.6.0/api_myPermissions.js.h\</tspan>
+<tspan x="10" y="17450">tml</tspan>
+<tspan x="10" y="17466">775.  2017-04-19 14:25:21 +0000     6427 bytes  docs/jira-connector/1.6.0/api_myPreferences.js.h\</tspan>
+<tspan x="10" y="17482">tml</tspan>
+<tspan x="10" y="17498">776.  2017-04-19 14:25:21 +0000     5962 bytes  docs/jira-connector/1.6.0/api_myself.js.html</tspan>
+<tspan x="10" y="17514">777.  2017-04-19 14:25:21 +0000     4926 bytes  docs/jira-connector/1.6.0/api_password.js.html</tspan>
+<tspan x="10" y="17530">778.  2017-04-19 14:25:21 +0000     5163 bytes  docs/jira-connector/1.6.0/api_priority.js.html</tspan>
+<tspan x="10" y="17546">779.  2017-04-19 14:25:21 +0000    11035 bytes  docs/jira-connector/1.6.0/api_project.js.html</tspan>
+<tspan x="10" y="17562">780.  2017-04-19 14:25:21 +0000     5310 bytes  docs/jira-connector/1.6.0/api_projectCategory.js\</tspan>
+<tspan x="10" y="17578">.html</tspan>
+<tspan x="10" y="17594">781.  2017-04-19 14:25:21 +0000     4920 bytes  docs/jira-connector/1.6.0/api_projectValidate.js\</tspan>
+<tspan x="10" y="17610">.html</tspan>
+<tspan x="10" y="17626">782.  2017-04-19 14:25:21 +0000     6469 bytes  docs/jira-connector/1.6.0/api_reindex.js.html</tspan>
+<tspan x="10" y="17642">783.  2017-04-19 14:25:21 +0000     5201 bytes  docs/jira-connector/1.6.0/api_resolution.js.html</tspan>
+<tspan x="10" y="17658">784.  2017-04-19 14:25:21 +0000    13097 bytes  docs/jira-connector/1.6.0/api_screens.js.html</tspan>
+<tspan x="10" y="17674">785.  2017-04-19 14:25:21 +0000     6740 bytes  docs/jira-connector/1.6.0/api_search.js.html</tspan>
+<tspan x="10" y="17690">786.  2017-04-19 14:25:21 +0000     4707 bytes  docs/jira-connector/1.6.0/api_securityLevel.js.h\</tspan>
+<tspan x="10" y="17706">tml</tspan>
+<tspan x="10" y="17722">787.  2017-04-19 14:25:21 +0000     4733 bytes  docs/jira-connector/1.6.0/api_serverInfo.js.html</tspan>
+<tspan x="10" y="17738">788.  2017-04-19 14:25:21 +0000     5203 bytes  docs/jira-connector/1.6.0/api_settings.js.html</tspan>
+<tspan x="10" y="17754">789.  2017-04-19 14:25:21 +0000     5119 bytes  docs/jira-connector/1.6.0/api_status.js.html</tspan>
+<tspan x="10" y="17770">790.  2017-04-19 14:25:21 +0000     5306 bytes  docs/jira-connector/1.6.0/api_statusCategory.js.\</tspan>
+<tspan x="10" y="17786">html</tspan>
+<tspan x="10" y="17802">791.  2017-04-19 14:25:21 +0000    24753 bytes  docs/jira-connector/1.6.0/api_user.js.html</tspan>
+<tspan x="10" y="17818">792.  2017-04-19 14:25:21 +0000    14161 bytes  docs/jira-connector/1.6.0/api_version.js.html</tspan>
+<tspan x="10" y="17834">793.  2017-04-19 14:25:21 +0000     4800 bytes  docs/jira-connector/1.6.0/api_workflow.js.html</tspan>
+<tspan x="10" y="17850">794.  2017-04-19 14:25:21 +0000    25175 bytes  docs/jira-connector/1.6.0/api_workflowScheme.js.\</tspan>
+<tspan x="10" y="17866">html</tspan>
+<tspan x="10" y="17882">795.  2017-04-19 14:25:21 +0000    19544 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="17898">bfont.eot</tspan>
+<tspan x="10" y="17914">796.  2017-04-19 14:25:21 +0000   118259 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="17930">bfont.svg</tspan>
+<tspan x="10" y="17946">797.  2017-04-19 14:25:21 +0000    22432 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="17962">bfont.woff</tspan>
+<tspan x="10" y="17978">798.  2017-04-19 14:25:21 +0000    20133 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="17994">lic-webfont.eot</tspan>
+<tspan x="10" y="18010">799.  2017-04-19 14:25:21 +0000   121112 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="18026">lic-webfont.svg</tspan>
+<tspan x="10" y="18042">800.  2017-04-19 14:25:21 +0000    23048 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="18058">lic-webfont.woff</tspan>
+<tspan x="10" y="18074">801.  2017-04-19 14:25:21 +0000    20265 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="18090">webfont.eot</tspan>
+<tspan x="10" y="18106">802.  2017-04-19 14:25:21 +0000   122495 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="18122">webfont.svg</tspan>
+<tspan x="10" y="18138">803.  2017-04-19 14:25:21 +0000    23188 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="18154">webfont.woff</tspan>
+<tspan x="10" y="18170">804.  2017-04-19 14:25:21 +0000    19514 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="18186">ebfont.eot</tspan>
+<tspan x="10" y="18202">805.  2017-04-19 14:25:21 +0000   117270 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="18218">ebfont.svg</tspan>
+<tspan x="10" y="18234">806.  2017-04-19 14:25:21 +0000    22248 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="18250">ebfont.woff</tspan>
+<tspan x="10" y="18266">807.  2017-04-19 14:25:21 +0000    20535 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="18282">alic-webfont.eot</tspan>
+<tspan x="10" y="18298">808.  2017-04-19 14:25:21 +0000   122968 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="18314">alic-webfont.svg</tspan>
+<tspan x="10" y="18330">809.  2017-04-19 14:25:21 +0000    23400 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="18346">alic-webfont.woff</tspan>
+<tspan x="10" y="18362">810.  2017-04-19 14:25:21 +0000    19836 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="18378">-webfont.eot</tspan>
+<tspan x="10" y="18394">811.  2017-04-19 14:25:21 +0000   119399 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="18410">-webfont.svg</tspan>
+<tspan x="10" y="18426">812.  2017-04-19 14:25:21 +0000    22660 bytes  docs/jira-connector/1.6.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="18442">-webfont.woff</tspan>
+<tspan x="10" y="18458">813.  2017-04-19 14:25:21 +0000    19620 bytes  docs/jira-connector/1.6.0/index.html</tspan>
+<tspan x="10" y="18474">814.  2017-04-19 14:25:21 +0000    14512 bytes  docs/jira-connector/1.6.0/index.js.html</tspan>
+<tspan x="10" y="18490">815.  2017-04-19 14:25:21 +0000    10544 bytes  docs/jira-connector/1.6.0/lib_oauth_util.js.html</tspan>
+<tspan x="10" y="18506">816.  2017-04-19 14:25:21 +0000      674 bytes  docs/jira-connector/1.6.0/scripts/linenumber.js</tspan>
+<tspan x="10" y="18522">817.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.6.0/scripts/prettify/Apach\</tspan>
+<tspan x="10" y="18538">e-License-2.0.txt</tspan>
+<tspan x="10" y="18554">818.  2017-04-19 14:25:21 +0000      861 bytes  docs/jira-connector/1.6.0/scripts/prettify/lang-\</tspan>
+<tspan x="10" y="18570">css.js</tspan>
+<tspan x="10" y="18586">819.  2017-04-19 14:25:21 +0000    13632 bytes  docs/jira-connector/1.6.0/scripts/prettify/prett\</tspan>
+<tspan x="10" y="18602">ify.js</tspan>
+<tspan x="10" y="18618">820.  2017-04-19 14:25:21 +0000     5956 bytes  docs/jira-connector/1.6.0/styles/jsdoc-default.c\</tspan>
+<tspan x="10" y="18634">ss</tspan>
+<tspan x="10" y="18650">821.  2017-04-19 14:25:21 +0000     1535 bytes  docs/jira-connector/1.6.0/styles/prettify-jsdoc.\</tspan>
+<tspan x="10" y="18666">css</tspan>
+<tspan x="10" y="18682">822.  2017-04-19 14:25:21 +0000     2026 bytes  docs/jira-connector/1.6.0/styles/prettify-tomorr\</tspan>
+<tspan x="10" y="18698">ow.css</tspan>
+<tspan x="10" y="18714">823.  2017-04-19 14:25:21 +0000    12040 bytes  docs/jira-connector/1.7.0/ApplicationPropertiesC\</tspan>
+<tspan x="10" y="18730">lient.html</tspan>
+<tspan x="10" y="18746">824.  2017-04-19 14:25:21 +0000    11274 bytes  docs/jira-connector/1.7.0/AttachmentClient.html</tspan>
+<tspan x="10" y="18762">825.  2017-04-19 14:25:21 +0000    12134 bytes  docs/jira-connector/1.7.0/AuditingClient.html</tspan>
+<tspan x="10" y="18778">826.  2017-04-19 14:25:21 +0000    13376 bytes  docs/jira-connector/1.7.0/AvatarClient.html</tspan>
+<tspan x="10" y="18794">827.  2017-04-19 14:25:21 +0000    15700 bytes  docs/jira-connector/1.7.0/CommentClient.html</tspan>
+<tspan x="10" y="18810">828.  2017-04-19 14:25:21 +0000    17434 bytes  docs/jira-connector/1.7.0/ComponentClient.html</tspan>
+<tspan x="10" y="18826">829.  2017-04-19 14:25:21 +0000     7631 bytes  docs/jira-connector/1.7.0/CustomFieldOptionClien\</tspan>
+<tspan x="10" y="18842">t.html</tspan>
+<tspan x="10" y="18858">830.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.7.0/DashboardClient.html</tspan>
+<tspan x="10" y="18874">831.  2017-04-19 14:25:21 +0000     8979 bytes  docs/jira-connector/1.7.0/FieldClient.html</tspan>
+<tspan x="10" y="18890">832.  2017-04-19 14:25:21 +0000    28698 bytes  docs/jira-connector/1.7.0/FilterClient.html</tspan>
+<tspan x="10" y="18906">833.  2017-04-19 14:25:21 +0000    18848 bytes  docs/jira-connector/1.7.0/GroupClient.html</tspan>
+<tspan x="10" y="18922">834.  2017-04-19 14:25:21 +0000    11339 bytes  docs/jira-connector/1.7.0/GroupUserPickerClient.\</tspan>
+<tspan x="10" y="18938">html</tspan>
+<tspan x="10" y="18954">835.  2017-04-19 14:25:21 +0000     8694 bytes  docs/jira-connector/1.7.0/GroupsClient.html</tspan>
+<tspan x="10" y="18970">836.  2017-04-19 14:25:21 +0000   156906 bytes  docs/jira-connector/1.7.0/IssueClient.html</tspan>
+<tspan x="10" y="18986">837.  2017-04-19 14:25:21 +0000    12677 bytes  docs/jira-connector/1.7.0/IssueLinkClient.html</tspan>
+<tspan x="10" y="19002">838.  2017-04-19 14:25:21 +0000    16251 bytes  docs/jira-connector/1.7.0/IssueLinkTypeClient.ht\</tspan>
+<tspan x="10" y="19018">ml</tspan>
+<tspan x="10" y="19034">839.  2017-04-19 14:25:21 +0000     8943 bytes  docs/jira-connector/1.7.0/IssueTypeClient.html</tspan>
+<tspan x="10" y="19050">840.  2017-04-19 14:25:21 +0000    33405 bytes  docs/jira-connector/1.7.0/JiraClient.html</tspan>
+<tspan x="10" y="19066">841.  2017-04-19 14:25:21 +0000     6771 bytes  docs/jira-connector/1.7.0/JqlClient.html</tspan>
+<tspan x="10" y="19082">842.  2017-04-19 14:25:21 +0000    11658 bytes  docs/jira-connector/1.7.0/LicenseRoleClient.html</tspan>
+<tspan x="10" y="19098">843.  2017-04-19 14:25:21 +0000     7387 bytes  docs/jira-connector/1.7.0/LicenseValidatorClient\</tspan>
+<tspan x="10" y="19114">.html</tspan>
+<tspan x="10" y="19130">844.  2017-04-19 14:25:21 +0000     8072 bytes  docs/jira-connector/1.7.0/MyPermissionsClient.ht\</tspan>
+<tspan x="10" y="19146">ml</tspan>
+<tspan x="10" y="19162">845.  2017-04-19 14:25:21 +0000    12304 bytes  docs/jira-connector/1.7.0/MyPreferencesClient.ht\</tspan>
+<tspan x="10" y="19178">ml</tspan>
+<tspan x="10" y="19194">846.  2017-04-19 14:25:21 +0000    11243 bytes  docs/jira-connector/1.7.0/MyselfClient.html</tspan>
+<tspan x="10" y="19210">847.  2017-04-19 14:25:21 +0000    32055 bytes  docs/jira-connector/1.7.0/OauthUtil.html</tspan>
+<tspan x="10" y="19226">848.  2017-04-19 14:25:21 +0000     8038 bytes  docs/jira-connector/1.7.0/PasswordClient.html</tspan>
+<tspan x="10" y="19242">849.  2017-04-19 14:25:21 +0000     8916 bytes  docs/jira-connector/1.7.0/PriorityClient.html</tspan>
+<tspan x="10" y="19258">850.  2017-04-19 14:25:21 +0000     9090 bytes  docs/jira-connector/1.7.0/ProjectCategoryClient.\</tspan>
+<tspan x="10" y="19274">html</tspan>
+<tspan x="10" y="19290">851.  2017-04-19 14:25:21 +0000    25871 bytes  docs/jira-connector/1.7.0/ProjectClient.html</tspan>
+<tspan x="10" y="19306">852.  2017-04-19 14:25:21 +0000     7696 bytes  docs/jira-connector/1.7.0/ProjectValidateClient.\</tspan>
+<tspan x="10" y="19322">html</tspan>
+<tspan x="10" y="19338">853.  2017-04-19 14:25:21 +0000    12308 bytes  docs/jira-connector/1.7.0/ReindexClient.html</tspan>
+<tspan x="10" y="19354">854.  2017-04-19 14:25:21 +0000     8962 bytes  docs/jira-connector/1.7.0/ResolutionClient.html</tspan>
+<tspan x="10" y="19370">855.  2017-04-19 14:25:21 +0000    35662 bytes  docs/jira-connector/1.7.0/ScreensClient.html</tspan>
+<tspan x="10" y="19386">856.  2017-04-19 14:25:21 +0000    12401 bytes  docs/jira-connector/1.7.0/SearchClient.html</tspan>
+<tspan x="10" y="19402">857.  2017-04-19 14:25:21 +0000     7481 bytes  docs/jira-connector/1.7.0/SecurityLevelClient.ht\</tspan>
+<tspan x="10" y="19418">ml</tspan>
+<tspan x="10" y="19434">858.  2017-04-19 14:25:21 +0000     7719 bytes  docs/jira-connector/1.7.0/ServerInfoClient.html</tspan>
+<tspan x="10" y="19450">859.  2017-04-19 14:25:21 +0000     8931 bytes  docs/jira-connector/1.7.0/SettingsClient.html</tspan>
+<tspan x="10" y="19466">860.  2017-04-19 14:25:21 +0000     9078 bytes  docs/jira-connector/1.7.0/StatusCategoryClient.h\</tspan>
+<tspan x="10" y="19482">tml</tspan>
+<tspan x="10" y="19498">861.  2017-04-19 14:25:21 +0000     8864 bytes  docs/jira-connector/1.7.0/StatusClient.html</tspan>
+<tspan x="10" y="19514">862.  2017-04-19 14:25:21 +0000    67495 bytes  docs/jira-connector/1.7.0/UserClient.html</tspan>
+<tspan x="10" y="19530">863.  2017-04-19 14:25:21 +0000    37581 bytes  docs/jira-connector/1.7.0/VersionClient.html</tspan>
+<tspan x="10" y="19546">864.  2017-04-19 14:25:21 +0000     7715 bytes  docs/jira-connector/1.7.0/WorkflowClient.html</tspan>
+<tspan x="10" y="19562">865.  2017-04-19 14:25:21 +0000    73877 bytes  docs/jira-connector/1.7.0/WorkflowSchemeClient.h\</tspan>
+<tspan x="10" y="19578">tml</tspan>
+<tspan x="10" y="19594">866.  2017-04-19 14:25:21 +0000     6259 bytes  docs/jira-connector/1.7.0/api_application-proper\</tspan>
+<tspan x="10" y="19610">ties.js.html</tspan>
+<tspan x="10" y="19626">867.  2017-04-19 14:25:21 +0000     6308 bytes  docs/jira-connector/1.7.0/api_attachment.js.html</tspan>
+<tspan x="10" y="19642">868.  2017-04-19 14:25:21 +0000     6368 bytes  docs/jira-connector/1.7.0/api_auditing.js.html</tspan>
+<tspan x="10" y="19658">869.  2017-04-19 14:25:21 +0000     7431 bytes  docs/jira-connector/1.7.0/api_avatar.js.html</tspan>
+<tspan x="10" y="19674">870.  2017-04-19 14:25:21 +0000     9141 bytes  docs/jira-connector/1.7.0/api_comment.js.html</tspan>
+<tspan x="10" y="19690">871.  2017-04-19 14:25:21 +0000     7773 bytes  docs/jira-connector/1.7.0/api_component.js.html</tspan>
+<tspan x="10" y="19706">872.  2017-04-19 14:25:21 +0000     4883 bytes  docs/jira-connector/1.7.0/api_customFieldOption.\</tspan>
+<tspan x="10" y="19722">js.html</tspan>
+<tspan x="10" y="19738">873.  2017-04-19 14:25:21 +0000     6344 bytes  docs/jira-connector/1.7.0/api_dashboard.js.html</tspan>
+<tspan x="10" y="19754">874.  2017-04-19 14:25:21 +0000     5193 bytes  docs/jira-connector/1.7.0/api_field.js.html</tspan>
+<tspan x="10" y="19770">875.  2017-04-19 14:25:21 +0000    12379 bytes  docs/jira-connector/1.7.0/api_filter.js.html</tspan>
+<tspan x="10" y="19786">876.  2017-04-19 14:25:21 +0000     8779 bytes  docs/jira-connector/1.7.0/api_group.js.html</tspan>
+<tspan x="10" y="19802">877.  2017-04-19 14:25:21 +0000     6196 bytes  docs/jira-connector/1.7.0/api_groupUserPicker.js\</tspan>
+<tspan x="10" y="19818">.html</tspan>
+<tspan x="10" y="19834">878.  2017-04-19 14:25:21 +0000     5380 bytes  docs/jira-connector/1.7.0/api_groups.js.html</tspan>
+<tspan x="10" y="19850">879.  2017-04-19 14:25:21 +0000    52240 bytes  docs/jira-connector/1.7.0/api_issue.js.html</tspan>
+<tspan x="10" y="19866">880.  2017-04-19 14:25:21 +0000     7300 bytes  docs/jira-connector/1.7.0/api_issueLink.js.html</tspan>
+<tspan x="10" y="19882">881.  2017-04-19 14:25:21 +0000     8054 bytes  docs/jira-connector/1.7.0/api_issueLinkType.js.h\</tspan>
+<tspan x="10" y="19898">tml</tspan>
+<tspan x="10" y="19914">882.  2017-04-19 14:25:21 +0000     5186 bytes  docs/jira-connector/1.7.0/api_issueType.js.html</tspan>
+<tspan x="10" y="19930">883.  2017-04-19 14:25:21 +0000     4565 bytes  docs/jira-connector/1.7.0/api_jql.js.html</tspan>
+<tspan x="10" y="19946">884.  2017-04-19 14:25:21 +0000     6112 bytes  docs/jira-connector/1.7.0/api_licenseRole.js.htm\</tspan>
+<tspan x="10" y="19962">l</tspan>
+<tspan x="10" y="19978">885.  2017-04-19 14:25:21 +0000     4648 bytes  docs/jira-connector/1.7.0/api_licenseValidator.j\</tspan>
+<tspan x="10" y="19994">s.html</tspan>
+<tspan x="10" y="20010">886.  2017-04-19 14:25:21 +0000     5876 bytes  docs/jira-connector/1.7.0/api_myPermissions.js.h\</tspan>
+<tspan x="10" y="20026">tml</tspan>
+<tspan x="10" y="20042">887.  2017-04-19 14:25:21 +0000     6427 bytes  docs/jira-connector/1.7.0/api_myPreferences.js.h\</tspan>
+<tspan x="10" y="20058">tml</tspan>
+<tspan x="10" y="20074">888.  2017-04-19 14:25:21 +0000     5962 bytes  docs/jira-connector/1.7.0/api_myself.js.html</tspan>
+<tspan x="10" y="20090">889.  2017-04-19 14:25:21 +0000     4926 bytes  docs/jira-connector/1.7.0/api_password.js.html</tspan>
+<tspan x="10" y="20106">890.  2017-04-19 14:25:21 +0000     5163 bytes  docs/jira-connector/1.7.0/api_priority.js.html</tspan>
+<tspan x="10" y="20122">891.  2017-04-19 14:25:21 +0000    11035 bytes  docs/jira-connector/1.7.0/api_project.js.html</tspan>
+<tspan x="10" y="20138">892.  2017-04-19 14:25:21 +0000     5310 bytes  docs/jira-connector/1.7.0/api_projectCategory.js\</tspan>
+<tspan x="10" y="20154">.html</tspan>
+<tspan x="10" y="20170">893.  2017-04-19 14:25:21 +0000     4920 bytes  docs/jira-connector/1.7.0/api_projectValidate.js\</tspan>
+<tspan x="10" y="20186">.html</tspan>
+<tspan x="10" y="20202">894.  2017-04-19 14:25:21 +0000     6469 bytes  docs/jira-connector/1.7.0/api_reindex.js.html</tspan>
+<tspan x="10" y="20218">895.  2017-04-19 14:25:21 +0000     5201 bytes  docs/jira-connector/1.7.0/api_resolution.js.html</tspan>
+<tspan x="10" y="20234">896.  2017-04-19 14:25:21 +0000    13097 bytes  docs/jira-connector/1.7.0/api_screens.js.html</tspan>
+<tspan x="10" y="20250">897.  2017-04-19 14:25:21 +0000     6740 bytes  docs/jira-connector/1.7.0/api_search.js.html</tspan>
+<tspan x="10" y="20266">898.  2017-04-19 14:25:21 +0000     4707 bytes  docs/jira-connector/1.7.0/api_securityLevel.js.h\</tspan>
+<tspan x="10" y="20282">tml</tspan>
+<tspan x="10" y="20298">899.  2017-04-19 14:25:21 +0000     4733 bytes  docs/jira-connector/1.7.0/api_serverInfo.js.html</tspan>
+<tspan x="10" y="20314">900.  2017-04-19 14:25:21 +0000     5203 bytes  docs/jira-connector/1.7.0/api_settings.js.html</tspan>
+<tspan x="10" y="20330">901.  2017-04-19 14:25:21 +0000     5119 bytes  docs/jira-connector/1.7.0/api_status.js.html</tspan>
+<tspan x="10" y="20346">902.  2017-04-19 14:25:21 +0000     5306 bytes  docs/jira-connector/1.7.0/api_statusCategory.js.\</tspan>
+<tspan x="10" y="20362">html</tspan>
+<tspan x="10" y="20378">903.  2017-04-19 14:25:21 +0000    24753 bytes  docs/jira-connector/1.7.0/api_user.js.html</tspan>
+<tspan x="10" y="20394">904.  2017-04-19 14:25:21 +0000    14161 bytes  docs/jira-connector/1.7.0/api_version.js.html</tspan>
+<tspan x="10" y="20410">905.  2017-04-19 14:25:21 +0000     4800 bytes  docs/jira-connector/1.7.0/api_workflow.js.html</tspan>
+<tspan x="10" y="20426">906.  2017-04-19 14:25:21 +0000    25175 bytes  docs/jira-connector/1.7.0/api_workflowScheme.js.\</tspan>
+<tspan x="10" y="20442">html</tspan>
+<tspan x="10" y="20458">907.  2017-04-19 14:25:21 +0000    19544 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="20474">bfont.eot</tspan>
+<tspan x="10" y="20490">908.  2017-04-19 14:25:21 +0000   118259 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="20506">bfont.svg</tspan>
+<tspan x="10" y="20522">909.  2017-04-19 14:25:21 +0000    22432 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Bold-we\</tspan>
+<tspan x="10" y="20538">bfont.woff</tspan>
+<tspan x="10" y="20554">910.  2017-04-19 14:25:21 +0000    20133 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="20570">lic-webfont.eot</tspan>
+<tspan x="10" y="20586">911.  2017-04-19 14:25:21 +0000   121112 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="20602">lic-webfont.svg</tspan>
+<tspan x="10" y="20618">912.  2017-04-19 14:25:21 +0000    23048 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-BoldIta\</tspan>
+<tspan x="10" y="20634">lic-webfont.woff</tspan>
+<tspan x="10" y="20650">913.  2017-04-19 14:25:21 +0000    20265 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="20666">webfont.eot</tspan>
+<tspan x="10" y="20682">914.  2017-04-19 14:25:21 +0000   122495 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="20698">webfont.svg</tspan>
+<tspan x="10" y="20714">915.  2017-04-19 14:25:21 +0000    23188 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Italic-\</tspan>
+<tspan x="10" y="20730">webfont.woff</tspan>
+<tspan x="10" y="20746">916.  2017-04-19 14:25:21 +0000    19514 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="20762">ebfont.eot</tspan>
+<tspan x="10" y="20778">917.  2017-04-19 14:25:21 +0000   117270 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="20794">ebfont.svg</tspan>
+<tspan x="10" y="20810">918.  2017-04-19 14:25:21 +0000    22248 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Light-w\</tspan>
+<tspan x="10" y="20826">ebfont.woff</tspan>
+<tspan x="10" y="20842">919.  2017-04-19 14:25:21 +0000    20535 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="20858">alic-webfont.eot</tspan>
+<tspan x="10" y="20874">920.  2017-04-19 14:25:21 +0000   122968 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="20890">alic-webfont.svg</tspan>
+<tspan x="10" y="20906">921.  2017-04-19 14:25:21 +0000    23400 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-LightIt\</tspan>
+<tspan x="10" y="20922">alic-webfont.woff</tspan>
+<tspan x="10" y="20938">922.  2017-04-19 14:25:21 +0000    19836 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="20954">-webfont.eot</tspan>
+<tspan x="10" y="20970">923.  2017-04-19 14:25:21 +0000   119399 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="20986">-webfont.svg</tspan>
+<tspan x="10" y="21002">924.  2017-04-19 14:25:21 +0000    22660 bytes  docs/jira-connector/1.7.0/fonts/OpenSans-Regular\</tspan>
+<tspan x="10" y="21018">-webfont.woff</tspan>
+<tspan x="10" y="21034">925.  2017-04-19 14:25:21 +0000    19620 bytes  docs/jira-connector/1.7.0/index.html</tspan>
+<tspan x="10" y="21050">926.  2017-04-19 14:25:21 +0000    14512 bytes  docs/jira-connector/1.7.0/index.js.html</tspan>
+<tspan x="10" y="21066">927.  2017-04-19 14:25:21 +0000    10544 bytes  docs/jira-connector/1.7.0/lib_oauth_util.js.html</tspan>
+<tspan x="10" y="21082">928.  2017-04-19 14:25:21 +0000      674 bytes  docs/jira-connector/1.7.0/scripts/linenumber.js</tspan>
+<tspan x="10" y="21098">929.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.7.0/scripts/prettify/Apach\</tspan>
+<tspan x="10" y="21114">e-License-2.0.txt</tspan>
+<tspan x="10" y="21130">930.  2017-04-19 14:25:21 +0000      861 bytes  docs/jira-connector/1.7.0/scripts/prettify/lang-\</tspan>
+<tspan x="10" y="21146">css.js</tspan>
+<tspan x="10" y="21162">931.  2017-04-19 14:25:21 +0000    13632 bytes  docs/jira-connector/1.7.0/scripts/prettify/prett\</tspan>
+<tspan x="10" y="21178">ify.js</tspan>
+<tspan x="10" y="21194">932.  2017-04-19 14:25:21 +0000     5956 bytes  docs/jira-connector/1.7.0/styles/jsdoc-default.c\</tspan>
+<tspan x="10" y="21210">ss</tspan>
+<tspan x="10" y="21226">933.  2017-04-19 14:25:21 +0000     1535 bytes  docs/jira-connector/1.7.0/styles/prettify-jsdoc.\</tspan>
+<tspan x="10" y="21242">css</tspan>
+<tspan x="10" y="21258">934.  2017-04-19 14:25:21 +0000     2026 bytes  docs/jira-connector/1.7.0/styles/prettify-tomorr\</tspan>
+<tspan x="10" y="21274">ow.css</tspan>
+<tspan x="10" y="21290">935.  2017-04-19 14:25:21 +0000    11989 bytes  docs/jira-connector/1.8.0/ApplicationPropertiesC\</tspan>
+<tspan x="10" y="21306">lient.html</tspan>
+<tspan x="10" y="21322">936.  2017-04-19 14:25:21 +0000    11223 bytes  docs/jira-connector/1.8.0/AttachmentClient.html</tspan>
+<tspan x="10" y="21338">937.  2017-04-19 14:25:21 +0000    12083 bytes  docs/jira-connector/1.8.0/AuditingClient.html</tspan>
+<tspan x="10" y="21354">938.  2017-04-19 14:25:21 +0000    13325 bytes  docs/jira-connector/1.8.0/AvatarClient.html</tspan>
+<tspan x="10" y="21370">939.  2017-04-19 14:25:21 +0000    15649 bytes  docs/jira-connector/1.8.0/CommentClient.html</tspan>
+<tspan x="10" y="21386">940.  2017-04-19 14:25:21 +0000    17383 bytes  docs/jira-connector/1.8.0/ComponentClient.html</tspan>
+<tspan x="10" y="21402">941.  2017-04-19 14:25:21 +0000     7580 bytes  docs/jira-connector/1.8.0/CustomFieldOptionClien\</tspan>
+<tspan x="10" y="21418">t.html</tspan>
+<tspan x="10" y="21434">942.  2017-04-19 14:25:21 +0000    11307 bytes  docs/jira-connector/1.8.0/DashboardClient.html</tspan>
+<tspan x="10" y="21450">943.  2017-04-19 14:25:21 +0000     8928 bytes  docs/jira-connector/1.8.0/FieldClient.html</tspan>
+<tspan x="10" y="21466">944.  2017-04-19 14:25:21 +0000    28647 bytes  docs/jira-connector/1.8.0/FilterClient.html</tspan>
+<tspan x="10" y="21482">945.  2017-04-19 14:25:21 +0000    18797 bytes  docs/jira-connector/1.8.0/GroupClient.html</tspan>
+<tspan x="10" y="21498">946.  2017-04-19 14:25:21 +0000    11288 bytes  docs/jira-connector/1.8.0/GroupUserPickerClient.\</tspan>
+<tspan x="10" y="21514">html</tspan>
+<tspan x="10" y="21530">947.  2017-04-19 14:25:21 +0000     8643 bytes  docs/jira-connector/1.8.0/GroupsClient.html</tspan>
+<tspan x="10" y="21546">948.  2017-04-19 14:25:21 +0000    12626 bytes  docs/jira-connector/1.8.0/IssueLinkClient.html</tspan>
+<tspan x="10" y="21562">949.  2017-04-19 14:25:21 +0000    16200 bytes  docs/jira-connector/1.8.0/IssueLinkTypeClient.ht\</tspan>
+<tspan x="10" y="21578">ml</tspan>
+<tspan x="10" y="21594">950.  2017-04-19 14:25:21 +0000     8892 bytes  docs/jira-connector/1.8.0/IssueTypeClient.html</tspan>
+<tspan x="10" y="21610">951.  2017-04-19 14:25:21 +0000    33323 bytes  docs/jira-connector/1.8.0/JiraClient.html</tspan>
+<tspan x="10" y="21626">952.  2017-04-19 14:25:21 +0000     6720 bytes  docs/jira-connector/1.8.0/JqlClient.html</tspan>
+<tspan x="10" y="21642">953.  2017-04-19 14:25:21 +0000    11607 bytes  docs/jira-connector/1.8.0/LicenseRoleClient.html</tspan>
+<tspan x="10" y="21658">954.  2017-04-19 14:25:21 +0000     7336 bytes  docs/jira-connector/1.8.0/LicenseValidatorClient\</tspan>
+<tspan x="10" y="21674">.html</tspan>
+<tspan x="10" y="21690">955.  2017-04-19 14:25:21 +0000     8021 bytes  docs/jira-connector/1.8.0/MyPermissionsClient.ht\</tspan>
+<tspan x="10" y="21706">ml</tspan>
+<tspan x="10" y="21722">956.  2017-04-19 14:25:21 +0000    12253 bytes  docs/jira-connector/1.8.0/MyPreferencesClient.ht\</tspan>
+<tspan x="10" y="21738">ml</tspan>
+<tspan x="10" y="21754">957.  2017-04-19 14:25:21 +0000    11192 bytes  docs/jira-connector/1.8.0/MyselfClient.html</tspan>
+<tspan x="10" y="21770">958.  2017-04-19 14:25:21 +0000    32004 bytes  docs/jira-connector/1.8.0/OauthUtil.html</tspan>
+<tspan x="10" y="21786">959.  2017-04-19 14:25:21 +0000     7987 bytes  docs/jira-connector/1.8.0/PasswordClient.html</tspan>
+<tspan x="10" y="21802">960.  2017-04-19 14:25:21 +0000     8865 bytes  docs/jira-connector/1.8.0/PriorityClient.html</tspan>
+<tspan x="10" y="21818">961.  2017-04-19 14:25:21 +0000     9039 bytes  docs/jira-connector/1.8.0/ProjectCategoryClient.\</tspan>
+<tspan x="10" y="21834">html</tspan>
+<tspan x="10" y="21850">962.  2017-04-19 14:25:21 +0000    25820 bytes  docs/jira-connector/1.8.0/ProjectClient.html</tspan>
+<tspan x="10" y="21866">963.  2017-04-19 14:25:21 +0000     7645 bytes  docs/jira-connector/1.8.0/ProjectValidateClient.\</tspan>
+<tspan x="10" y="21882">html</tspan>
+<tspan x="10" y="21898">964.  2017-04-19 14:25:21 +0000    12257 bytes  docs/jira-connector/1.8.0/ReindexClient.html</tspan>
+<tspan x="10" y="21914">965.  2017-04-19 14:25:21 +0000     8911 bytes  docs/jira-connector/1.8.0/ResolutionClient.html</tspan>
+<tspan x="10" y="21930">966.  2017-04-19 14:25:21 +0000    35611 bytes  docs/jira-connector/1.8.0/ScreensClient.html</tspan>
+<tspan x="10" y="21946">967.  2017-04-19 14:25:21 +0000    12350 bytes  docs/jira-connector/1.8.0/SearchClient.html</tspan>
+<tspan x="10" y="21962">968.  2017-04-19 14:25:21 +0000     7430 bytes  docs/jira-connector/1.8.0/SecurityLevelClient.ht\</tspan>
+<tspan x="10" y="21978">ml</tspan>
+<tspan x="10" y="21994">969.  2017-04-19 14:25:21 +0000     7668 bytes  docs/jira-connector/1.8.0/ServerInfoClient.html</tspan>
+<tspan x="10" y="22010">970.  2017-04-19 14:25:21 +0000     8880 bytes  docs/jira-connector/1.8.0/SettingsClient.html</tspan>
+<tspan x="10" y="22026">971.  2017-04-19 14:25:21 +0000     9027 bytes  docs/jira-connector/1.8.0/StatusCategoryClient.h\</tspan>
+<tspan x="10" y="22042">tml</tspan>
+<tspan x="10" y="22058">972.  2017-04-19 14:25:21 +0000     8813 bytes  docs/jira-connector/1.8.0/StatusClient.html</tspan>
+<tspan x="10" y="22074">973.  2017-04-19 14:25:21 +0000    67444 bytes  docs/jira-connector/1.8.0/UserClient.html</tspan>
+<tspan x="10" y="22090">974.  2017-04-19 14:25:21 +0000    37530 bytes  docs/jira-connector/1.8.0/VersionClient.html</tspan>
+<tspan x="10" y="22106">975.  2017-04-19 14:25:21 +0000     7664 bytes  docs/jira-connector/1.8.0/WorkflowClient.html</tspan>
+<tspan x="10" y="22122">976.  2017-04-19 14:25:21 +0000    73826 bytes  docs/jira-connector/1.8.0/WorkflowSchemeClient.h\</tspan>
+<tspan x="10" y="22138">tml</tspan>
+<tspan x="10" y="22154">977.  2017-04-19 14:25:21 +0000     6208 bytes  docs/jira-connector/1.8.0/api_application-proper\</tspan>
+<tspan x="10" y="22170">ties.js.html</tspan>
+<tspan x="10" y="22186">978.  2017-04-19 14:25:21 +0000     6257 bytes  docs/jira-connector/1.8.0/api_attachment.js.html</tspan>
+<tspan x="10" y="22202">979.  2017-04-19 14:25:21 +0000     6317 bytes  docs/jira-connector/1.8.0/api_auditing.js.html</tspan>
+<tspan x="10" y="22218">980.  2017-04-19 14:25:21 +0000     7380 bytes  docs/jira-connector/1.8.0/api_avatar.js.html</tspan>
+<tspan x="10" y="22234">981.  2017-04-19 14:25:21 +0000     9090 bytes  docs/jira-connector/1.8.0/api_comment.js.html</tspan>
+<tspan x="10" y="22250">982.  2017-04-19 14:25:21 +0000     7722 bytes  docs/jira-connector/1.8.0/api_component.js.html</tspan>
+<tspan x="10" y="22266">983.  2017-04-19 14:25:21 +0000     4832 bytes  docs/jira-connector/1.8.0/api_customFieldOption.\</tspan>
+<tspan x="10" y="22282">js.html</tspan>
+<tspan x="10" y="22298">984.  2017-04-19 14:25:21 +0000     6293 bytes  docs/jira-connector/1.8.0/api_dashboard.js.html</tspan>
+<tspan x="10" y="22314">985.  2017-04-19 14:25:21 +0000     5142 bytes  docs/jira-connector/1.8.0/api_field.js.html</tspan>
+<tspan x="10" y="22330">986.  2017-04-19 14:25:21 +0000    12328 bytes  docs/jira-connector/1.8.0/api_filter.js.html</tspan>
+<tspan x="10" y="22346">987.  2017-04-19 14:25:21 +0000     8728 bytes  docs/jira-connector/1.8.0/api_group.js.html</tspan>
+<tspan x="10" y="22362">988.  2017-04-19 14:25:21 +0000     6145 bytes  docs/jira-connector/1.8.0/api_groupUserPicker.js\</tspan>
+<tspan x="10" y="22378">.html</tspan>
+<tspan x="10" y="22394">989.  2017-04-19 14:25:21 +0000     5329 bytes  docs/jira-connector/1.8.0/api_groups.js.html</tspan>
+<tspan x="10" y="22410">990.  2017-04-19 14:25:21 +0000     7249 bytes  docs/jira-connector/1.8.0/api_issueLink.js.html</tspan>
+<tspan x="10" y="22426">991.  2017-04-19 14:25:21 +0000     8003 bytes  docs/jira-connector/1.8.0/api_issueLinkType.js.h\</tspan>
+<tspan x="10" y="22442">tml</tspan>
+<tspan x="10" y="22458">992.  2017-04-19 14:25:21 +0000     5135 bytes  docs/jira-connector/1.8.0/api_issueType.js.html</tspan>
+<tspan x="10" y="22474">993.  2017-04-19 14:25:21 +0000     4514 bytes  docs/jira-connector/1.8.0/api_jql.js.html</tspan>
+<tspan x="10" y="22490">994.  2017-04-19 14:25:21 +0000     6061 bytes  docs/jira-connector/1.8.0/api_licenseRole.js.htm\</tspan>
+<tspan x="10" y="22506">l</tspan>
+<tspan x="10" y="22522">995.  2017-04-19 14:25:21 +0000     4597 bytes  docs/jira-connector/1.8.0/api_licenseValidator.j\</tspan>
+<tspan x="10" y="22538">s.html</tspan>
+<tspan x="10" y="22554">996.  2017-04-19 14:25:21 +0000     5825 bytes  docs/jira-connector/1.8.0/api_myPermissions.js.h\</tspan>
+<tspan x="10" y="22570">tml</tspan>
+<tspan x="10" y="22586">997.  2017-04-19 14:25:21 +0000     6376 bytes  docs/jira-connector/1.8.0/api_myPreferences.js.h\</tspan>
+<tspan x="10" y="22602">tml</tspan>
+<tspan x="10" y="22618">998.  2017-04-19 14:25:21 +0000     5911 bytes  docs/jira-connector/1.8.0/api_myself.js.html</tspan>
+<tspan x="10" y="22634">999.  2017-04-19 14:25:21 +0000     4875 bytes  docs/jira-connector/1.8.0/api_password.js.html</tspan>
+<tspan x="10" y="22650">1000.  2017-04-19 14:25:21 +0000     5112 bytes  docs/jira-connector/1.8.0/api_priority.js.html</tspan>
+<tspan x="10" y="22666">1001.  2017-04-19 14:25:21 +0000    10984 bytes  docs/jira-connector/1.8.0/api_project.js.html</tspan>
+<tspan x="10" y="22682">1002.  2017-04-19 14:25:21 +0000     5259 bytes  docs/jira-connector/1.8.0/api_projectCategory.j\</tspan>
+<tspan x="10" y="22698">s.html</tspan>
+<tspan x="10" y="22714">1003.  2017-04-19 14:25:21 +0000     4869 bytes  docs/jira-connector/1.8.0/api_projectValidate.j\</tspan>
+<tspan x="10" y="22730">s.html</tspan>
+<tspan x="10" y="22746">1004.  2017-04-19 14:25:21 +0000     6418 bytes  docs/jira-connector/1.8.0/api_reindex.js.html</tspan>
+<tspan x="10" y="22762">1005.  2017-04-19 14:25:21 +0000     5150 bytes  docs/jira-connector/1.8.0/api_resolution.js.htm\</tspan>
+<tspan x="10" y="22778">l</tspan>
+<tspan x="10" y="22794">1006.  2017-04-19 14:25:21 +0000    13046 bytes  docs/jira-connector/1.8.0/api_screens.js.html</tspan>
+<tspan x="10" y="22810">1007.  2017-04-19 14:25:21 +0000     6689 bytes  docs/jira-connector/1.8.0/api_search.js.html</tspan>
+<tspan x="10" y="22826">1008.  2017-04-19 14:25:21 +0000     4656 bytes  docs/jira-connector/1.8.0/api_securityLevel.js.\</tspan>
+<tspan x="10" y="22842">html</tspan>
+<tspan x="10" y="22858">1009.  2017-04-19 14:25:21 +0000     4682 bytes  docs/jira-connector/1.8.0/api_serverInfo.js.htm\</tspan>
+<tspan x="10" y="22874">l</tspan>
+<tspan x="10" y="22890">1010.  2017-04-19 14:25:21 +0000     5152 bytes  docs/jira-connector/1.8.0/api_settings.js.html</tspan>
+<tspan x="10" y="22906">1011.  2017-04-19 14:25:21 +0000     5068 bytes  docs/jira-connector/1.8.0/api_status.js.html</tspan>
+<tspan x="10" y="22922">1012.  2017-04-19 14:25:21 +0000     5255 bytes  docs/jira-connector/1.8.0/api_statusCategory.js\</tspan>
+<tspan x="10" y="22938">.html</tspan>
+<tspan x="10" y="22954">1013.  2017-04-19 14:25:21 +0000    24702 bytes  docs/jira-connector/1.8.0/api_user.js.html</tspan>
+<tspan x="10" y="22970">1014.  2017-04-19 14:25:21 +0000    14110 bytes  docs/jira-connector/1.8.0/api_version.js.html</tspan>
+<tspan x="10" y="22986">1015.  2017-04-19 14:25:21 +0000     4749 bytes  docs/jira-connector/1.8.0/api_workflow.js.html</tspan>
+<tspan x="10" y="23002">1016.  2017-04-19 14:25:21 +0000    25124 bytes  docs/jira-connector/1.8.0/api_workflowScheme.js\</tspan>
+<tspan x="10" y="23018">.html</tspan>
+<tspan x="10" y="23034">1017.  2017-04-19 14:25:21 +0000    19544 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="23050">ebfont.eot</tspan>
+<tspan x="10" y="23066">1018.  2017-04-19 14:25:21 +0000   118259 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="23082">ebfont.svg</tspan>
+<tspan x="10" y="23098">1019.  2017-04-19 14:25:21 +0000    22432 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="23114">ebfont.woff</tspan>
+<tspan x="10" y="23130">1020.  2017-04-19 14:25:21 +0000    20133 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="23146">alic-webfont.eot</tspan>
+<tspan x="10" y="23162">1021.  2017-04-19 14:25:21 +0000   121112 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="23178">alic-webfont.svg</tspan>
+<tspan x="10" y="23194">1022.  2017-04-19 14:25:21 +0000    23048 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="23210">alic-webfont.woff</tspan>
+<tspan x="10" y="23226">1023.  2017-04-19 14:25:21 +0000    20265 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="23242">-webfont.eot</tspan>
+<tspan x="10" y="23258">1024.  2017-04-19 14:25:21 +0000   122495 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="23274">-webfont.svg</tspan>
+<tspan x="10" y="23290">1025.  2017-04-19 14:25:21 +0000    23188 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="23306">-webfont.woff</tspan>
+<tspan x="10" y="23322">1026.  2017-04-19 14:25:21 +0000    19514 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="23338">webfont.eot</tspan>
+<tspan x="10" y="23354">1027.  2017-04-19 14:25:21 +0000   117270 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="23370">webfont.svg</tspan>
+<tspan x="10" y="23386">1028.  2017-04-19 14:25:21 +0000    22248 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="23402">webfont.woff</tspan>
+<tspan x="10" y="23418">1029.  2017-04-19 14:25:21 +0000    20535 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="23434">talic-webfont.eot</tspan>
+<tspan x="10" y="23450">1030.  2017-04-19 14:25:21 +0000   122968 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="23466">talic-webfont.svg</tspan>
+<tspan x="10" y="23482">1031.  2017-04-19 14:25:21 +0000    23400 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="23498">talic-webfont.woff</tspan>
+<tspan x="10" y="23514">1032.  2017-04-19 14:25:21 +0000    19836 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="23530">r-webfont.eot</tspan>
+<tspan x="10" y="23546">1033.  2017-04-19 14:25:21 +0000   119399 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="23562">r-webfont.svg</tspan>
+<tspan x="10" y="23578">1034.  2017-04-19 14:25:21 +0000    22660 bytes  docs/jira-connector/1.8.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="23594">r-webfont.woff</tspan>
+<tspan x="10" y="23610">1035.  2017-04-19 14:25:21 +0000    19568 bytes  docs/jira-connector/1.8.0/index.html</tspan>
+<tspan x="10" y="23626">1036.  2017-04-19 14:25:21 +0000    14461 bytes  docs/jira-connector/1.8.0/index.js.html</tspan>
+<tspan x="10" y="23642">1037.  2017-04-19 14:25:21 +0000    10493 bytes  docs/jira-connector/1.8.0/lib_oauth_util.js.htm\</tspan>
+<tspan x="10" y="23658">l</tspan>
+<tspan x="10" y="23674">1038.  2017-04-19 14:25:21 +0000      674 bytes  docs/jira-connector/1.8.0/scripts/linenumber.js</tspan>
+<tspan x="10" y="23690">1039.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.8.0/scripts/prettify/Apac\</tspan>
+<tspan x="10" y="23706">he-License-2.0.txt</tspan>
+<tspan x="10" y="23722">1040.  2017-04-19 14:25:21 +0000      861 bytes  docs/jira-connector/1.8.0/scripts/prettify/lang\</tspan>
+<tspan x="10" y="23738">-css.js</tspan>
+<tspan x="10" y="23754">1041.  2017-04-19 14:25:21 +0000    13632 bytes  docs/jira-connector/1.8.0/scripts/prettify/pret\</tspan>
+<tspan x="10" y="23770">tify.js</tspan>
+<tspan x="10" y="23786">1042.  2017-04-19 14:25:21 +0000     5956 bytes  docs/jira-connector/1.8.0/styles/jsdoc-default.\</tspan>
+<tspan x="10" y="23802">css</tspan>
+<tspan x="10" y="23818">1043.  2017-04-19 14:25:21 +0000     1535 bytes  docs/jira-connector/1.8.0/styles/prettify-jsdoc\</tspan>
+<tspan x="10" y="23834">.css</tspan>
+<tspan x="10" y="23850">1044.  2017-04-19 14:25:21 +0000     2026 bytes  docs/jira-connector/1.8.0/styles/prettify-tomor\</tspan>
+<tspan x="10" y="23866">row.css</tspan>
+<tspan x="10" y="23882">1045.  2017-04-19 14:25:21 +0000    12040 bytes  docs/jira-connector/1.9.0/ApplicationProperties\</tspan>
+<tspan x="10" y="23898">Client.html</tspan>
+<tspan x="10" y="23914">1046.  2017-04-19 14:25:21 +0000    11274 bytes  docs/jira-connector/1.9.0/AttachmentClient.html</tspan>
+<tspan x="10" y="23930">1047.  2017-04-19 14:25:21 +0000    12134 bytes  docs/jira-connector/1.9.0/AuditingClient.html</tspan>
+<tspan x="10" y="23946">1048.  2017-04-19 14:25:21 +0000    13376 bytes  docs/jira-connector/1.9.0/AvatarClient.html</tspan>
+<tspan x="10" y="23962">1049.  2017-04-19 14:25:21 +0000    15700 bytes  docs/jira-connector/1.9.0/CommentClient.html</tspan>
+<tspan x="10" y="23978">1050.  2017-04-19 14:25:21 +0000    17434 bytes  docs/jira-connector/1.9.0/ComponentClient.html</tspan>
+<tspan x="10" y="23994">1051.  2017-04-19 14:25:21 +0000     7631 bytes  docs/jira-connector/1.9.0/CustomFieldOptionClie\</tspan>
+<tspan x="10" y="24010">nt.html</tspan>
+<tspan x="10" y="24026">1052.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.9.0/DashboardClient.html</tspan>
+<tspan x="10" y="24042">1053.  2017-04-19 14:25:21 +0000     8979 bytes  docs/jira-connector/1.9.0/FieldClient.html</tspan>
+<tspan x="10" y="24058">1054.  2017-04-19 14:25:21 +0000    28698 bytes  docs/jira-connector/1.9.0/FilterClient.html</tspan>
+<tspan x="10" y="24074">1055.  2017-04-19 14:25:21 +0000    18848 bytes  docs/jira-connector/1.9.0/GroupClient.html</tspan>
+<tspan x="10" y="24090">1056.  2017-04-19 14:25:21 +0000    11339 bytes  docs/jira-connector/1.9.0/GroupUserPickerClient\</tspan>
+<tspan x="10" y="24106">.html</tspan>
+<tspan x="10" y="24122">1057.  2017-04-19 14:25:21 +0000     8694 bytes  docs/jira-connector/1.9.0/GroupsClient.html</tspan>
+<tspan x="10" y="24138">1058.  2017-04-19 14:25:21 +0000   156906 bytes  docs/jira-connector/1.9.0/IssueClient.html</tspan>
+<tspan x="10" y="24154">1059.  2017-04-19 14:25:21 +0000    12677 bytes  docs/jira-connector/1.9.0/IssueLinkClient.html</tspan>
+<tspan x="10" y="24170">1060.  2017-04-19 14:25:21 +0000    16251 bytes  docs/jira-connector/1.9.0/IssueLinkTypeClient.h\</tspan>
+<tspan x="10" y="24186">tml</tspan>
+<tspan x="10" y="24202">1061.  2017-04-19 14:25:21 +0000     8943 bytes  docs/jira-connector/1.9.0/IssueTypeClient.html</tspan>
+<tspan x="10" y="24218">1062.  2017-04-19 14:25:21 +0000    33405 bytes  docs/jira-connector/1.9.0/JiraClient.html</tspan>
+<tspan x="10" y="24234">1063.  2017-04-19 14:25:21 +0000     6771 bytes  docs/jira-connector/1.9.0/JqlClient.html</tspan>
+<tspan x="10" y="24250">1064.  2017-04-19 14:25:21 +0000    11658 bytes  docs/jira-connector/1.9.0/LicenseRoleClient.htm\</tspan>
+<tspan x="10" y="24266">l</tspan>
+<tspan x="10" y="24282">1065.  2017-04-19 14:25:21 +0000     7387 bytes  docs/jira-connector/1.9.0/LicenseValidatorClien\</tspan>
+<tspan x="10" y="24298">t.html</tspan>
+<tspan x="10" y="24314">1066.  2017-04-19 14:25:21 +0000     8072 bytes  docs/jira-connector/1.9.0/MyPermissionsClient.h\</tspan>
+<tspan x="10" y="24330">tml</tspan>
+<tspan x="10" y="24346">1067.  2017-04-19 14:25:21 +0000    12304 bytes  docs/jira-connector/1.9.0/MyPreferencesClient.h\</tspan>
+<tspan x="10" y="24362">tml</tspan>
+<tspan x="10" y="24378">1068.  2017-04-19 14:25:21 +0000    11243 bytes  docs/jira-connector/1.9.0/MyselfClient.html</tspan>
+<tspan x="10" y="24394">1069.  2017-04-19 14:25:21 +0000    32055 bytes  docs/jira-connector/1.9.0/OauthUtil.html</tspan>
+<tspan x="10" y="24410">1070.  2017-04-19 14:25:21 +0000     8038 bytes  docs/jira-connector/1.9.0/PasswordClient.html</tspan>
+<tspan x="10" y="24426">1071.  2017-04-19 14:25:21 +0000     8916 bytes  docs/jira-connector/1.9.0/PriorityClient.html</tspan>
+<tspan x="10" y="24442">1072.  2017-04-19 14:25:21 +0000     9090 bytes  docs/jira-connector/1.9.0/ProjectCategoryClient\</tspan>
+<tspan x="10" y="24458">.html</tspan>
+<tspan x="10" y="24474">1073.  2017-04-19 14:25:21 +0000    25871 bytes  docs/jira-connector/1.9.0/ProjectClient.html</tspan>
+<tspan x="10" y="24490">1074.  2017-04-19 14:25:21 +0000     7696 bytes  docs/jira-connector/1.9.0/ProjectValidateClient\</tspan>
+<tspan x="10" y="24506">.html</tspan>
+<tspan x="10" y="24522">1075.  2017-04-19 14:25:21 +0000    12308 bytes  docs/jira-connector/1.9.0/ReindexClient.html</tspan>
+<tspan x="10" y="24538">1076.  2017-04-19 14:25:21 +0000     8962 bytes  docs/jira-connector/1.9.0/ResolutionClient.html</tspan>
+<tspan x="10" y="24554">1077.  2017-04-19 14:25:21 +0000    35662 bytes  docs/jira-connector/1.9.0/ScreensClient.html</tspan>
+<tspan x="10" y="24570">1078.  2017-04-19 14:25:21 +0000    12401 bytes  docs/jira-connector/1.9.0/SearchClient.html</tspan>
+<tspan x="10" y="24586">1079.  2017-04-19 14:25:21 +0000     7481 bytes  docs/jira-connector/1.9.0/SecurityLevelClient.h\</tspan>
+<tspan x="10" y="24602">tml</tspan>
+<tspan x="10" y="24618">1080.  2017-04-19 14:25:21 +0000     7719 bytes  docs/jira-connector/1.9.0/ServerInfoClient.html</tspan>
+<tspan x="10" y="24634">1081.  2017-04-19 14:25:21 +0000     8931 bytes  docs/jira-connector/1.9.0/SettingsClient.html</tspan>
+<tspan x="10" y="24650">1082.  2017-04-19 14:25:21 +0000     9078 bytes  docs/jira-connector/1.9.0/StatusCategoryClient.\</tspan>
+<tspan x="10" y="24666">html</tspan>
+<tspan x="10" y="24682">1083.  2017-04-19 14:25:21 +0000     8864 bytes  docs/jira-connector/1.9.0/StatusClient.html</tspan>
+<tspan x="10" y="24698">1084.  2017-04-19 14:25:21 +0000    67495 bytes  docs/jira-connector/1.9.0/UserClient.html</tspan>
+<tspan x="10" y="24714">1085.  2017-04-19 14:25:21 +0000    37581 bytes  docs/jira-connector/1.9.0/VersionClient.html</tspan>
+<tspan x="10" y="24730">1086.  2017-04-19 14:25:21 +0000     7715 bytes  docs/jira-connector/1.9.0/WorkflowClient.html</tspan>
+<tspan x="10" y="24746">1087.  2017-04-19 14:25:21 +0000    73877 bytes  docs/jira-connector/1.9.0/WorkflowSchemeClient.\</tspan>
+<tspan x="10" y="24762">html</tspan>
+<tspan x="10" y="24778">1088.  2017-04-19 14:25:21 +0000     6259 bytes  docs/jira-connector/1.9.0/api_application-prope\</tspan>
+<tspan x="10" y="24794">rties.js.html</tspan>
+<tspan x="10" y="24810">1089.  2017-04-19 14:25:21 +0000     6308 bytes  docs/jira-connector/1.9.0/api_attachment.js.htm\</tspan>
+<tspan x="10" y="24826">l</tspan>
+<tspan x="10" y="24842">1090.  2017-04-19 14:25:21 +0000     6368 bytes  docs/jira-connector/1.9.0/api_auditing.js.html</tspan>
+<tspan x="10" y="24858">1091.  2017-04-19 14:25:21 +0000     7431 bytes  docs/jira-connector/1.9.0/api_avatar.js.html</tspan>
+<tspan x="10" y="24874">1092.  2017-04-19 14:25:21 +0000     9141 bytes  docs/jira-connector/1.9.0/api_comment.js.html</tspan>
+<tspan x="10" y="24890">1093.  2017-04-19 14:25:21 +0000     7773 bytes  docs/jira-connector/1.9.0/api_component.js.html</tspan>
+<tspan x="10" y="24906">1094.  2017-04-19 14:25:21 +0000     4883 bytes  docs/jira-connector/1.9.0/api_customFieldOption\</tspan>
+<tspan x="10" y="24922">.js.html</tspan>
+<tspan x="10" y="24938">1095.  2017-04-19 14:25:21 +0000     6344 bytes  docs/jira-connector/1.9.0/api_dashboard.js.html</tspan>
+<tspan x="10" y="24954">1096.  2017-04-19 14:25:21 +0000     5193 bytes  docs/jira-connector/1.9.0/api_field.js.html</tspan>
+<tspan x="10" y="24970">1097.  2017-04-19 14:25:21 +0000    12379 bytes  docs/jira-connector/1.9.0/api_filter.js.html</tspan>
+<tspan x="10" y="24986">1098.  2017-04-19 14:25:21 +0000     8779 bytes  docs/jira-connector/1.9.0/api_group.js.html</tspan>
+<tspan x="10" y="25002">1099.  2017-04-19 14:25:21 +0000     6196 bytes  docs/jira-connector/1.9.0/api_groupUserPicker.j\</tspan>
+<tspan x="10" y="25018">s.html</tspan>
+<tspan x="10" y="25034">1100.  2017-04-19 14:25:21 +0000     5380 bytes  docs/jira-connector/1.9.0/api_groups.js.html</tspan>
+<tspan x="10" y="25050">1101.  2017-04-19 14:25:21 +0000    52433 bytes  docs/jira-connector/1.9.0/api_issue.js.html</tspan>
+<tspan x="10" y="25066">1102.  2017-04-19 14:25:21 +0000     7300 bytes  docs/jira-connector/1.9.0/api_issueLink.js.html</tspan>
+<tspan x="10" y="25082">1103.  2017-04-19 14:25:21 +0000     8054 bytes  docs/jira-connector/1.9.0/api_issueLinkType.js.\</tspan>
+<tspan x="10" y="25098">html</tspan>
+<tspan x="10" y="25114">1104.  2017-04-19 14:25:21 +0000     5186 bytes  docs/jira-connector/1.9.0/api_issueType.js.html</tspan>
+<tspan x="10" y="25130">1105.  2017-04-19 14:25:21 +0000     4565 bytes  docs/jira-connector/1.9.0/api_jql.js.html</tspan>
+<tspan x="10" y="25146">1106.  2017-04-19 14:25:21 +0000     6112 bytes  docs/jira-connector/1.9.0/api_licenseRole.js.ht\</tspan>
+<tspan x="10" y="25162">ml</tspan>
+<tspan x="10" y="25178">1107.  2017-04-19 14:25:21 +0000     4648 bytes  docs/jira-connector/1.9.0/api_licenseValidator.\</tspan>
+<tspan x="10" y="25194">js.html</tspan>
+<tspan x="10" y="25210">1108.  2017-04-19 14:25:21 +0000     5876 bytes  docs/jira-connector/1.9.0/api_myPermissions.js.\</tspan>
+<tspan x="10" y="25226">html</tspan>
+<tspan x="10" y="25242">1109.  2017-04-19 14:25:21 +0000     6427 bytes  docs/jira-connector/1.9.0/api_myPreferences.js.\</tspan>
+<tspan x="10" y="25258">html</tspan>
+<tspan x="10" y="25274">1110.  2017-04-19 14:25:21 +0000     5962 bytes  docs/jira-connector/1.9.0/api_myself.js.html</tspan>
+<tspan x="10" y="25290">1111.  2017-04-19 14:25:21 +0000     4926 bytes  docs/jira-connector/1.9.0/api_password.js.html</tspan>
+<tspan x="10" y="25306">1112.  2017-04-19 14:25:21 +0000     5163 bytes  docs/jira-connector/1.9.0/api_priority.js.html</tspan>
+<tspan x="10" y="25322">1113.  2017-04-19 14:25:21 +0000    11035 bytes  docs/jira-connector/1.9.0/api_project.js.html</tspan>
+<tspan x="10" y="25338">1114.  2017-04-19 14:25:21 +0000     5310 bytes  docs/jira-connector/1.9.0/api_projectCategory.j\</tspan>
+<tspan x="10" y="25354">s.html</tspan>
+<tspan x="10" y="25370">1115.  2017-04-19 14:25:21 +0000     4920 bytes  docs/jira-connector/1.9.0/api_projectValidate.j\</tspan>
+<tspan x="10" y="25386">s.html</tspan>
+<tspan x="10" y="25402">1116.  2017-04-19 14:25:21 +0000     6469 bytes  docs/jira-connector/1.9.0/api_reindex.js.html</tspan>
+<tspan x="10" y="25418">1117.  2017-04-19 14:25:21 +0000     5201 bytes  docs/jira-connector/1.9.0/api_resolution.js.htm\</tspan>
+<tspan x="10" y="25434">l</tspan>
+<tspan x="10" y="25450">1118.  2017-04-19 14:25:21 +0000    13097 bytes  docs/jira-connector/1.9.0/api_screens.js.html</tspan>
+<tspan x="10" y="25466">1119.  2017-04-19 14:25:21 +0000     6740 bytes  docs/jira-connector/1.9.0/api_search.js.html</tspan>
+<tspan x="10" y="25482">1120.  2017-04-19 14:25:21 +0000     4707 bytes  docs/jira-connector/1.9.0/api_securityLevel.js.\</tspan>
+<tspan x="10" y="25498">html</tspan>
+<tspan x="10" y="25514">1121.  2017-04-19 14:25:21 +0000     4733 bytes  docs/jira-connector/1.9.0/api_serverInfo.js.htm\</tspan>
+<tspan x="10" y="25530">l</tspan>
+<tspan x="10" y="25546">1122.  2017-04-19 14:25:21 +0000     5203 bytes  docs/jira-connector/1.9.0/api_settings.js.html</tspan>
+<tspan x="10" y="25562">1123.  2017-04-19 14:25:21 +0000     5119 bytes  docs/jira-connector/1.9.0/api_status.js.html</tspan>
+<tspan x="10" y="25578">1124.  2017-04-19 14:25:21 +0000     5306 bytes  docs/jira-connector/1.9.0/api_statusCategory.js\</tspan>
+<tspan x="10" y="25594">.html</tspan>
+<tspan x="10" y="25610">1125.  2017-04-19 14:25:21 +0000    24753 bytes  docs/jira-connector/1.9.0/api_user.js.html</tspan>
+<tspan x="10" y="25626">1126.  2017-04-19 14:25:21 +0000    14161 bytes  docs/jira-connector/1.9.0/api_version.js.html</tspan>
+<tspan x="10" y="25642">1127.  2017-04-19 14:25:21 +0000     4800 bytes  docs/jira-connector/1.9.0/api_workflow.js.html</tspan>
+<tspan x="10" y="25658">1128.  2017-04-19 14:25:21 +0000    25175 bytes  docs/jira-connector/1.9.0/api_workflowScheme.js\</tspan>
+<tspan x="10" y="25674">.html</tspan>
+<tspan x="10" y="25690">1129.  2017-04-19 14:25:21 +0000    19544 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="25706">ebfont.eot</tspan>
+<tspan x="10" y="25722">1130.  2017-04-19 14:25:21 +0000   118259 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="25738">ebfont.svg</tspan>
+<tspan x="10" y="25754">1131.  2017-04-19 14:25:21 +0000    22432 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Bold-w\</tspan>
+<tspan x="10" y="25770">ebfont.woff</tspan>
+<tspan x="10" y="25786">1132.  2017-04-19 14:25:21 +0000    20133 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="25802">alic-webfont.eot</tspan>
+<tspan x="10" y="25818">1133.  2017-04-19 14:25:21 +0000   121112 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="25834">alic-webfont.svg</tspan>
+<tspan x="10" y="25850">1134.  2017-04-19 14:25:21 +0000    23048 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-BoldIt\</tspan>
+<tspan x="10" y="25866">alic-webfont.woff</tspan>
+<tspan x="10" y="25882">1135.  2017-04-19 14:25:21 +0000    20265 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="25898">-webfont.eot</tspan>
+<tspan x="10" y="25914">1136.  2017-04-19 14:25:21 +0000   122495 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="25930">-webfont.svg</tspan>
+<tspan x="10" y="25946">1137.  2017-04-19 14:25:21 +0000    23188 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Italic\</tspan>
+<tspan x="10" y="25962">-webfont.woff</tspan>
+<tspan x="10" y="25978">1138.  2017-04-19 14:25:21 +0000    19514 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="25994">webfont.eot</tspan>
+<tspan x="10" y="26010">1139.  2017-04-19 14:25:21 +0000   117270 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="26026">webfont.svg</tspan>
+<tspan x="10" y="26042">1140.  2017-04-19 14:25:21 +0000    22248 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Light-\</tspan>
+<tspan x="10" y="26058">webfont.woff</tspan>
+<tspan x="10" y="26074">1141.  2017-04-19 14:25:21 +0000    20535 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="26090">talic-webfont.eot</tspan>
+<tspan x="10" y="26106">1142.  2017-04-19 14:25:21 +0000   122968 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="26122">talic-webfont.svg</tspan>
+<tspan x="10" y="26138">1143.  2017-04-19 14:25:21 +0000    23400 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-LightI\</tspan>
+<tspan x="10" y="26154">talic-webfont.woff</tspan>
+<tspan x="10" y="26170">1144.  2017-04-19 14:25:21 +0000    19836 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="26186">r-webfont.eot</tspan>
+<tspan x="10" y="26202">1145.  2017-04-19 14:25:21 +0000   119399 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="26218">r-webfont.svg</tspan>
+<tspan x="10" y="26234">1146.  2017-04-19 14:25:21 +0000    22660 bytes  docs/jira-connector/1.9.0/fonts/OpenSans-Regula\</tspan>
+<tspan x="10" y="26250">r-webfont.woff</tspan>
+<tspan x="10" y="26266">1147.  2017-04-19 14:25:21 +0000    19619 bytes  docs/jira-connector/1.9.0/index.html</tspan>
+<tspan x="10" y="26282">1148.  2017-04-19 14:25:21 +0000    14512 bytes  docs/jira-connector/1.9.0/index.js.html</tspan>
+<tspan x="10" y="26298">1149.  2017-04-19 14:25:21 +0000    10544 bytes  docs/jira-connector/1.9.0/lib_oauth_util.js.htm\</tspan>
+<tspan x="10" y="26314">l</tspan>
+<tspan x="10" y="26330">1150.  2017-04-19 14:25:21 +0000      674 bytes  docs/jira-connector/1.9.0/scripts/linenumber.js</tspan>
+<tspan x="10" y="26346">1151.  2017-04-19 14:25:21 +0000    11358 bytes  docs/jira-connector/1.9.0/scripts/prettify/Apac\</tspan>
+<tspan x="10" y="26362">he-License-2.0.txt</tspan>
+<tspan x="10" y="26378">1152.  2017-04-19 14:25:21 +0000      861 bytes  docs/jira-connector/1.9.0/scripts/prettify/lang\</tspan>
+<tspan x="10" y="26394">-css.js</tspan>
+<tspan x="10" y="26410">1153.  2017-04-19 14:25:21 +0000    13632 bytes  docs/jira-connector/1.9.0/scripts/prettify/pret\</tspan>
+<tspan x="10" y="26426">tify.js</tspan>
+<tspan x="10" y="26442">1154.  2017-04-19 14:25:21 +0000     5956 bytes  docs/jira-connector/1.9.0/styles/jsdoc-default.\</tspan>
+<tspan x="10" y="26458">css</tspan>
+<tspan x="10" y="26474">1155.  2017-04-19 14:25:21 +0000     1535 bytes  docs/jira-connector/1.9.0/styles/prettify-jsdoc\</tspan>
+<tspan x="10" y="26490">.css</tspan>
+<tspan x="10" y="26506">1156.  2017-04-19 14:25:21 +0000     2026 bytes  docs/jira-connector/1.9.0/styles/prettify-tomor\</tspan>
+<tspan x="10" y="26522">row.css</tspan>
+<tspan x="10" y="26538">1157.  2017-04-19 14:25:21 +0000    14864 bytes  index.js</tspan>
+<tspan x="10" y="26554">1158.  2017-04-19 14:25:21 +0000      362 bytes  jsdoc.json</tspan>
+<tspan x="10" y="26570">1159.  2017-04-19 14:25:21 +0000     2254 bytes  lib/error.js</tspan>
+<tspan x="10" y="26586">1160.  2017-04-19 14:25:21 +0000     7193 bytes  lib/oauth_util.js</tspan>
+<tspan x="10" y="26602">1161.  2017-04-19 14:25:21 +0000     2447 bytes  package.json</tspan>
+</text>
+</svg>
